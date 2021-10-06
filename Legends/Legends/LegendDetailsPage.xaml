@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Legends.LegendDetailsPage" xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core" xmlns:helpers="clr-namespace:Legends.Helpers"
+            android:TabbedPage.ToolbarPlacement="Bottom">
+    <!--<StackLayout>
+            <Label x:Name="lblLegendName"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>-->
+    <helpers:Details Title="Details" IconImageSource="/Resources/detailsIcon.png">
+        <StackLayout>
+            <Label x:Name="lblLegendDetails" 
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </helpers:Details>
+    <helpers:Abilities Title="Abilities" IconImageSource="/Resources/abilityIcon.png">
+        
+    </helpers:Abilities>
+    <helpers:Lore Title="Lore" IconImageSource="/Resources/loreIcon.png">
+        
+    </helpers:Lore>
+</TabbedPage>
