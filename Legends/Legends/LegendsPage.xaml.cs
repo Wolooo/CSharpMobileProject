@@ -196,6 +196,7 @@ namespace Legends
                 var tapGestureRecognizer = new TapGestureRecognizer();
                 tapGestureRecognizer.Tapped += (s, e) =>
                 {
+                    //Hoe geven we de naam door naar de details page + hoe hoe deserializen van json file
                     Navigation.PushAsync(new LegendDetailsPage(legend.Name));
                 };
 
