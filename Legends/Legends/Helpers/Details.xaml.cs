@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Newtonsoft.Json;
+using System.IO;
+using Legends.Data;
 
 namespace Legends.Helpers
 {
@@ -15,6 +18,12 @@ namespace Legends.Helpers
         public Details()
         {
             InitializeComponent();
+            string json = string.Empty;
+            using (StreamReader sr = new StreamReader(@"/Assets/champion.json"))
+            {
+                json = sr.ReadToEnd();
+                var result = JsonConvert.DeserializeObject<ResponseModel>(json);
+            } 
         }
     }
 }
