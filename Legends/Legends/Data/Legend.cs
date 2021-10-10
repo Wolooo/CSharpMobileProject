@@ -6,6 +6,7 @@ namespace Legends.Data
 {
     public class Legend
     {
+        public string Version { get; set; }
         public int Id { get; set; }
         public string Key { get; set; }
         public string Name { get; set; }
