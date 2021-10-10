@@ -40,7 +40,7 @@ namespace Legends
 
                 legendList = JsonConvert.DeserializeObject<ResponseModel>(jsonString);
             }
-            listviewChampions.ItemsSource = legendList.Data;
+            //listviewChampions.ItemsSource = legendList.Data;
         }
     }
 }

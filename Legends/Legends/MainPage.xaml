@@ -3,16 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Legends.MainPage"> <!--BackgroundColor="#2e2e2e"-->
 
-    <!--<StackLayout>
+    <StackLayout>
         <Button x:Name="LegendsPage" Text="Legends" Clicked="LegendsPage_Clicked"></Button>
-    </StackLayout>-->
+    </StackLayout>
 
-    <ListView x:Name="listviewChampions">
+    <!--<ListView x:Name="listviewChampions">
         <ListView.ItemTemplate>
             <DataTemplate>
                 <TextCell Text="{Binding Value.Name}" Detail="{Binding Value.Title}" />
             </DataTemplate>
         </ListView.ItemTemplate>
-    </ListView>
+    </ListView>-->
 
 </ContentPage>
