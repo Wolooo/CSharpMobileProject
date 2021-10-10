@@ -29,6 +29,7 @@ namespace Legends
         public void GetJsonData()
         {
             string jsonFileName = "legends.json";
+            ResponseModel legendList = new ResponseModel();
             var assembly = typeof(MainPage).GetTypeInfo().Assembly;
 
             Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.{jsonFileName}");
@@ -37,8 +38,9 @@ namespace Legends
             {
                 var jsonString = reader.ReadToEnd();
 
-                ResponseModel legendList = JsonConvert.DeserializeObject<ResponseModel>(jsonString);
+                legendList = JsonConvert.DeserializeObject<ResponseModel>(jsonString);
             }
+            listviewChampions.ItemsSource = legendList.Data;
         }
     }
 }
