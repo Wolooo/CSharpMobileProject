@@ -17,30 +17,11 @@ namespace Legends
         public MainPage()
         {
             InitializeComponent();
-
-            GetJsonData();
         }
 
         private async void LegendsPage_Clicked(object sender, EventArgs e)
         {
             await this.Navigation.PushAsync(new LegendsPage());
-        }
-
-        public void GetJsonData()
-        {
-            string jsonFileName = "legends.json";
-            ResponseModel legendList = new ResponseModel();
-            var assembly = typeof(MainPage).GetTypeInfo().Assembly;
-
-            Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.{jsonFileName}");
-
-            using (StreamReader reader = new StreamReader(stream))
-            {
-                var jsonString = reader.ReadToEnd();
-
-                legendList = JsonConvert.DeserializeObject<ResponseModel>(jsonString);
-            }
-            //listviewChampions.ItemsSource = legendList.Data;
-        }
+        }        
     }
 }

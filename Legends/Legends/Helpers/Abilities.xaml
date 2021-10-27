@@ -4,7 +4,7 @@
              x:Class="Legends.Helpers.Abilities">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="{Binding Title}"
+            <Label Text="{Binding ImageUrl}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
