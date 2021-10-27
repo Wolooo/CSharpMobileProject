@@ -8,14 +8,9 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>-->
-    <helpers:Details Title="Details" IconImageSource="/Resources/detailsIcon.png">
-        <StackLayout>
-            <Label x:Name="lblLegendDetails" 
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand"/>
-        </StackLayout>
+    <helpers:Details BindingContext="{Binding SelectedLegend}" Title="Details" IconImageSource="/Resources/detailsIcon.png">
     </helpers:Details>
-    <helpers:Abilities Title="Abilities" IconImageSource="/Resources/abilityIcon.png">
+    <helpers:Abilities Title="Abilities" BindingContext="{Binding SelectedLegend}" IconImageSource="/Resources/abilityIcon.png">
         
     </helpers:Abilities>
     <helpers:Lore Title="Lore" IconImageSource="/Resources/loreIcon.png">

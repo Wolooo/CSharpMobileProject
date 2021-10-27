@@ -4,7 +4,7 @@
              x:Class="Legends.Helpers.Abilities">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Overview of all abilities of the legend"
+            <Label Text="{Binding Title}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

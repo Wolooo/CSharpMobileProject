@@ -6,17 +6,22 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Legends.Data;
 
 namespace Legends
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class LegendDetailsPage : TabbedPage
     {
-        public LegendDetailsPage(string name)
+
+        public Legend SelectedLegend { get; set; }
+        public LegendDetailsPage(Legend l)
         {
             InitializeComponent();
 
-            lblLegendDetails.Text = $"Overview of all {name}'s details";
+            SelectedLegend = l;
+            this.BindingContext = this;
+            //lblLegendDetails.Text = $"Overview of all {l.Name}'s details";
         }
     }
 }
