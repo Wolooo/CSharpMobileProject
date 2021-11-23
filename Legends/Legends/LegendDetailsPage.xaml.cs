@@ -17,21 +17,21 @@ namespace Legends
 
         public Legend SelectedLegendName { get; set; }
         public Legend SelectedLegendTitle { get; set; }
-        public LegendDetailsPage(Legend l)
+        public LegendDetailsPage(Legend legend)
         {
             InitializeComponent();
 
-            GetLegendName(dicLegends, l);
+            dicLegends = LegendData.GetJsonData();
+
+            GetLegendName(dicLegends, legend);
             //lblLegendDetails.Text = $"Overview of all {l.Name}'s details";
         }
 
         public void GetLegendName(Dictionary<string, Legend> dic, Legend leg)
         {
-            dic = LegendData.GetJsonData();
-
             foreach (var legend in dic)
             {
-                if (legend.Key == leg.Name)
+                if (leg.Name == legend.Value.Name)
                 {
                     SelectedLegendName = leg;
                     SelectedLegendTitle = leg;
