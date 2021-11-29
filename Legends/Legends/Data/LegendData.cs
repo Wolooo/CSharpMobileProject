@@ -24,6 +24,7 @@ namespace Legends.Data
                 legendList = JsonConvert.DeserializeObject<ResponseModel>(jsonString);
             }
             return legendList.Data;
+
         }
     }
 }

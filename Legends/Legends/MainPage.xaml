@@ -6,6 +6,7 @@
     <StackLayout>
         <Button x:Name="LegendsPage" Text="Legends" Clicked="LegendsPage_Clicked"></Button>
     </StackLayout>
+    
 
     <!--<ListView x:Name="listviewChampions">
         <ListView.ItemTemplate>
