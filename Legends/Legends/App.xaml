@@ -3,6 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Legends.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BackgroundColor" TargetType="ContentPage">
+                <Setter Property="BackgroundColor" Value="#112120"></Setter>
+            </Style>
+        </ResourceDictionary>
 
     </Application.Resources>
 </Application>
