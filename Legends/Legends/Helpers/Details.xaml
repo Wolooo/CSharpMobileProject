@@ -1,12 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Legends.Helpers.Details">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label x:Name="lblLegendDetails" Text="{Binding Name}"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="Legends.Helpers.Details" Title="Details">
+    <ScrollView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="230"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="150"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="400"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+
+            <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,0,15,5" HorizontalOptions="End" Source="{Binding Lane}" ></Image>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,0,15,5" FontSize="40" TextColor="#ae914b" FontAttributes="Bold" Text="{Binding Name}" HorizontalTextAlignment="Start"></Label>
+
+            <Image Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" HorizontalOptions="FillAndExpand" Aspect="AspectFill" Source="Resources/LoLWallpaper2.jpg"></Image>
+            <Frame Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,10,15,5" Padding="0,5" BackgroundColor="#ae914b" CornerRadius="20">
+                <Label FontSize="18" TextColor="#122e2f" FontAttributes="Bold" Text="{Binding Title}" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            </Frame>
+            <!---basic info-->
+            <Label Text="{Binding Blurb}" Grid.Row="3" Grid.Column="0" FontSize="18" Margin="15,5,0,0" TextColor="#ae914b"></Label>
+            
+            <!---Counters--><!--
+            <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Text="Counters" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>
+            <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" TextColor="#ae914b" FontAttributes="Italic" Margin="15,-20,5,25"></Label>
+            --><!---Tips--><!--
+            <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Text="Tips" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>
+            <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" TextColor="#ae914b" FontAttributes="Italic" Margin="15,-20,5,25"></Label>
+            --><!---tips against--><!--
+            <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" Text="Tips Against" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>
+            <Label Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" TextColor="#ae914b" FontAttributes="Italic" Margin="15,-20,5,25"></Label>-->
+            
+            <!--<BoxView BackgroundColor="Blue" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"></BoxView>-->
+            <!--<BoxView BackgroundColor="Purple" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3"></BoxView>-->
+        </Grid>
+    </ScrollView>
 </ContentPage>
