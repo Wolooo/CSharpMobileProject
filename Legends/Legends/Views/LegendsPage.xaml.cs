@@ -20,7 +20,7 @@ namespace Legends
             InitializeComponent();
 
             dictLegends = LegendData.GetJsonData();
-
+            
             LoadData(dictLegends);
         }
 
@@ -31,8 +31,8 @@ namespace Legends
                 Image img = new Image
                 {
                     Source = legend.Value.ImageUrl,
-                    WidthRequest = 100,
-                    HeightRequest = 100
+                    WidthRequest = 60,
+                    HeightRequest = 60
                 };
 
                 var tapGestureRecognizer = new TapGestureRecognizer();
@@ -44,17 +44,17 @@ namespace Legends
 
                 img.GestureRecognizers.Add(tapGestureRecognizer);
                 
-                StackLayout flexItem = new StackLayout() { Margin = new Thickness(10,10,10,0), Padding = new Thickness(10,0,10,0) };
+                StackLayout flexItem = new StackLayout() { Margin = new Thickness(8,8,8,0), Padding = new Thickness(10,0,10,0) };
                 flexItem.Children.Add(img);
                 flexItem.Children.Add(new Label
                 {
                     Text = legend.Value.Name,
                     HorizontalTextAlignment = TextAlignment.Center,
                     FontAttributes = FontAttributes.Bold,
-                    TextColor = Color.White,
-                    //TextColor = Color.White,
-                    FontSize = 15
-                    
+                    BackgroundColor = Color.FromHex("#555a43"),
+                    TextColor = Color.FromHex("#a39149"),
+                    FontSize = 12,
+
                 });
                 flexList.Children.Add(flexItem);
             }

@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Legends.LegendDetailsPage.xaml", "LegendDetailsPage.xaml", typeof(global::Legends.LegendDetailsPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Legends.Views.LegendDetailsPage.xaml", "Views/LegendDetailsPage.xaml", typeof(global::Legends.LegendDetailsPage))]
 
 namespace Legends {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("LegendDetailsPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LegendDetailsPage.xaml")]
     public partial class LegendDetailsPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

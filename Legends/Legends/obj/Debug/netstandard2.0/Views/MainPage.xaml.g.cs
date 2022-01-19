@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Legends.LegendsPage.xaml", "LegendsPage.xaml", typeof(global::Legends.LegendsPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Legends.Views.MainPage.xaml", "Views/MainPage.xaml", typeof(global::Legends.MainPage))]
 
 namespace Legends {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("LegendsPage.xaml")]
-    public partial class LegendsPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MainPage.xaml")]
+    public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.FlexLayout flexList;
+        private global::Xamarin.Forms.Button LegendsPage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LegendsPage));
-            flexList = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.FlexLayout>(this, "flexList");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            LegendsPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "LegendsPage");
         }
     }
 }
