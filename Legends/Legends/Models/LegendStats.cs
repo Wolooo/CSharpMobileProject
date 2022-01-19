@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Legends.Data
+namespace Legends.Models
 {
     public class LegendStats
     {

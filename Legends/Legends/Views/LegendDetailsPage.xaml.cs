@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Legends.Data;
+using Legends.ViewModel;
+using Legends.Models;
 
 namespace Legends
 {
@@ -15,8 +17,8 @@ namespace Legends
     {
         private Dictionary<string, Legend> dicLegends;
 
-        public Legend SelectedLegendName { get; set; }
-        public Legend SelectedLegendTitle { get; set; }
+        //public Legend SelectedLegendName { get; set; }
+        //public Legend SelectedLegendTitle { get; set; }
         public LegendDetailsPage(Legend legend)
         {
             InitializeComponent();
@@ -33,9 +35,12 @@ namespace Legends
             {
                 if (leg.Name == legend.Value.Name)
                 {
-                    SelectedLegendName = leg;
-                    SelectedLegendTitle = leg;
-                    this.BindingContext = this;
+                    LegendStatsViewModel model = new LegendStatsViewModel
+                    {
+                        SelectedLegendName = leg,
+                        SelectedLegendTitle = leg
+                    };
+                    this.BindingContext = model;
                 }
             }
         }

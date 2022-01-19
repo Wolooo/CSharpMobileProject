@@ -8,6 +8,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Legends.Data;
 using Legends.Helpers;
+using Legends.Models;
 
 namespace Legends
 {
