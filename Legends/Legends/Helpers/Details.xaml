@@ -9,7 +9,7 @@
                 <RowDefinition Height="50"></RowDefinition>
                 <RowDefinition Height="230"></RowDefinition>
                 <RowDefinition Height="50"></RowDefinition>
-                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="400"></ColumnDefinition>
@@ -25,7 +25,7 @@
                 <Label FontSize="18" TextColor="#122e2f" FontAttributes="Bold" Text="{Binding Title}" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
             </Frame>
             <!---basic info-->
-            <Label Text="{Binding Blurb}" Grid.Row="3" Grid.Column="0" FontSize="18" Margin="15,5,0,0" TextColor="#ae914b"></Label>
+            <Label Text="{Binding Lore}" Grid.Row="3" Grid.Column="0" FontSize="18" Margin="15,5,0,0" TextColor="#ae914b"></Label>
             
             <!---Counters--><!--
             <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Text="Counters" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>

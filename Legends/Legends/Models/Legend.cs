@@ -14,7 +14,7 @@ namespace Legends.Models
         public string ImageUrl { get; set; }
         public string Lane { get; set; }
 
-        public string Blurb { get; set; }
+        public string Lore { get; set; }
         public LegendInfo Info { get; set; }
         public List<string> Tags { get; set; }
         public LegendStats Stats { get; set; }
