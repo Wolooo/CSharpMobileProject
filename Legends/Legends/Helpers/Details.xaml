@@ -25,7 +25,31 @@
                 <Label FontSize="18" TextColor="#122e2f" FontAttributes="Bold" Text="{Binding Title}" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
             </Frame>
             <!---basic info-->
-            <Label Text="{Binding Lore}" Grid.Row="3" Grid.Column="0" FontSize="18" Margin="15,5,0,0" TextColor="#ae914b"></Label>
+            <StackLayout Grid.Row="3" Grid.Column="0" Orientation="Vertical" BindingContext="{Binding Info}">
+                <Label Text="Attack" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
+                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
+                    <ProgressBar Progress="{Binding Attack}" ScaleY="3" ProgressColor="LightBlue"></ProgressBar>
+                </Frame>
+                <Label Text="Defense" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
+                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
+                    <ProgressBar Progress="{Binding Defense}" ScaleY="3" ProgressColor="LightBlue"></ProgressBar>
+                </Frame>
+                <Label Text="Magic" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
+                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
+                    <ProgressBar Progress="{Binding Magic}" ScaleY="3" ProgressColor="LightBlue"></ProgressBar>
+                </Frame>
+                <Label Text="Difficulty" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
+                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
+                    <ProgressBar Progress="{Binding Difficulty}" ScaleY="3" ProgressColor="LightBlue"></ProgressBar>
+                </Frame>
+            </StackLayout>
+            <!--<Label Text="{Binding Lore}" Grid.Row="3" Grid.Column="0" FontSize="18" Margin="15,5,0,0" TextColor="#ae914b"></Label>-->
+            <!--<StackLayout Orientation="Vertical" BindingContext="{Binding Info}" HorizontalOptions="StartAndExpand" Margin="15,5,0,0" Grid.Row="3" Grid.Column="0">
+                <ProgressBar Progress="{Binding Attack}"></ProgressBar>
+                <ProgressBar Progress="{Binding Defense}"></ProgressBar>
+                <Label FontSize="18" TextColor="White" Text="{Binding Magic}"></Label>
+                <Label FontSize="18" TextColor="White" Text="{Binding Difficulty}"></Label>
+            </StackLayout>-->
             
             <!---Counters--><!--
             <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Text="Counters" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>

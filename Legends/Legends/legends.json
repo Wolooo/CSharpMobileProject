@@ -13,10 +13,10 @@
       "imageurl": "Aatrox.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 4,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.4,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Aatrox.png",
@@ -62,10 +62,10 @@
       "imageurl": "Ahri.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 3,
-        "defense": 4,
-        "magic": 8,
-        "difficulty": 5
+        "attack": 0.3,
+        "defense": 0.4,
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Ahri.png",
@@ -111,10 +111,10 @@
       "imageurl": "Akali.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 5,
-        "defense": 3,
-        "magic": 8,
-        "difficulty": 7
+        "attack": 0.5,
+        "defense": 0.3,
+        "magic": 0.8,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Akali.png",
@@ -209,10 +209,10 @@
       "imageurl": "Alistar.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 6,
-        "defense": 9,
-        "magic": 5,
-        "difficulty": 7
+        "attack": 0.6,
+        "defense": 0.9,
+        "magic": 0.5,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Alistar.png",
@@ -258,10 +258,10 @@
       "imageurl": "Amumu.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 2,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 3
+        "attack": 0.2,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Amumu.png",
@@ -307,10 +307,10 @@
       "imageurl": "Anivia.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 1,
-        "defense": 4,
-        "magic": 10,
-        "difficulty": 10
+        "attack": 0.1,
+        "defense": 0.4,
+        "magic": 1,
+        "difficulty": 1
       },
       "image": {
         "full": "Anivia.png",
@@ -356,10 +356,10 @@
       "imageurl": "Annie.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 3,
-        "magic": 10,
-        "difficulty": 6
+        "attack": 0.2,
+        "defense": 0.3,
+        "magic": 1,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Annie.png",
@@ -405,10 +405,10 @@
       "imageurl": "Aphelios.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 6,
-        "defense": 2,
-        "magic": 1,
-        "difficulty": 10
+        "attack": 0.6,
+        "defense": 0.2,
+        "magic": 0.1,
+        "difficulty": 1
       },
       "image": {
         "full": "Aphelios.png",
@@ -454,10 +454,10 @@
       "imageurl": "Ashe.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 7,
-        "defense": 3,
-        "magic": 2,
-        "difficulty": 4
+        "attack": 0.7,
+        "defense": 0.3,
+        "magic": 0.2,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Ashe.png",
@@ -503,10 +503,10 @@
       "imageurl": "AurelionSol.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 3,
-        "magic": 8,
-        "difficulty": 7
+        "attack": 0.2,
+        "defense": 0.3,
+        "magic": 0.8,
+        "difficulty": 0.7
       },
       "image": {
         "full": "AurelionSol.png",
@@ -552,10 +552,10 @@
       "imageurl": "Azir.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 6,
-        "defense": 3,
-        "magic": 8,
-        "difficulty": 9
+        "attack": 0.6,
+        "defense": 0.3,
+        "magic": 0.8,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Azir.png",
@@ -601,10 +601,10 @@
       "imageurl": "Bard.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 4,
-        "magic": 5,
-        "difficulty": 9
+        "attack": 0.4,
+        "defense": 0.4,
+        "magic": 0.5,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Bard.png",
@@ -650,10 +650,10 @@
       "imageurl": "Blitzcrank.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 8,
-        "magic": 5,
-        "difficulty": 4
+        "attack": 0.4,
+        "defense": 0.8,
+        "magic": 0.5,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Blitzcrank.png",
@@ -699,10 +699,10 @@
       "imageurl": "Brand.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 9,
-        "difficulty": 4
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 0.9,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Brand.png",
@@ -748,10 +748,10 @@
       "imageurl": "Braum.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 3,
-        "defense": 9,
-        "magic": 4,
-        "difficulty": 3
+        "attack": 0.3,
+        "defense": 0.9,
+        "magic": 0.4,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Braum.png",
@@ -797,10 +797,10 @@
       "imageurl": "Caitlyn.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 2,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.2,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Caitlyn.png",
@@ -846,10 +846,10 @@
       "imageurl": "Camille.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 6,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.6,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Camille.png",
@@ -895,10 +895,10 @@
       "imageurl": "Cassiopeia.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 3,
-        "magic": 9,
-        "difficulty": 10
+        "attack": 0.2,
+        "defense": 0.3,
+        "magic": 0.9,
+        "difficulty": 1
       },
       "image": {
         "full": "Cassiopeia.png",
@@ -944,10 +944,10 @@
       "imageurl": "Chogath.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 3,
-        "defense": 7,
-        "magic": 7,
-        "difficulty": 5
+        "attack": 0.3,
+        "defense": 0.7,
+        "magic": 0.7,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Chogath.png",
@@ -993,10 +993,10 @@
       "imageurl": "Corki.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 8,
-        "defense": 3,
-        "magic": 6,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.3,
+        "magic": 0.6,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Corki.png",
@@ -1042,10 +1042,10 @@
       "imageurl": "Darius.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 9,
-        "defense": 5,
-        "magic": 1,
-        "difficulty": 2
+        "attack": 0.9,
+        "defense": 0.5,
+        "magic": 0.1,
+        "difficulty": 0.2
       },
       "image": {
         "full": "Darius.png",
@@ -1091,10 +1091,10 @@
       "imageurl": "Diana.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 7,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 4
+        "attack": 0.7,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Diana.png",
@@ -1140,10 +1140,10 @@
       "imageurl": "Draven.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 9,
-        "defense": 3,
-        "magic": 1,
-        "difficulty": 8
+        "attack": 0.9,
+        "defense": 0.3,
+        "magic": 0.1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Draven.png",
@@ -1189,10 +1189,10 @@
       "imageurl": "DrMundo.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 7,
-        "magic": 6,
-        "difficulty": 5
+        "attack": 0.5,
+        "defense": 0.7,
+        "magic": 0.6,
+        "difficulty": 0.5
       },
       "image": {
         "full": "DrMundo.png",
@@ -1238,10 +1238,10 @@
       "imageurl": "Ekko.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 5,
-        "defense": 3,
-        "magic": 7,
-        "difficulty": 8
+        "attack": 0.5,
+        "defense": 0.3,
+        "magic": 0.7,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Ekko.png",
@@ -1287,10 +1287,10 @@
       "imageurl": "Elise.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 6,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 9
+        "attack": 0.6,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Elise.png",
@@ -1336,10 +1336,10 @@
       "imageurl": "Evelynn.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 4,
-        "defense": 2,
-        "magic": 7,
-        "difficulty": 10
+        "attack": 0.4,
+        "defense": 0.2,
+        "magic": 0.7,
+        "difficulty": 1
       },
       "image": {
         "full": "Evelynn.png",
@@ -1385,10 +1385,10 @@
       "imageurl": "Ezreal.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 7,
-        "defense": 2,
-        "magic": 6,
-        "difficulty": 7
+        "attack": 0.7,
+        "defense": 0.2,
+        "magic": 0.6,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Ezreal.png",
@@ -1434,10 +1434,10 @@
       "imageurl": "Fiddlesticks.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 2,
-        "defense": 3,
-        "magic": 9,
-        "difficulty": 9
+        "attack": 0.2,
+        "defense": 0.3,
+        "magic": 0.9,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Fiddlesticks.png",
@@ -1483,10 +1483,10 @@
       "imageurl": "Fiora.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 10,
-        "defense": 4,
-        "magic": 2,
-        "difficulty": 3
+        "attack": 1,
+        "defense": 0.4,
+        "magic": 0.2,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Fiora.png",
@@ -1532,10 +1532,10 @@
       "imageurl": "Fizz.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 6,
-        "defense": 4,
-        "magic": 7,
-        "difficulty": 6
+        "attack": 0.6,
+        "defense": 0.4,
+        "magic": 0.7,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Fizz.png",
@@ -1581,10 +1581,10 @@
       "imageurl": "Galio.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 1,
-        "defense": 10,
-        "magic": 6,
-        "difficulty": 5
+        "attack": 0.1,
+        "defense": 1,
+        "magic": 0.6,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Galio.png",
@@ -1630,10 +1630,10 @@
       "imageurl": "Gangplank.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 6,
-        "magic": 4,
-        "difficulty": 9
+        "attack": 0.7,
+        "defense": 0.6,
+        "magic": 0.4,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Gangplank.png",
@@ -1679,10 +1679,10 @@
       "imageurl": "Garen.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 7,
+        "attack": 0.7,
+        "defense": 0.7,
         "magic": 1,
-        "difficulty": 5
+        "difficulty": 0.5
       },
       "image": {
         "full": "Garen.png",
@@ -1728,10 +1728,10 @@
       "imageurl": "Gnar.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 6,
-        "defense": 5,
-        "magic": 5,
-        "difficulty": 8
+        "attack": 0.6,
+        "defense": 0.5,
+        "magic": 0.5,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Gnar.png",
@@ -1777,10 +1777,10 @@
       "imageurl": "Gragas.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 4,
-        "defense": 7,
-        "magic": 6,
-        "difficulty": 5
+        "attack": 0.4,
+        "defense": 0.7,
+        "magic": 0.6,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Gragas.png",
@@ -1826,10 +1826,10 @@
       "imageurl": "Graves.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 3
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Graves.png",
@@ -1875,10 +1875,10 @@
       "imageurl": "Gwen.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 4,
-        "magic": 5,
-        "difficulty": 5
+        "attack": 0.7,
+        "defense": 0.4,
+        "magic": 0.5,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Gwen.png",
@@ -1924,10 +1924,10 @@
       "imageurl": "Hecarim.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 6,
-        "magic": 4,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.6,
+        "magic": 0.4,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Hecarim.png",
@@ -1973,10 +1973,10 @@
       "imageurl": "Heimerdinger.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 8
+        "attack": 0.2,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Heimerdinger.png",
@@ -2022,10 +2022,10 @@
       "imageurl": "Illaoi.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 6,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.6,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Illaoi.png",
@@ -2071,10 +2071,10 @@
       "imageurl": "Irelia.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 7,
-        "defense": 4,
-        "magic": 5,
-        "difficulty": 5
+        "attack": 0.7,
+        "defense": 0.4,
+        "magic": 0.5,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Irelia.png",
@@ -2120,10 +2120,10 @@
       "imageurl": "Ivern.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 3,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 7
+        "attack": 0.3,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Ivern.png",
@@ -2169,10 +2169,10 @@
       "imageurl": "Janna.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 3,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 7
+        "attack": 0.3,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Janna.png",
@@ -2218,10 +2218,10 @@
       "imageurl": "JarvanIV.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 6,
-        "defense": 8,
-        "magic": 3,
-        "difficulty": 5
+        "attack": 0.6,
+        "defense": 0.8,
+        "magic": 0.3,
+        "difficulty": 0.5
       },
       "image": {
         "full": "JarvanIV.png",
@@ -2267,10 +2267,10 @@
       "imageurl": "Jax.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 5
+        "attack": 0.7,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Jax.png",
@@ -2316,10 +2316,10 @@
       "imageurl": "Jayce.png",
       "Lane": "Tôp.png",
       "info": {
-        "attack": 8,
-        "defense": 4,
-        "magic": 3,
-        "difficulty": 7
+        "attack": 0.8,
+        "defense": 0.4,
+        "magic": 0.3,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Jayce.png",
@@ -2365,10 +2365,10 @@
       "imageurl": "Jhin.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 10,
-        "defense": 2,
-        "magic": 6,
-        "difficulty": 6
+        "attack": 1,
+        "defense": 0.2,
+        "magic": 0.6,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Jhin.png",
@@ -2414,10 +2414,10 @@
       "imageurl": "Jinx.png",
       "Lane": "bottom.png",
       "info": {
-        "attack": 9,
-        "defense": 2,
-        "magic": 4,
-        "difficulty": 6
+        "attack": 0.9,
+        "defense": 0.2,
+        "magic": 0.4,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Jinx.png",
@@ -2463,10 +2463,10 @@
       "imageurl": "Kaisa.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Kaisa.png",
@@ -2512,10 +2512,10 @@
       "imageurl": "Kalista.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 4,
-        "difficulty": 7
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.4,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Kalista.png",
@@ -2561,10 +2561,10 @@
       "imageurl": "Karma.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 1,
-        "defense": 7,
-        "magic": 8,
-        "difficulty": 5
+        "attack": 0.1,
+        "defense": 0.7,
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Karma.png",
@@ -2610,10 +2610,10 @@
       "imageurl": "Karthus.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 10,
-        "difficulty": 7
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Karthus.png",
@@ -2659,10 +2659,10 @@
       "imageurl": "Kassadin.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 3,
-        "defense": 5,
-        "magic": 8,
-        "difficulty": 8
+        "attack": 0.3,
+        "defense": 0.5,
+        "magic": 0.8,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Kassadin.png",
@@ -2708,10 +2708,10 @@
       "imageurl": "Katarina.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 4,
-        "defense": 3,
-        "magic": 9,
-        "difficulty": 8
+        "attack": 0.4,
+        "defense": 0.3,
+        "magic": 0.9,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Katarina.png",
@@ -2757,10 +2757,10 @@
       "imageurl": "Kayle.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 6,
-        "defense": 6,
-        "magic": 7,
-        "difficulty": 7
+        "attack": 0.6,
+        "defense": 0.6,
+        "magic": 0.7,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Kayle.png",
@@ -2806,10 +2806,10 @@
       "imageurl": "Kayn.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 10,
-        "defense": 6,
-        "magic": 1,
-        "difficulty": 8
+        "attack": 1,
+        "defense": 0.6,
+        "magic": 0.1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Kayn.png",
@@ -2855,10 +2855,10 @@
       "imageurl": "Kennen.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 6,
-        "defense": 4,
-        "magic": 7,
-        "difficulty": 4
+        "attack": 0.6,
+        "defense": 0.4,
+        "magic": 0.7,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Kennen.png",
@@ -2904,10 +2904,10 @@
       "imageurl": "Khazix.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 9,
-        "defense": 4,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.9,
+        "defense": 0.4,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Khazix.png",
@@ -2953,10 +2953,10 @@
       "imageurl": "Kindred.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 2,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.2,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Kindred.png",
@@ -3002,10 +3002,10 @@
       "imageurl": "Kled.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 2,
-        "difficulty": 7
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.2,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Kled.png",
@@ -3051,10 +3051,10 @@
       "imageurl": "KogMaw.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 5,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.5,
+        "difficulty": 0.6
       },
       "image": {
         "full": "KogMaw.png",
@@ -3100,10 +3100,10 @@
       "imageurl": "Leblanc.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 1,
-        "defense": 4,
-        "magic": 10,
-        "difficulty": 9
+        "attack": 0.1,
+        "defense": 0.4,
+        "magic": 1,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Leblanc.png",
@@ -3149,10 +3149,10 @@
       "imageurl": "LeeSin.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "LeeSin.png",
@@ -3198,10 +3198,10 @@
       "imageurl": "Leona.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 8,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.4,
+        "defense": 0.8,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Leona.png",
@@ -3248,9 +3248,9 @@
       "Lane": "Jungle.png",
       "info": {
         "attack": 0,
-        "defense": 2,
-        "magic": 10,
-        "difficulty": 8
+        "defense": 0.2,
+        "magic": 1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Lillia.png",
@@ -3296,10 +3296,10 @@
       "imageurl": "Lissandra.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 5,
-        "magic": 8,
-        "difficulty": 6
+        "attack": 0.2,
+        "defense": 0.5,
+        "magic": 0.8,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Lissandra.png",
@@ -3345,10 +3345,10 @@
       "imageurl": "Lucian.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Lucian.png",
@@ -3394,10 +3394,10 @@
       "imageurl": "Lulu.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 5
+        "attack": 0.4,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Lulu.png",
@@ -3443,10 +3443,10 @@
       "imageurl": "Lux.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 4,
-        "magic": 9,
-        "difficulty": 5
+        "attack": 0.2,
+        "defense": 0.4,
+        "magic": 0.9,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Lux.png",
@@ -3492,10 +3492,10 @@
       "imageurl": "Malphite.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 9,
-        "magic": 7,
-        "difficulty": 2
+        "attack": 0.5,
+        "defense": 0.9,
+        "magic": 0.7,
+        "difficulty": 0.2
       },
       "image": {
         "full": "Malphite.png",
@@ -3541,10 +3541,10 @@
       "imageurl": "Malzahar.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 9,
-        "difficulty": 6
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 0.9,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Malzahar.png",
@@ -3590,10 +3590,10 @@
       "imageurl": "Maokai.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 3,
-        "defense": 8,
-        "magic": 6,
-        "difficulty": 3
+        "attack": 0.3,
+        "defense": 0.8,
+        "magic": 0.6,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Maokai.png",
@@ -3639,10 +3639,10 @@
       "imageurl": "MasterYi.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 10,
-        "defense": 4,
-        "magic": 2,
-        "difficulty": 4
+        "attack": 1,
+        "defense": 0.4,
+        "magic": 0.2,
+        "difficulty": 0.4
       },
       "image": {
         "full": "MasterYi.png",
@@ -3688,10 +3688,10 @@
       "imageurl": "MissFortune.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 2,
-        "magic": 5,
-        "difficulty": 1
+        "attack": 0.8,
+        "defense": 0.2,
+        "magic": 0.5,
+        "difficulty": 0.1
       },
       "image": {
         "full": "MissFortune.png",
@@ -3737,10 +3737,10 @@
       "imageurl": "MonkeyKing.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 3
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.2,
+        "difficulty": 0.3
       },
       "image": {
         "full": "MonkeyKing.png",
@@ -3786,10 +3786,10 @@
       "imageurl": "Mordekaiser.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 4,
-        "defense": 6,
-        "magic": 7,
-        "difficulty": 4
+        "attack": 0.4,
+        "defense": 0.6,
+        "magic": 0.7,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Mordekaiser.png",
@@ -3835,10 +3835,10 @@
       "imageurl": "Morgana.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 1,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 1
+        "attack": 0.1,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 0.1
       },
       "image": {
         "full": "Morgana.png",
@@ -3884,10 +3884,10 @@
       "imageurl": "Nami.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 3,
-        "magic": 7,
-        "difficulty": 5
+        "attack": 0.4,
+        "defense": 0.3,
+        "magic": 0.7,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Nami.png",
@@ -3933,10 +3933,10 @@
       "imageurl": "Nasus.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 5,
-        "magic": 6,
-        "difficulty": 6
+        "attack": 0.7,
+        "defense": 0.5,
+        "magic": 0.6,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Nasus.png",
@@ -3982,10 +3982,10 @@
       "imageurl": "Nautilus.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 6,
-        "magic": 6,
-        "difficulty": 6
+        "attack": 0.4,
+        "defense": 0.6,
+        "magic": 0.6,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Nautilus.png",
@@ -4031,10 +4031,10 @@
       "imageurl": "Neeko.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 1,
-        "defense": 1,
-        "magic": 9,
-        "difficulty": 5
+        "attack": 0.1,
+        "defense": 0.1,
+        "magic": 0.9,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Neeko.png",
@@ -4080,10 +4080,10 @@
       "imageurl": "Nidalee.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 5,
-        "defense": 4,
-        "magic": 7,
-        "difficulty": 8
+        "attack": 0.5,
+        "defense": 0.4,
+        "magic": 0.7,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Nidalee.png",
@@ -4129,10 +4129,10 @@
       "imageurl": "Nocturne.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 9,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 4
+        "attack": 0.9,
+        "defense": 0.5,
+        "magic": 0.2,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Nocturne.png",
@@ -4178,10 +4178,10 @@
       "imageurl": "Nunu.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 4,
-        "defense": 6,
-        "magic": 7,
-        "difficulty": 4
+        "attack": 0.4,
+        "defense": 0.6,
+        "magic": 0.7,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Nunu.png",
@@ -4227,10 +4227,10 @@
       "imageurl": "Olaf.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 9,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 3
+        "attack": 0.9,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Olaf.png",
@@ -4276,10 +4276,10 @@
       "imageurl": "Orianna.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 4,
-        "defense": 3,
-        "magic": 9,
-        "difficulty": 7
+        "attack": 0.4,
+        "defense": 0.3,
+        "magic": 0.9,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Orianna.png",
@@ -4324,10 +4324,10 @@
       "imageurl": "Ornn.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 9,
-        "magic": 3,
-        "difficulty": 5
+        "attack": 0.5,
+        "defense": 0.9,
+        "magic": 0.3,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Ornn.png",
@@ -4373,10 +4373,10 @@
       "imageurl": "Pantheon.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 9,
-        "defense": 4,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.9,
+        "defense": 0.4,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Pantheon.png",
@@ -4422,10 +4422,10 @@
       "imageurl": "Poppy.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 6,
-        "defense": 7,
-        "magic": 2,
-        "difficulty": 6
+        "attack": 0.6,
+        "defense": 0.7,
+        "magic": 0.2,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Poppy.png",
@@ -4471,10 +4471,10 @@
       "imageurl": "Pyke.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 9,
-        "defense": 3,
-        "magic": 1,
-        "difficulty": 7
+        "attack": 0.9,
+        "defense": 0.3,
+        "magic": 0.1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Pyke.png",
@@ -4521,9 +4521,9 @@
       "Lane": "Mid.png",
       "info": {
         "attack": 0,
-        "defense": 2,
-        "magic": 4,
-        "difficulty": 8
+        "defense": 0.2,
+        "magic": 0.4,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Qiyana.png",
@@ -4569,10 +4569,10 @@
       "imageurl": "Quinn.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 9,
-        "defense": 4,
-        "magic": 2,
-        "difficulty": 5
+        "attack": 0.9,
+        "defense": 0.4,
+        "magic": 0.2,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Quinn.png",
@@ -4618,10 +4618,10 @@
       "imageurl": "Rakan.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 4,
-        "magic": 8,
-        "difficulty": 5
+        "attack": 0.2,
+        "defense": 0.4,
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Rakan.png",
@@ -4667,10 +4667,10 @@
       "imageurl": "Rammus.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 4,
-        "defense": 10,
-        "magic": 5,
-        "difficulty": 5
+        "attack": 0.4,
+        "defense": 1,
+        "magic": 0.5,
+        "difficulty": 0.5
       },
 
       "image": {
@@ -4717,10 +4717,10 @@
       "imageurl": "RekSai.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 3
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.2,
+        "difficulty": 0.3
       },
       "image": {
         "full": "RekSai.png",
@@ -4815,10 +4815,10 @@
       "imageurl": "Renekton.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 3
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.2,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Renekton.png",
@@ -4864,10 +4864,10 @@
       "imageurl": "Rengar.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 7,
-        "defense": 4,
-        "magic": 2,
-        "difficulty": 8
+        "attack": 0.7,
+        "defense": 0.4,
+        "magic": 0.2,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Rengar.png",
@@ -4913,10 +4913,10 @@
       "imageurl": "Riven.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 1,
-        "difficulty": 8
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Riven.png",
@@ -4962,10 +4962,10 @@
       "imageurl": "Rumble.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 3,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 10
+        "attack": 0.3,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 1
       },
       "image": {
         "full": "Rumble.png",
@@ -5011,10 +5011,10 @@
       "imageurl": "Ryze.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 10,
-        "difficulty": 7
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Ryze.png",
@@ -5060,10 +5060,10 @@
       "imageurl": "Samira.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Samira.png",
@@ -5109,10 +5109,10 @@
       "imageurl": "Sejuani.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 5,
-        "defense": 7,
-        "magic": 6,
-        "difficulty": 4
+        "attack": 0.5,
+        "defense": 0.7,
+        "magic": 0.6,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Sejuani.png",
@@ -5158,10 +5158,10 @@
       "imageurl": "Senna.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 7,
-        "defense": 2,
-        "magic": 6,
-        "difficulty": 7
+        "attack": 0.7,
+        "defense": 0.2,
+        "magic": 0.6,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Senna.png",
@@ -5256,10 +5256,10 @@
       "imageurl": "Sett.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 1,
-        "difficulty": 2
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.1,
+        "difficulty": 0.2
       },
       "image": {
         "full": "Sett.png",
@@ -5305,10 +5305,10 @@
       "imageurl": "Shaco.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 4,
-        "magic": 6,
-        "difficulty": 9
+        "attack": 0.8,
+        "defense": 0.4,
+        "magic": 0.6,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Shaco.png",
@@ -5354,10 +5354,10 @@
       "imageurl": "Shen.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 3,
-        "defense": 9,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.3,
+        "defense": 0.9,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Shen.png",
@@ -5403,10 +5403,10 @@
       "imageurl": "Shyvana.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 6,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.6,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Shyvana.png",
@@ -5452,10 +5452,10 @@
       "imageurl": "Singed.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 4,
-        "defense": 8,
-        "magic": 7,
-        "difficulty": 5
+        "attack": 0.4,
+        "defense": 0.8,
+        "magic": 0.7,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Singed.png",
@@ -5501,10 +5501,10 @@
       "imageurl": "Sion.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 9,
-        "magic": 3,
-        "difficulty": 5
+        "attack": 0.5,
+        "defense": 0.9,
+        "magic": 0.3,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Sion.png",
@@ -5550,10 +5550,10 @@
       "imageurl": "Sivir.png",
       "Lane": "Sivir.png",
       "info": {
-        "attack": 9,
-        "defense": 3,
-        "magic": 1,
-        "difficulty": 4
+        "attack": 0.9,
+        "defense": 0.3,
+        "magic": 0.1,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Sivir.png",
@@ -5599,10 +5599,10 @@
       "imageurl": "Skarner.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 7,
-        "defense": 6,
-        "magic": 5,
-        "difficulty": 5
+        "attack": 0.7,
+        "defense": 0.6,
+        "magic": 0.5,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Skarner.png",
@@ -5648,10 +5648,10 @@
       "imageurl": "Sona.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 2,
-        "magic": 8,
-        "difficulty": 4
+        "attack": 0.5,
+        "defense": 0.2,
+        "magic": 0.8,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Sona.png",
@@ -5697,10 +5697,10 @@
       "imageurl": "Soraka.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 5,
-        "magic": 7,
-        "difficulty": 3
+        "attack": 0.2,
+        "defense": 0.5,
+        "magic": 0.7,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Soraka.png",
@@ -5746,10 +5746,10 @@
       "imageurl": "Swain.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 6,
-        "magic": 9,
-        "difficulty": 8
+        "attack": 0.2,
+        "defense": 0.6,
+        "magic": 0.9,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Swain.png",
@@ -5795,10 +5795,10 @@
       "imageurl": "Sylas.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 3,
+        "attack": 0.3,
         "defense": 4,
-        "magic": 8,
-        "difficulty": 5
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Sylas.png",
@@ -5844,10 +5844,10 @@
       "imageurl": "Syndra.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 3,
-        "magic": 9,
-        "difficulty": 8
+        "attack": 0.2,
+        "defense": 0.3,
+        "magic": 0.9,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Syndra.png",
@@ -5893,10 +5893,10 @@
       "imageurl": "TahmKench.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 3,
-        "defense": 9,
-        "magic": 6,
-        "difficulty": 5
+        "attack": 0.3,
+        "defense": 0.9,
+        "magic": 0.6,
+        "difficulty": 0.5
       },
       "image": {
         "full": "TahmKench.png",
@@ -5942,10 +5942,10 @@
       "imageurl": "Taliyah.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 1,
-        "defense": 7,
-        "magic": 8,
-        "difficulty": 5
+        "attack": 0.1,
+        "defense": 0.7,
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Taliyah.png",
@@ -5991,10 +5991,10 @@
       "imageurl": "Talon.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 9,
-        "defense": 3,
-        "magic": 1,
-        "difficulty": 7
+        "attack": 0.9,
+        "defense": 0.3,
+        "magic": 0.1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Talon.png",
@@ -6040,10 +6040,10 @@
       "imageurl": "Taric.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 8,
-        "magic": 5,
-        "difficulty": 3
+        "attack": 0.4,
+        "defense": 0.8,
+        "magic": 0.5,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Taric.png",
@@ -6089,10 +6089,10 @@
       "imageurl": "Teemo.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 5,
-        "defense": 3,
-        "magic": 7,
-        "difficulty": 6
+        "attack": 0.5,
+        "defense": 0.3,
+        "magic": 0.7,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Teemo.png",
@@ -6138,10 +6138,10 @@
       "imageurl": "Thresh.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 5,
-        "defense": 6,
-        "magic": 6,
-        "difficulty": 7
+        "attack": 0.5,
+        "defense": 0.6,
+        "magic": 0.6,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Thresh.png",
@@ -6187,10 +6187,10 @@
       "imageurl": "Tristana.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 9,
-        "defense": 3,
-        "magic": 5,
-        "difficulty": 4
+        "attack": 0.9,
+        "defense": 0.3,
+        "magic": 0.5,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Tristana.png",
@@ -6236,10 +6236,10 @@
       "imageurl": "Trundle.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 7,
-        "defense": 6,
-        "magic": 2,
-        "difficulty": 5
+        "attack": 0.7,
+        "defense": 0.6,
+        "magic": 0.2,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Trundle.png",
@@ -6285,10 +6285,10 @@
       "imageurl": "Tryndamere.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 10,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 5
+        "attack": 1,
+        "defense": 0.5,
+        "magic": 0.2,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Tryndamere.png",
@@ -6334,10 +6334,10 @@
       "imageurl": "TwistedFate.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 6,
-        "defense": 2,
-        "magic": 6,
-        "difficulty": 9
+        "attack": 0.6,
+        "defense": 0.2,
+        "magic": 0.6,
+        "difficulty": 0.9
       },
       "image": {
         "full": "TwistedFate.png",
@@ -6383,10 +6383,10 @@
       "imageurl": "Twitch.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 9,
-        "defense": 2,
-        "magic": 3,
-        "difficulty": 6
+        "attack": 0.9,
+        "defense": 0.2,
+        "magic": 0.3,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Twitch.png",
@@ -6432,10 +6432,10 @@
       "imageurl": "Udyr.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 7,
-        "magic": 4,
-        "difficulty": 7
+        "attack": 0.8,
+        "defense": 0.7,
+        "magic": 0.4,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Udyr.png",
@@ -6481,10 +6481,10 @@
       "imageurl": "Urgot.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 8
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Urgot.png",
@@ -6530,10 +6530,10 @@
       "imageurl": "Varus.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 7,
-        "defense": 3,
-        "magic": 4,
-        "difficulty": 2
+        "attack": 0.7,
+        "defense": 0.3,
+        "magic": 0.4,
+        "difficulty": 0.2
       },
       "image": {
         "full": "Varus.png",
@@ -6579,10 +6579,10 @@
       "imageurl": "Vayne.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 10,
-        "defense": 1,
-        "magic": 1,
-        "difficulty": 8
+        "attack": 1,
+        "defense": 0.1,
+        "magic": 0.1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Vayne.png",
@@ -6628,10 +6628,10 @@
       "imageurl": "Veigar.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 10,
-        "difficulty": 7
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Veigar.png",
@@ -6677,10 +6677,10 @@
       "imageurl": "Velkoz.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 2,
-        "magic": 10,
-        "difficulty": 8
+        "attack": 0.2,
+        "defense": 0.2,
+        "magic": 1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Velkoz.png",
@@ -6775,10 +6775,10 @@
       "imageurl": "Vi.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 4
+        "attack": 0.8,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Vi.png",
@@ -6824,10 +6824,10 @@
       "imageurl": "Viego.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 6,
-        "defense": 4,
-        "magic": 2,
-        "difficulty": 5
+        "attack": 0.6,
+        "defense": 0.4,
+        "magic": 0.2,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Viego.png",
@@ -6873,10 +6873,10 @@
       "imageurl": "Viktor.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 4,
-        "magic": 10,
-        "difficulty": 9
+        "attack": 0.2,
+        "defense": 0.4,
+        "magic": 1,
+        "difficulty": 0.9
       },
       "image": {
         "full": "Viktor.png",
@@ -6922,10 +6922,10 @@
       "imageurl": "Vladimir.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 6,
-        "magic": 8,
-        "difficulty": 7
+        "attack": 0.2,
+        "defense": 0.6,
+        "magic": 0.8,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Vladimir.png",
@@ -6971,10 +6971,10 @@
       "imageurl": "Volibear.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 7,
-        "defense": 7,
-        "magic": 4,
-        "difficulty": 3
+        "attack": 0.7,
+        "defense": 0.7,
+        "magic": 0.4,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Volibear.png",
@@ -7020,10 +7020,10 @@
       "imageurl": "Warwick.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 9,
-        "defense": 5,
-        "magic": 3,
-        "difficulty": 3
+        "attack": 0.9,
+        "defense": 0.5,
+        "magic": 0.3,
+        "difficulty": 0.3
       },
       "image": {
         "full": "Warwick.png",
@@ -7069,10 +7069,10 @@
       "imageurl": "Xayah.png",
       "Lane": "Bottom.png",
       "info": {
-        "attack": 10,
-        "defense": 6,
-        "magic": 1,
-        "difficulty": 5
+        "attack": 1,
+        "defense": 0.6,
+        "magic": 0.1,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Xayah.png",
@@ -7118,10 +7118,10 @@
       "imageurl": "Xerath.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 1,
-        "defense": 3,
-        "magic": 10,
-        "difficulty": 8
+        "attack": 0.1,
+        "defense": 0.3,
+        "magic": 1,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Xerath.png",
@@ -7167,10 +7167,10 @@
       "imageurl": "XinZhao.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 8,
-        "defense": 6,
-        "magic": 3,
-        "difficulty": 2
+        "attack": 0.8,
+        "defense": 0.6,
+        "magic": 0.3,
+        "difficulty": 0.2
       },
       "image": {
         "full": "XinZhao.png",
@@ -7216,10 +7216,10 @@
       "imageurl": "Yasuo.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 8,
-        "defense": 4,
-        "magic": 4,
-        "difficulty": 10
+        "attack": 0.8,
+        "defense": 0.4,
+        "magic": 0.4,
+        "difficulty": 1
       },
       "image": {
         "full": "Yasuo.png",
@@ -7265,10 +7265,10 @@
       "imageurl": "Yone.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 8,
-        "defense": 4,
-        "magic": 4,
-        "difficulty": 8
+        "attack": 0.8,
+        "defense": 0.4,
+        "magic": 0.4,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Yone.png",
@@ -7314,10 +7314,10 @@
       "imageurl": "Yorick.png",
       "Lane": "Top.png",
       "info": {
-        "attack": 6,
-        "defense": 6,
-        "magic": 4,
-        "difficulty": 6
+        "attack": 0.6,
+        "defense": 0.6,
+        "magic": 0.4,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Yorick.png",
@@ -7363,10 +7363,10 @@
       "imageurl": "Yuumi.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 5,
-        "defense": 1,
-        "magic": 8,
-        "difficulty": 2
+        "attack": 0.5,
+        "defense": 0.1,
+        "magic": 0.8,
+        "difficulty": 0.2
       },
       "image": {
         "full": "Yuumi.png",
@@ -7412,10 +7412,10 @@
       "imageurl": "Zac.png",
       "Lane": "Jungle.png",
       "info": {
-        "attack": 3,
-        "defense": 7,
-        "magic": 7,
-        "difficulty": 8
+        "attack": 0.3,
+        "defense": 0.7,
+        "magic": 0.7,
+        "difficulty": 0.8
       },
       "image": {
         "full": "Zac.png",
@@ -7461,10 +7461,10 @@
       "imageurl": "Zed.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 9,
-        "defense": 2,
-        "magic": 1,
-        "difficulty": 7
+        "attack": 0.9,
+        "defense": 0.2,
+        "magic": 0.1,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Zed.png",
@@ -7510,10 +7510,10 @@
       "imageurl": "Ziggs.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 2,
-        "defense": 4,
-        "magic": 9,
-        "difficulty": 4
+        "attack": 0.2,
+        "defense": 0.4,
+        "magic": 0.9,
+        "difficulty": 0.4
       },
       "image": {
         "full": "Ziggs.png",
@@ -7559,10 +7559,10 @@
       "imageurl": "Zilean.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 2,
-        "defense": 5,
-        "magic": 8,
-        "difficulty": 6
+        "attack": 0.2,
+        "defense": 0.5,
+        "magic": 0.8,
+        "difficulty": 0.6
       },
       "image": {
         "full": "Zilean.png",
@@ -7608,10 +7608,10 @@
       "imageurl": "Zoe.png",
       "Lane": "Mid.png",
       "info": {
-        "attack": 1,
-        "defense": 7,
-        "magic": 8,
-        "difficulty": 5
+        "attack": 0.1,
+        "defense": 0.7,
+        "magic": 0.8,
+        "difficulty": 0.5
       },
       "image": {
         "full": "Zoe.png",
@@ -7657,10 +7657,10 @@
       "imageurl": "Zyra.png",
       "Lane": "Support.png",
       "info": {
-        "attack": 4,
-        "defense": 3,
-        "magic": 8,
-        "difficulty": 7
+        "attack": 0.4,
+        "defense": 0.3,
+        "magic": 0.8,
+        "difficulty": 0.7
       },
       "image": {
         "full": "Zyra.png",
