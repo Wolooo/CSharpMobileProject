@@ -16,7 +16,7 @@ namespace Legends.Models
 
         public string Lore { get; set; }
         public LegendInfo Info { get; set; }
-        public List<string> Tags { get; set; }
+        public string Tags { get; set; }
         public LegendStats Stats { get; set; }
     }
 }

@@ -1609,3 +1609,8 @@ C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\fighter.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\assassin.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\mage.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\marksman.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\tank.png
