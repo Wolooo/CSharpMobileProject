@@ -29,6 +29,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Blood Well",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Umbral Dash while casting The Darkin Blade to increase your chances of hitting the enemy.",
+          "secondtip": "Crowd Control abilities like Infernal Chains or your allies' immobilizing effects will help you set up The Darkin Blade.",
+          "thirdtip": "Cast World Ender when you are sure you can force a fight."
+        },
+        "enemytips": {
+          "firsttip": "Aatrox's attacks are very telegraphed, so use the time to dodge the hit zones.",
+          "secondtip": "Aatrox's Infernal Chains are easier to exit when running towards the sides or at Aatrox.",
+          "thirdtip": "Keep your distance when Aatrox uses his Ultimate to prevent him from reviving."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 90,
@@ -78,6 +90,17 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Charm to set up your combos, it will make landing Orb of Deception and Fox-Fire dramatically easier.",
+          "secondtip": "Initiate team fights using Charm, and chase down stragglers with Spirit Rush.",
+          "thirdtip": "Spirit Rush enables Ahri's abilities, it opens up paths for Charm, helps double hitting with Orb of Deception, and closes to make use of Fox-Fire."
+        },
+        "enemytips": {
+          "firsttip": "Ahri's survivability is dramatically reduced when her Ultimate, Spirit Rush, is down.",
+          "secondtip": "Stay behind minions to make Charm difficult to land, this will reduce Ahri's damage potential significantly."
+        }
+      },
       "stats": {
         "hp": 526,
         "hpperlevel": 92,
@@ -127,6 +150,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Energy",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 500,
         "hpperlevel": 105,
@@ -176,6 +211,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Whenever you think you're dead, don't panick. If Akshan gets a kill you will get revived thanks to his passive.",
+          "secondtip": "If you see Akshan rotating your lane in with Going Rogue. Don't do anything rash until he gets there.",
+          "thirdtip": "Protect Akshan at all costs since his passive revives team mates. This can change the tide of the game."
+        },
+        "enemytips": {
+          "firsttip": "The passive Mark of the Scoundrel gives Akshan the ability to resurrect allies, but keep in mind that it only activates once per fight. So be careful during team fights if Akshan is still standing",
+          "secondtip": "Heroic Hook is interrupted when colliding with an opponent, meaning he can't make a quick exit.",
+          "thirdtip": "Comeuppance is cast when marking a champion and after channeling, but projectiles can be interrupted if you stand behind turrets and allied minions."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 90,
@@ -225,6 +272,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Using Pulverize can allow you to establish better positioning for Headbutt.",
+          "secondtip": "Movement speed is very important on Alistar. Consider which boots to buy carefully.",
+          "thirdtip": "Using Flash can allow you catch your target off guard to knock them back into your allies with Pulverize and Headbutt."
+        },
+        "enemytips": {
+          "firsttip": "Alistar is very disruptive but very tough. Try to target more fragile damage dealers.",
+          "secondtip": "Watch out for the Pulverize-Headbutt combo when around turrets.",
+          "thirdtip": "When Alistar uses his ultimate, it's often better to move back and wait until the effect wears off before attacking him."
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 106,
@@ -274,6 +333,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Amumu is highly dependent on teammates, so try laning with your friends for maximum effectiveness.",
+          "secondtip": "Cooldown Reduction on Amumu is very strong, but it's often difficult to itemize for it. Grab the Golem buff whenever possible to gain Cooldown Reduction without sacrificing stats.",
+          "thirdtip": "Despair is very effective against other tanks, so make sure you're in range of opponents with the highest Health."
+        },
+        "enemytips": {
+          "firsttip": "Avoid bunching up with other allies when Amumu has his ultimate available.",
+          "secondtip": "Erratic movement, or hiding behind creep waves can make it difficult for Amumu to instigate a fight with Bandage Toss.",
+          "thirdtip": "Amumu's Despair makes purchasing primarily Health items a risky proposition."
+        }
+      },
       "stats": {
         "hp": 615,
         "hpperlevel": 75,
@@ -323,6 +394,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Timing Flash Frost with Frostbite can lead to devastating combinations.",
+          "secondtip": "Anivia is extremely reliant on Mana for Glacial Storm. Try getting items with Mana or going for a Crest of the Ancient Golem buff on Summoner's Rift.",
+          "thirdtip": "It can be very difficult for enemy champions to kill her egg early in game. Seize the advantage by playing aggressively."
+        },
+        "enemytips": {
+          "firsttip": "Try to gank Anivia when she's laning. With multiple people, it is easier to ensure that her egg dies.",
+          "secondtip": "If you're playing a ranged champion, stay far enough away from Anivia so you can dodge Flash Frost more easily.",
+          "thirdtip": "Try to fight Anivia in the lanes. In the jungle she can block pathways with lower ranks of Crystallize."
+        }
+      },
       "stats": {
         "hp": 480,
         "hpperlevel": 82,
@@ -372,6 +455,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Storing a stun for use with her ultimate can turn the tide of a team fight.",
+          "secondtip": "Striking killing blows on minions with Disintegrate enables Annie to farm extremely well early in the game.",
+          "thirdtip": "Molten Shield is a good spell to cast to work up to Annie's stun, so sometimes it's beneficial to grab at least 1 rank in it early."
+        },
+        "enemytips": {
+          "firsttip": "Annie's summoned bear, Tibbers, burns opposing units around himself. Try to keep your distance from him after he's been summoned.",
+          "secondtip": "Summoner Smite can be used to help take down Tibbers.",
+          "thirdtip": "Keep an eye out for a white, swirling power around Annie. It means she's ready to unleash her stun."
+        }
+      },
       "stats": {
         "hp": 524,
         "hpperlevel": 88,
@@ -421,6 +516,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Aphelios has a weak mobility ratio so you should definitly learn his base range before playing him in ranked. It's easy to get bursted down.",
+          "secondtip": "Aphelios has 5 weapons and he can equip 2 at the same time, one in his main hand and one in his off hand which he can swap pressing Phase",
+          "thirdtip": "Every auto attack will heal Aphelios for 3% to 20% everytime you hit an enemy"
+        },
+        "enemytips": {
+          "firsttip": "Aphelios has a weak mobility. Try and make use of this weakness whenever you notice he is out of position.",
+          "secondtip": "Each of Aphelios' weapons have different weaknesses, try to exploit the ones that work best for your champion. Watch out for the purple Gravity gun, it can root you.",
+          "thirdtip": "Whenever Aphelios is blind picked, you counter pick him with Caitlyn since Caitlyn outranges him with her auto attacks."
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 88,
@@ -470,6 +577,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try to fire Enchanted Crystal Arrow in the same direction enemies are moving, so it is more likely to hit.",
+          "secondtip": "Volley arrows are blocked by the first enemy they hit, so keep your distance to avoid having them all absorbed by enemy frontliners.",
+          "thirdtip": "Hawkshot reveals units in brush. If a team fight is occuring in the jungle it can give you a significant advantage."
+        },
+        "enemytips": {
+          "firsttip": "Ashe has very few defensive options, and she's a good target to gank.",
+          "secondtip": "Be wary of moving around the map alone if Ashe has not recently cast her Enchanted Crystal Arrow.",
+          "thirdtip": "Ashe's attack speed, early game, is very weak try and trade whenever she uses her Volley"
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 87,
@@ -519,6 +638,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can use Comet of Legend's flight to grow Starsurge to massive proportions.",
+          "secondtip": "Save Voice of Light to use as a defense against melee opponents if you need to - otherwise, use its slow to start a fight at long range.",
+          "thirdtip": "Comet of Legend allows you to move quickly around the map; use it to put pressure on other lanes."
+        },
+        "enemytips": {
+          "firsttip": "Try to get inside his orbit, since his stars can't hurt you up close.",
+          "secondtip": "His stars disappear while stunned or silenced, giving you an easy opportunity to fight him.",
+          "thirdtip": "He gains speed while chasing in a straight line, but taking damage makes him lose that momentum."
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 92,
@@ -568,6 +699,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Be careful about putting down both of the soldiers stored by Arise! Unless you're going all-in, always have a soldier in your back pocket if you need to escape over a wall or if you misposition your other soldier and need damage now.",
+          "secondtip": "In the lane, try to position your soldiers between the enemy's minions and the enemy champion. This way you can use them both to last hit and to project threat onto your lane opponent.",
+          "thirdtip": "Think of Emperor's Divide as a defensive ability first and foremost. Use it when the enemy engages on you or your allies. Remember that your team can walk through the soldiers summoned by Emperor's Divide and use this to your advantage when enemy melee champions engage on you."
+        },
+        "enemytips": {
+          "firsttip": "Azir relies on his soldiers to deal damage and can only move them so often. Try to capitalize on windows of time when his soldiers are stationary.",
+          "secondtip": "Azir has immense damage over a prolonged amount of time but lacks the upfront burst of other mages. Try to burst him out before he can turn a confrontation around.",
+          "thirdtip": "Try to think of Sand Soldiers as fire. Don't stand in the fire."
+        }
+      },
       "stats": {
         "hp": 552,
         "hpperlevel": 92,
@@ -617,6 +760,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "It's important to collect chimes to improve your meep's attacks, but don't neglect your lane partner! Try to make a big entrance by bringing an ally into the lane with you with Magical Journey.",
+          "secondtip": "Let your Caretaker's Shrines charge up, they heal for a lot more when at full power.",
+          "thirdtip": "Don't forget that enemies can also use your Magical Journey doorways, and that your ultimate can also hit your allies!"
+        },
+        "enemytips": {
+          "firsttip": "Bard's opponents can also travel through his Magical Journey doorways. You can follow him, if you think it's safe.",
+          "secondtip": "You can crush Bard's healing shrines just by walking over them. Don't let his allies take them without a fight.",
+          "thirdtip": "Bard's ultimate, Tempered Fate, affects allies, enemies, monsters, and turrets alike. Sometimes it can be to your advantage to jump into it!"
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 89,
@@ -666,6 +821,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "The 1-2-3 combo of Rocket Grab, Power Fist, and Static Field can devastate an individual opponent.",
+          "secondtip": "Using Blitzcrank's grab to pull an enemy into your tower range followed by a Power Fist will allow the tower to get several hits on them.",
+          "thirdtip": "Always position like you are gonna Rocket Grab someone but always dodge their spells."
+        },
+        "enemytips": {
+          "firsttip": "Blitzcrank's passive Mana Barrier grants him a shield when he is low on health.",
+          "secondtip": "Staying behind creeps can prevent you from being Rocket Grabbed. Blitzcrank's Rocket Grab only pulls the first enemy target it encounters.",
+          "thirdtip": "Blitzcrank has an insanely high cooldown on Rocket Grab"
+        }
+      },
       "stats": {
         "hp": 583,
         "hpperlevel": 95,
@@ -715,6 +882,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can deter enemies from standing near their minions by setting them ablaze, due to Conflagration.",
+          "secondtip": "You can use Brand's abilities in a variety of combinations to maximize his damage in different situations.",
+          "thirdtip": "Pyroclasm bounces randomly between enemies, so try to cast it on a small group of enemies if you want to hit the same target multiple times."
+        },
+        "enemytips": {
+          "firsttip": "Brand must land an ability before his combo is able to get started. Dodging his Sear or Pillar of Flame will disrupt his rhythm.",
+          "secondtip": "Try to move away from allies when you see Pyroclasm being cast. The initial missile speed is slow, which should give your team time to react.",
+          "thirdtip": "Brand's passive allows him to excel against teams that cluster together. Be sure to split up against him."
+        }
+      },
       "stats": {
         "hp": 520,
         "hpperlevel": 88,
@@ -764,6 +943,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Work with your allies to stack Concussive Blows, encourage them to basic attack marked targets.",
+          "secondtip": "Leap in front of squishy friends and shield them from projectiles with Unbreakable.",
+          "thirdtip": "Glacial Fissure leaves a powerful slow zone, position it well to split teamfights and slow the enemy approach."
+        },
+        "enemytips": {
+          "firsttip": "Braum must land Winter's Bite or a basic attack to start Concussive Blows. If you get marked, exit combat range before getting hit 3 more times to avoid the stun.",
+          "secondtip": "Braum's ultimate has a long cast time, use that extra time to dodge. Walking over the frozen ground left behind will slow you, position so that you don't need to cross it.",
+          "thirdtip": "Unbreakable gives Braum extremely strong directional defense, either wait until it is down or outposition the ability."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 98,
@@ -813,6 +1004,17 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Make use of her Yordle Snap Traps by placing them pre-emptively to ensure that you'll have one off of cooldown during combat.",
+          "secondtip": "Avoid using Ace in the Hole in large team melees as it might be blocked by the wrong target.",
+          "thirdtip": "Fire 90 Caliber Net away from the opponent to close the gap or hop over walls."
+        },
+        "enemytips": {
+          "firsttip": "Keep behind allied minions if Caitlyn is harassing you with Piltover Peacemaker (it deals less damage with each subsequent target).",
+          "secondtip": "You can intercept Ace in the Hole's missile from hitting an ally if you stand in its path.",
+        }
+      },
       "stats": {
         "hp": 510,
         "hpperlevel": 93,
@@ -862,6 +1064,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try waiting until the other team is distracted with fighting your team, and use Hookshot to pick off vulnerable targets.",
+          "secondtip": "Use the CC from your abilities to land both of your Precision Protocol attacks on enemies.",
+          "thirdtip": "Try to get first tower as soon as possible so you can rotate and help your teammates."
+        },
+        "enemytips": {
+          "firsttip": "Camille's shield only works against one damage type, so hit her when she's vulnerable to your damage.",
+          "secondtip": "The Hextech Ultimatum has a very short range to cast, so try to flash away from her before she gets close.",
+          "thirdtip": "Stopwatch is a very good item to have whenever she uses The Hextech Ultimatum."
+        }
+      },
       "stats": {
         "hp": 576,
         "hpperlevel": 85,
@@ -911,6 +1125,16 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Twin Fang on poisoned stationary targets like monsters and units stunned by her Petrifying Gaze for maximum damage.",
+          "secondtip": "Lead your enemy when targeting with Noxious Blast to ensure the hit.",
+        },
+        "enemytips": {
+          "firsttip": "Be wary of Cassiopeia's damage potential with Twin Fang when she has you poisoned.",
+          "secondtip": "Turn away from Cassiopeia when she is casting Petrifying Gaze to get slowed instead of stunned.",
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 90,
@@ -960,6 +1184,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try to line up your attacks with Vorpal Spikes so that they kill minions and harass enemy champions at the same time.",
+          "secondtip": "If you're having difficulty feasting upon champions, try eating minions until you're larger.",
+          "thirdtip": "Using Rupture on creeps in combination with Carnivore is a good way to gain Health and Mana."
+        },
+        "enemytips": {
+          "firsttip": "Purchasing a few HP items decreases the chances of Cho'Gath killing you quickly.",
+          "secondtip": "Focus on preventing Cho'Gath from reaching his max size.",
+          "thirdtip": "Rupture has a smoke cloud indicating the area it will strike. Try to watch out for it to prevent Cho'Gath from being able to combo his abilities."
+        }
+      },
       "stats": {
         "hp": 574,
         "hpperlevel": 80,
@@ -1009,6 +1245,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Phosphorus Bomb can be used to reveal enemy units that might be hiding in a nearby patch of brush.",
+          "secondtip": "Valkyrie can be used defensively as well, so try using it for a quick escape.",
+          "thirdtip": "Corki can continue to attack while using Gatling Gun. Maximizing Gatling Gun is key to mastering Corki."
+        },
+        "enemytips": {
+          "firsttip": "Watch out for Corki's Missile Barrage. They deal splash damage, so you can get hit even when hiding behind minions.",
+          "secondtip": "Corki is vulnerable after he uses his Valkyrie or Special Delivery, so try switching focus to him if he uses them to enter a fight.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 518,
         "hpperlevel": 87,
@@ -1058,6 +1306,17 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Decimate is a powerful harassment ability. Strike an enemy from maximum range for the greatest effect.",
+          "secondtip": "Noxian Guillotine does more damage the more attacks you can land prior to it. Use Noxian Might to deal maximum damage.",
+          "thirdtip": "Darius benefits greatly from enhanced survivability. The longer you can prolong a fight, the more powerful he becomes."
+        },
+        "enemytips": {
+          "firsttip": "When Darius's axe grab is on cooldown, he is vulnerable to harassment attacks.",
+          "secondtip": "Darius's ability to escape from fights is limited. If you have an advantage against him, press your lead.",
+        }
+      },
       "stats": {
         "hp": 582,
         "hpperlevel": 100,
@@ -1107,6 +1366,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Landing Crescent Strike is critically important, but don't be afraid to miss. The cooldown is short and the mana cost is low.",
+          "secondtip": "Consider when to cast Lunar Rush without Moonlight and when to wait for another Crescent Strike.",
+          "thirdtip": "Use Moonfall and Lunar Rush to stay on targets and activate Moonsilver Blade for extra damage."
+        },
+        "enemytips": {
+          "firsttip": "Dodge Crescent Strike, or move to safety if you are affected by Moonlight.",
+          "secondtip": "Pale Cascade orbs only last a few seconds. Avoid Diana and engage her after the shield dissipates.",
+          "thirdtip": "Diana can play very aggressively if she uses Lunar Rush without Moonlight, but you can punish her by slowing or stunning her when she has no way to get back into position."
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 95,
@@ -1156,6 +1427,17 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "If Draven doesn't move, Spinning Axe will fall near his present location. It will fall directly on him, or just to the right or left.",
+          "secondtip": "If Draven does move after attacking, Spinning Axe will lead him in the direction of his movement. Use this to control where the Spinning Axe will go.",
+          "thirdtip": "Your axes will go on cooldown whenever you drop them."
+        },
+        "enemytips": {
+          "firsttip": "Launch skillshots toward the landing position of Draven's Spinning Axes.",
+          "secondtip": "Disrupt Draven with the goal of making him drop his axes. If you do, his power drops dramatically.",
+        }
+      },
       "stats": {
         "hp": 605,
         "hpperlevel": 90,
@@ -1205,6 +1487,17 @@
       },
       "tags": "Fighter.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "A well-timed Sadism can bait enemy champions into attacking you even when they lack the damage to finish you.",
+          "secondtip": "Spirit Visage will increase the healing done by your ultimate and lower cooldowns on all of your abilities.",
+          "thirdtip": "Cleavers are a powerful tool for killing neutral monsters. Instead of returning to base, farm neutral monsters until your ultimate can heal you."
+        },
+        "enemytips": {
+          "firsttip": "Try to coordinate high-damage abilities with your allies right after Dr. Mundo uses his ultimate, but if you're unable to kill him quickly with burst he will heal through the damage.",
+          "secondtip": "Try casting Ignite when Dr. Mundo uses Sadism to negate a large portion of its healing.",
+        }
+      },
       "stats": {
         "hp": 583,
         "hpperlevel": 89,
@@ -1254,6 +1547,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Chronobreak is a potent escape tool, but it can also be quite powerful when used offensively. Don't underestimate its damage potential.",
+          "secondtip": "If you can proc Z-Drive Resonance on an enemy champion, it's worth taking risks to do so. The bonus movement speed makes it easy to escape.",
+          "thirdtip": "Phase Dive's dash is a great tool for setting up Ekko's other abilities. Use it to get double hits with Timewinder or get into position to detonate Parallel Convergence."
+        },
+        "enemytips": {
+          "firsttip": "Ekko is significantly weaker when his ultimate is down. Watch for the trail he leaves behind to determine if Chronobreak is available.",
+          "secondtip": "Ekko's stun zone takes 3 seconds to arm. Watch for the image he creates on cast and try to guess where the zone was placed.",
+          "thirdtip": "The second hit of Timewinder does more damage than the first; try to avoid it."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 85,
@@ -1303,6 +1608,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Spider Form is most effective at finishing off enemies with low health; Human Form's Neurotoxin does more damage to healthy foes. ",
+          "secondtip": "When in Spider Form, Spiderlings will attack the target that Elise uses Venomous Bite on. ",
+          "thirdtip": "Elise's Spider Form and Spider Form abilities do not cost mana and can be prioritized when you are trying to conserve mana."
+        },
+        "enemytips": {
+          "firsttip": "Elise's Spider Form is more dangerous when you are at low health, and her Human Form more potent when you are at high health.",
+          "secondtip": "Rappel will only move Elise straight up and down unless she can descend upon an enemy unit.",
+          "thirdtip": "Rappel has a long cooldown. Elise is vulnerable after she has used it."
+        }
+      },
       "stats": {
         "hp": 555,
         "hpperlevel": 93,
@@ -1352,6 +1669,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Allure's arm time might seem long, but the Charm and magic resist shred put Evelynn at an exteme advantage so are worth the wait.",
+          "secondtip": "While stealthed, pay attention to when you are (near) being detected by enemy champions. This is identified by the glowing yellow and red eyes over nearby enemy champions.",
+          "thirdtip": "If at low health, you can take advantage of Demon Shade's healing and Camouflage to return to the fight and surprise opponents."
+        },
+        "enemytips": {
+          "firsttip": "Purchasing Vision Wards can help you detect Evelynn's location in order to prepare for her ambushes.",
+          "secondtip": "A large share of Evelynn's threat is in her charm, 'Allure.' Protect allies marked with 'Allure' or, if you are marked, make sure allies are between you and where Evelynn may attack from.",
+          "thirdtip": "If you suspect Evelynn is about to ambush one of your teammates, let them know by pinging the minimap and typing in chat."
+        }
+      },
       "stats": {
         "hp": 572,
         "hpperlevel": 84,
@@ -1401,6 +1730,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Arcane Shift to help line up your other skill shots.",
+          "secondtip": "You can play Ezreal either as a Attack Damage carry or Ability Power carry depending on how you build him.",
+          "thirdtip": "You can line up Trueshot Barrage to hit multiple minion waves or even Monsters."
+        },
+        "enemytips": {
+          "firsttip": "Ezreal is a very fragile champion so take the fight to him.",
+          "secondtip": "Ezreal is completely skill shot based, so make sure to keep minions in between you.",
+          "thirdtip": "Mystic Shot applies on-hit effects including the Crest of Cinders."
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 88,
@@ -1450,6 +1791,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "",
+          "secondtip": "",
+          "thirdtip": ""
+        },
+        "enemytips": {
+          "firsttip": "",
+          "secondtip": "",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 580.4,
         "hpperlevel": 92,
@@ -1499,6 +1852,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Thanks to Duelist's Dance, Fiora excels at quick trades. Use the movement speed boost from striking a Vital to escape unscathed or set up for the next one.",
+          "secondtip": "Grand Challenge allows Fiora to take down even the most durable opponents and then recover if successful, so do not hesitate to attack the enemy's front line.",
+          "thirdtip": "Look for a teleport opportunity"
+        },
+        "enemytips": {
+          "firsttip": "Duelist's Dance shows you where Fiora will try to attack from, so be ready to punish her when she tries.",
+          "secondtip": "Be careful when casting immobilizing disables on Fiora. If her Riposte is available, she can turn their power against you.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 85,
@@ -1548,6 +1913,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Since Fizz can move through units, find opportunities in lane to walk through minions and apply Seastone Trident's passive, following it up with the ability's active attack after a few seconds.",
+          "secondtip": "Fizz's ultimate ability, Chum the Waters, can be aimed at an enemy or towards the area where you think they'll be going.",
+          "thirdtip": "Fizz's spells scale off Ability Power consider getting items like Zhonya's Hourglass or Banshee's Veil against teams that have high burst threat and items like Lich Bane or Rabadon's Deathcap if you think you can survive without the Health."
+        },
+        "enemytips": {
+          "firsttip": "Fizz's attacks becomes more deadly for a few seconds after he uses his empowered attack keep him away while his trident is glowing!",
+          "secondtip": "Fizz is a slippery target when his abilities are not on cooldown bait him into using them early and follow up with crowd control or hard-hitting attacks!",
+          "thirdtip": "Fizz has a weak early game wave-clear. Always push him under turret or freeze the wave whenever you have the opportunity."
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 98,
@@ -1597,6 +1974,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can release Shield of Durand even while crowd controlled.",
+          "secondtip": "You can use the minimap ally icons to cast Hero's Entrance.",
+          "thirdtip": "You can use the step back from Justice Punch to dodge enemy spells."
+        },
+        "enemytips": {
+          "firsttip": "Galio moves slower when he is charging Shield of Durand.",
+          "secondtip": "Hero's Entrance can be interrupted before Galio jumps into the air.",
+          "thirdtip": "Galio cannot traverse walls with Justice Punch."
+        }
+      },
       "stats": {
         "hp": 562,
         "hpperlevel": 112,
@@ -1646,6 +2035,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Parrrley applies On Hit effects like Frozen Mallet or Black Cleaver.",
+          "secondtip": "Paying attention to low-health enemies on the map can land you a surprise kill with Cannon Barrage.",
+          "thirdtip": "Try placing Cannon Barrage on the path of escape to cut off fleeing enemies."
+        },
+        "enemytips": {
+          "firsttip": "Parrrley deals a high amount of physical damage. Items that grant Armor can help if an enemy Gangplank is doing well.",
+          "secondtip": "Once Gangplank reaches level 6, watch out for his global-range ultimate, Cannon Barrage!",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 90,
@@ -1695,6 +2096,18 @@
       },
       "tags": "Fighter.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "Garen's regeneration greatly increases if he can avoid receiving damage for several seconds.",
+          "secondtip": "Judgment deals maximum damage when only hitting a single target. For effective trading, try to position such that only the enemy champion is hit.",
+          "thirdtip": "Garen is only constrained by cooldowns, making items such as Black Cleaver very effective for him."
+        },
+        "enemytips": {
+          "firsttip": "Stack armor items to lower the large amount of physical damage that Garen deals out.",
+          "secondtip": "Try to run away from Garen as your health gets lower, as he can execute you quickly with Demacian Justice.",
+          "thirdtip": "Judgment deals maximum damage when only hitting a single target. If getting out of its radius isn't possible, move through allied minions to reduce damage taken."
+        }
+      },
       "stats": {
         "hp": 620,
         "hpperlevel": 84,
@@ -1744,6 +2157,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Rage",
+      "tips": {
+        "allytips": {
+          "firsttip": "Managing your Rage is very important. Try to time out your transformations so you can get maximum benefit from both forms.",
+          "secondtip": "Position yourself next to walls to bait your enemies into getting stunned by your ultimate.",
+          "thirdtip": "Know your strengths! Mini Gnar is fast, squishy, and has high sustained damage. Mega Gnar is slow, tough, and has high burst."
+        },
+        "enemytips": {
+          "firsttip": "Gnar can't gain Rage for 15 seconds after he turns from big to little. Use this chance to engage on his team.",
+          "secondtip": "Gnar's animations and resource bar change as he gets closer to transforming.  ",
+          "thirdtip": "Gnar's ultimate stuns if he hits you into a wall. Be careful when fighting him near one."
+        }
+      },
       "stats": {
         "hp": 510,
         "hpperlevel": 65,
@@ -1793,6 +2218,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "The damage reduction from Drunken Rage is applied when you start drinking, try to use it when you see damage coming your way.",
+          "secondtip": "Try to knock enemies back into your towers with Explosive Cask.",
+          "thirdtip": "Try to combo Body Slam with Explosive Cask to set up kills for your team."
+        },
+        "enemytips": {
+          "firsttip": "Gragas can knock everybody away with his ultimate. Be careful that you don't get knocked into him or, worse, an enemy tower.",
+          "secondtip": "Body Slam is on a very low cooldown, making it difficult to pursue Gragas. Don't overextend yourself chasing him.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 95,
@@ -1842,6 +2279,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Smoke Screen can be used both to escape and to set up a kill.",
+          "secondtip": "Using Quickdraw to get into range and delivering a point blank Buckshot can do lots of damage.",
+          "thirdtip": "Graves is a snowball champion. Whenever you are behind, stay patient and keep farming."
+        },
+        "enemytips": {
+          "firsttip": "Graves deals mostly physical damage so Armor is an effective counter.",
+          "secondtip": "Leaving the Smoke Screen's area of effect removes the harmful effect immediately.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 555,
         "hpperlevel": 92,
@@ -1891,6 +2340,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Always be Attacking, in addition to dealing bonus damage, Gwen's Attacks empower or reset many of her Abilities.",
+          "secondtip": "Gwen can still damage enemies outside her Hallowed Mists, especially with her Ultimate's range.",
+          "thirdtip": "Some of Gwen's Abilities can apply her passive to multiple enemies, so aim them at groups to get maximum damage and healing."
+        },
+        "enemytips": {
+          "firsttip": "Gwen's Hallowed Mist shroud will only follow her once, after that it will dissipate when she leaves.",
+          "secondtip": "Gwen must hit something to recast her Ultimate, try to evade her between casts.",
+          "thirdtip": "Gwen needs to attack a few times to set up her damage, so try to get the jump on her."
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 90,
@@ -1940,6 +2401,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Spirit of Dread restores Health when nearby enemies take damage, including damage dealt by allies. Cast this during a large fight to maximize Hecarim's survivability.",
+          "secondtip": "Devastating Charge deals more damage based on the distance traveled.",
+          "thirdtip": "Try using Onslaught of Shadows or Summoner Spells such as Ghost or Flash to maximize this damage."
+        },
+        "enemytips": {
+          "firsttip": "Hecarim gains life from nearby enemies with Spirit of Dread but lacks durability, use burst damage.",
+          "secondtip": "Hecarim's ultimate causes opponents to flee in terror. Spread out to reduce his power in fights.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 90,
@@ -1989,6 +2462,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Turret placement can be a deciding factor in a battle. Against most enemies turrets are best when they can support each other, but if the enemy has a lot of area of effect damage your turrets can be destroyed quickly. Placing turrets in brush can lead to a surprise attack in your favor.",
+          "secondtip": "The success of Electron Storm Grenade is very important to Heimerdinger's survival. The slow and stun both are capable of keeping enemies in place long enough to punish them, but it is also the first line of defense against a surprise attack.",
+          "thirdtip": "Spreading out Hextech Micro-Rockets leads to more reliable damage and more efficiency against multiple targets, but focusing it creates the biggest impact."
+        },
+        "enemytips": {
+          "firsttip": "It's better to destroy all of Heimerdinger's turrets at once with the help of creeps than to fight them one at a time.",
+          "secondtip": "Be wary of Heimerdinger's Upgrade!!!, as he can use it to find an answer to most trouble he gets into. Once his ultimate is down, go in for the kill!",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 488,
         "hpperlevel": 87,
@@ -2038,6 +2523,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Tentacles are an immense source of power. Don't fight without them.",
+          "secondtip": "Spirits inherit their target's current health. If making a vessel is your goal, try whittling your opponent's health down a bit first to make killing the spirit easier.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Killing Tentacles whenever possible will make it much easier to win a fight against Illaoi.",
+          "secondtip": "When your spirit gets pulled out, fight back if you can. Dealing damage to Illaoi reduces the spirit's duration.",
+          "thirdtip": "Avoid grouping up for Leap of Faith to reduce the number of Tentacles available to Illaoi."
+        }
+      },
       "stats": {
         "hp": 586,
         "hpperlevel": 95,
@@ -2087,6 +2584,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Bladesurge to cover great distances by targeting low life minions on your way to champion targets.",
+          "secondtip": "Defiant Dance is not interrupted by crowd control, try timing it for incoming disables.",
+          "thirdtip": "Flawless Duet does not have a maximum travel distance, try using it in creative ways."
+        },
+        "enemytips": {
+          "firsttip": "Pay attention to Ionian Fervor stacks and try to engage Irelia when it is down.",
+          "secondtip": "Minion waves greatly enhance Irelia's mobility, beware fighting her inside one.",
+          "thirdtip": "Beware of wasting your high impact spells on Defiant Dance."
+        }
+      },
       "stats": {
         "hp": 520,
         "hpperlevel": 110,
@@ -2136,6 +2645,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try to help allies follow up a good Rootcaller hit with Triggerseed!",
+          "secondtip": "Use Brushmaker to set up future ambush spots!",
+          "thirdtip": "Daisy can block skillshots and slow down enemies. Use her to peel for your teammates!"
+        },
+        "enemytips": {
+          "firsttip": "Ivern can be deceptively slippery. Be careful chasing him too far.",
+          "secondtip": "Ivern's brush has a long duration. Watch out for ambushes!",
+          "thirdtip": "Be careful when fighting Ivern alone if he has Daisy ready to help!"
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 85,
@@ -2185,6 +2706,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Eye of the Storm can be used on allied turrets.",
+          "secondtip": "Quickly firing a Howling Gale without the charge up can be used to heavily disable the other team.",
+          "thirdtip": "Timing Janna's ultimate can push enemies away from a wounded ally or even separate enemies."
+        },
+        "enemytips": {
+          "firsttip": "Save an interrupt ability for when Janna uses her ultimate.",
+          "secondtip": "Listen for the charge up sound on Howling Gale in case Janna is trying to hit you with it from off screen or from brush.",
+          "thirdtip": "Janna's at her strongest when buffing another ally. If you can harass her ally, it will weaken her ability to fight you."
+        }
+      },
       "stats": {
         "hp": 500,
         "hpperlevel": 70,
@@ -2234,6 +2767,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can use the Dragon Strike / Demacian Standard combo to get out of your own Cataclysm arenas.",
+          "secondtip": "Split your basic attacks on different champions at the beginning of fights to maximize damage.",
+          "thirdtip": "Use Demacian Standard as a scouting tool when worried about incoming enemies."
+        },
+        "enemytips": {
+          "firsttip": "Keep out of the path between Jarvan IV and his Demacian Standard to avoid being knocked up in the air.",
+          "secondtip": "Cataclysm's terrain is a frightening force to fight against, but movement abilities can go through it.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 90,
@@ -2283,6 +2828,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Jax can Leap Strike to friendly units, including wards. You can use them to plan your escape.",
+          "secondtip": "Jax benefits greatly from items that have both Ability Power and Attack Damage such as Guinsoo's Rageblade and Hextech Gunblade.",
+          "thirdtip": "Jax has a weak early game, try to focus on farming and short trades."
+        },
+        "enemytips": {
+          "firsttip": "Try to engage him in short bursts instead of going toe-to-toe with him. Preventing him from attacking consecutively drastically lowers his damage output.",
+          "secondtip": "Jax can dodge all incoming attacks for a very short amount of time and stuns enemies in melee range when it ends.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 593,
         "hpperlevel": 85,
@@ -2332,6 +2889,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Be sure to switch stances often. It will enhance your attacks and grant you quick bursts of speed.",
+          "secondtip": "If you find yourself taking lots of damage, try using Jayce's Hammer Stance, as it grants you additional defenses.",
+          "thirdtip": "For increased range and damage, try casting Shock Blast through the Acceleration Gate."
+        },
+        "enemytips": {
+          "firsttip": "Jayce can attack in melee or at range. Pay attention to his stance and weapon color to know how he is going to attack.",
+          "secondtip": "If you see Jayce drop his Acceleration Gate, be careful, he is probably about to cast Shock Blast.",
+          "thirdtip": "Jayce is strong in the early game. If he gains the advantage, play defensively."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 90,
@@ -2381,6 +2950,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Deadly Flourish has incredible range. When approaching a fight be sure to look ahead for enemies that could be rooted.",
+          "secondtip": "Your ultimate deals significantly less damage to enemies with full health. Look to pick off weakened targets as they run away.",
+          "thirdtip": "You can still cast your spells while reloading. Use them to fill the down time."
+        },
+        "enemytips": {
+          "firsttip": "Deadly Flourish only roots those hit by one of Jhin's basic attacks, traps, or allies within the last 4 seconds.",
+          "secondtip": "Jhin places invisible traps around the map. Watch where you step!",
+          "thirdtip": "Jhin's attacks are quite potent, but he runs out of ammo after the 4th shot. Use this window to jump him and burst him down."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 93,
@@ -2430,6 +3011,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Rockets aren't always the best choice! Jinx's minigun is incredibly powerful when fully ramped up. Switch to it whenever an enemy champion gets too close.",
+          "secondtip": "Jinx's rockets deal full damage to all enemies in the explosion. Use them on minions in lane to hit nearby enemy champions without drawing minion aggro.",
+          "thirdtip": "When a fight starts try to stay on the edge of fray by poking with rockets and Zap!. Do not run in and unload with the minigun until you feel it is safe."
+        },
+        "enemytips": {
+          "firsttip": "Jinx's minigun takes time to ramp up. If you see her poking with rockets try to jump on her and burst her down.",
+          "secondtip": "Jinx's ultimate does less damage the closer you are to her.",
+          "thirdtip": "Jinx's snare grenades have a long cooldown and are her primary means of protecting herself. If she misses with them she will have a hard time escaping if engaged upon. "
+        }
+      },
       "stats": {
         "hp": 610,
         "hpperlevel": 86,
@@ -2479,6 +3072,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try to catch enemy carries alone to burst them with Icathian Rain.",
+          "secondtip": "Work with your teammates to set up your Ultimate and optimize damage with your passive.",
+          "thirdtip": "Make sure to buy items that will evolve at least 1 or 2 of your spells."
+        },
+        "enemytips": {
+          "firsttip": "Kai'Sa is very good at picking off isolated enemies. Stick together against her.",
+          "secondtip": "Kai'Sa is very vulnerable to getting outranged by mages and long range carries.",
+          "thirdtip": "Make sure to place wards in your blind spots so you can see Kai'Sa coming."
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 88,
@@ -2528,6 +3133,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Rend is a valuable last hitting aid, since its cooldown resets if it kills a target. ",
+          "secondtip": "Entering a move order once to trigger Martial Poise will not clear Kalista's basic attack target.",
+          "thirdtip": "Due to her passive, Kalista's Movement Speed is effectively increased by Attack Speed."
+        },
+        "enemytips": {
+          "firsttip": "Kalista's mobility is dependent upon attacking. This means it is low when she is outside of her attack range and that Attack Speed slows reduce the amount of distance she can cover in an engagement.",
+          "secondtip": "Kalista cannot cancel her basic attack wind up. While she is very mobile, this offers a window to land spells on her if you anticipate when she will begin attacking.",
+          "thirdtip": "If you can break line of sight from Kalista, including through brush, her basic attacks will miss you, falling harmlessly to the ground."
+        }
+      },
       "stats": {
         "hp": 534,
         "hpperlevel": 100,
@@ -2577,6 +3194,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Gathering Fire rewards aggressive play. Look to land abilities and basic attacks on your opponent to lower Mantra's cooldown and stay on the offensive.",
+          "secondtip": "When using Focused Resolve, slow your opponents with Inner Flame or speed yourself up with Inspire if you're having trouble sticking to a target. ",
+          "thirdtip": "Don't be too conservative with Mantra. Gathering Fire is strongest in teamfights, making it easy to recharge Mantra multiple times."
+        },
+        "enemytips": {
+          "firsttip": "Karma's passive lowers her Mantra cooldown when she hits enemy champions with abilities and basic attacks. Deny her from getting free hits on you.",
+          "secondtip": "Karma's Soulflare erupts for bonus damage in the area in which it's placed. React quickly and escape the circle to avoid taking heavy damage.",
+          "thirdtip": "Focused Resolve is a strong disengage tool. Create distance to avoid being rooted and seek to engage afterwards."
+        }
+      },
       "stats": {
         "hp": 534,
         "hpperlevel": 95,
@@ -2626,6 +3255,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Ask your allies to help point out when you should use Requiem to get kills in different lanes.",
+          "secondtip": "Lay Waste is very strong at farming minions and harassing enemy champions.",
+          "thirdtip": "Karthus's Wall Of Pain slows enemies use it whenever you are getting chased."
+        },
+        "enemytips": {
+          "firsttip": "Karthus can cast spells for a short duration after he is killed. Move away from his corpse to be safe.",
+          "secondtip": "Make sure you always have enough health to survive Requiem, even if you have to go back to the base more frequently to heal.",
+          "thirdtip": "Return to base if your Health is low so you can't get hit by Karthus's Fallen One."
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 87,
@@ -2675,6 +3316,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Kassadin has multiple item paths; he can go caster via Mana and Ability Power or anti-caster with Cooldown Reduction and Magic Resist.",
+          "secondtip": "Kassadin's ultimate has many uses and is on a shorter cooldown than most, use it often.",
+          "thirdtip": "Try to get the Ancient Golem buff to counteract Riftwalk's increasing Mana cost."
+        },
+        "enemytips": {
+          "firsttip": "Kassadin deals mostly magic damage. If he's doing well consider buying magic resist items like Mercury's Treads and Banshee's Veil.",
+          "secondtip": "Each time Kassadin consecutively uses Riftwalk, he pays more and more mana. Keep this in mind as you chase him.",
+          "thirdtip": "It takes 6 spell casts for Kassadin's slow, Force Pulse, to become castable. If he levels up that ability, judiciously use your own skills while laning against him."
+        }
+      },
       "stats": {
         "hp": 576,
         "hpperlevel": 105,
@@ -2724,6 +3377,18 @@
       },
       "tags": "Assassin.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "Picking up Daggers will significantly reduce Shunpo's cooldown.",
+          "secondtip": "Try waiting until the other team is distracted with fighting your team, and use Shunpo to teleport into the fray and unleash a devastating Death Lotus.",
+          "thirdtip": "Using Shunpo on an allied Champion, Dagger, or minion can be a great escape tactic."
+        },
+        "enemytips": {
+          "firsttip": "Katarina's abilities deal magic damage, so even if she's building Attack Damage items, get magic resistance to counter her.",
+          "secondtip": "Try to save a disable for when Katarina uses her Death Lotus.",
+          "thirdtip": "Stay away from her daggers so she can't Shunpo on you."
+        }
+      },
       "stats": {
         "hp": 602,
         "hpperlevel": 94,
@@ -2773,6 +3438,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Using Divine Judgment on a high-DPS ally can turn the tides of battle by giving your ally free reign to attack. ",
+          "secondtip": "Kayle's attacks become incredibly powerful once she gains attack range from Divine Ascent. Play safe until then. ",
+          "thirdtip": "Kayle benefits greatly from Attack Damage and Ability Power, making hybrid items like Nashor's Tooth and Hextech Gunblade very effective on her."
+        },
+        "enemytips": {
+          "firsttip": "Divine Judgment only grants Kayle or her allies immunity to damage. Slows and stuns can still be applied, so trap them if they're being overzealous.",
+          "secondtip": "Kayle is usually a fragile target. If you see her ultimate cast on an ally, switch to attacking her.",
+          "thirdtip": "Kayle starts the game as a weaker melee champion. Try to put her behind before she ascends to her ranged form."
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 85,
@@ -2822,6 +3499,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Look at the line-up of both your team and the enemy's team when picking your form.",
+          "secondtip": "Remember that nearby enemies can see which wall you're in.",
+          "thirdtip": "Whenever you damage a champion you can proc The Darkin Scythe, so you can take your form faster."
+        },
+        "enemytips": {
+          "firsttip": "Umbral Trespass requires Kayn to damage a target first. Try to dodge Blade's Reach to deny him a long range cast of Umbral Trespass.",
+          "secondtip": "When Kayn is in terrain near you, you will get a visual warning on the edge of the terrain he's in.",
+          "thirdtip": "Damage Kayn while he's in Shadow Step to shorten its duration, or apply hard crowd control (stun, charm, knockup, etc) to end Shadow Step immediately."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 85,
@@ -2871,6 +3560,18 @@
       },
       "tags": "Mage.png",
       "partype": "Energy",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can stun your opponents by inflicting 3 Marks of the Storm upon them.",
+          "secondtip": "Lightning Rush can be used to initiate fights with its Energy return component, allowing him to use other abilities afterward.",
+          "thirdtip": "You can land an initial Mark of the Storm debuff on an opponent with Thundering Shuriken, and then add to it with Electrical Surge."
+        },
+        "enemytips": {
+          "firsttip": "Consider playing a bit more cautiously around Kennen when you have a Mark of the Storm debuff. If he hits you with 3 Marks of the Storm, you will get stunned.",
+          "secondtip": "Kennen is flimsy by nature. Turn and attack him if he gets careless with Lightning Rush.",
+          "thirdtip": "Kennen's Ultimate still does damage whenever he uses stopwatch. Care!"
+        }
+      },
       "stats": {
         "hp": 541,
         "hpperlevel": 84,
@@ -2920,6 +3621,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Enemies are considered isolated if they have no allies within a short distance. The damage of Taste Their Fear is massively increased against these targets.",
+          "secondtip": "Unseen Threat activates when Kha'Zix cannot be seen by the enemy team. Reactivate by using brush or Void Assault. Don't forget to apply Unseen Threat by autoattacking enemy champions.",
+          "thirdtip": "Kha'Zix has a great deal of freedom to choose where and when to fight. Pick your battles carefully to succeed."
+        },
+        "enemytips": {
+          "firsttip": "Taste Their Fear deals bonus damage to targets that are isolated. Gain an advantage by fighting near allied minions, champions, or turrets.",
+          "secondtip": "Leap and Void Assault have long cooldowns. Kha'Zix is very vulnerable when these are not available.",
+          "thirdtip": "Whenever Khazix ganks he takes his ghost form so make use of pink wards so you can see his ganks."
+        }
+      },
       "stats": {
         "hp": 573,
         "hpperlevel": 85,
@@ -2969,6 +3682,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Moving around between attacks while jungling will help you avoid damage and also generate more heals from Wolf's Frenzy.",
+          "secondtip": "Pick which Hunts you want to pursue carefully; getting many of them is the key to success as the game goes on.",
+          "thirdtip": "Don't go in first to a large team fight. Wait for your teammates to initiate."
+        },
+        "enemytips": {
+          "firsttip": "Kindred is fragile. Turn the pressure up on her, and she will be forced to play cautiously.",
+          "secondtip": "Clear the Hunts Wolf activates on jungle camps to slow down Kindred's damage output.",
+          "thirdtip": "When Kindred uses Lamb's Respite get inside, it stops all champions from dying."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 85,
@@ -3018,6 +3743,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Courage",
+      "tips": {
+        "allytips": {
+          "firsttip": "Kled generates some courage by killing minions, but gets much more from fighting Champions.",
+          "secondtip": "The last hit of Violent Tendencies deals more damage than the first three - make sure you hit it!",
+          "thirdtip": "Chaaaaaaaarge!!! can be cast at a great range. Try and predict where the enemy team will be by the time you reach them."
+        },
+        "enemytips": {
+          "firsttip": "Kled generates courage by damaging enemies with his Pocket Pistol and basic attacks, killing minions, and attacking structures or epic monsters.",
+          "secondtip": "Watch Kled's courage bar when he's off his mount, when it reaches 100%, he will remount and regain a significant amount of health.",
+          "thirdtip": "Kled is much more threatening when he has Violent Tendencies ready."
+        }
+      },
       "stats": {
         "hp": 340,
         "hpperlevel": 70,
@@ -3067,6 +3804,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Kog'Maw can outrange most champions with his Bio-Arcane Barrage ability.",
+          "secondtip": "Use Void Ooze to set up a perfect Living Artillery.",
+          "thirdtip": "Make the most out of your Icathian Surprise."
+        },
+        "enemytips": {
+          "firsttip": "Kog'Maw doesn't have a good escape ability, so he is especially prone to ganks.",
+          "secondtip": "Run away from Kog'Maw after he dies!!!!",
+          "thirdtip": "Bio-Arcane Barrage allows Kog'Maw to kill Baron Nashor extremely early. It can be valuable to ward Nashor when Kog'Maw completes his Blade of the Ruined King."
+        }
+      },
       "stats": {
         "hp": 565,
         "hpperlevel": 85,
@@ -3116,6 +3865,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Distortion allows you to be aggressive with your other spells while being able to return to safety.",
+          "secondtip": "Using Distortion can help your positioning to land Ethereal Chains.",
+          "thirdtip": "You can chain Sigil of Malice and Ethereal Chains to prevent characters with blink from escaping for up to 4 seconds."
+        },
+        "enemytips": {
+          "firsttip": "LeBlanc's ultimate can create fake LeBlancs during her spellcast or, rarely, at a distant position. ",
+          "secondtip": "The fake LeBlanc created at a distance will always run at the nearest Champion, cast a harmless spell, then immediately disappear.",
+          "thirdtip": "Attacking LeBlanc first avoids most of her tricks, especially if she's recently used her dash, Distortion."
+        }
+      },
       "stats": {
         "hp": 528,
         "hpperlevel": 97,
@@ -3165,6 +3926,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Energy",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Sonic Wave before Dragon's Rage so you can chase the target with Resonating Strike.",
+          "secondtip": "Take advantage of Flurry by weaving in basic attacks between spell casts - this maximizes damage output and minimizes Energy loss.",
+          "thirdtip": "Self-casting Safeguard and using Iron Will are powerful tools for killing neutral monsters (in the jungle)."
+        },
+        "enemytips": {
+          "firsttip": "Stay spread out to minimize the impact of Lee Sin's ultimate, Dragon's Rage.",
+          "secondtip": "Lee Sin has powerful tools to combat physical damage in Iron Will and Cripple but he is still vulnerable to magic damage.",
+          "thirdtip": "Lee Sin relies heavily on following up with his abilities. Use disables to prevent him from chaining together his abilities and attacks."
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 85,
@@ -3214,6 +3987,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Lead the charge and mark your foes with Sunlight before your allies deal damage.",
+          "secondtip": "Shield of Daybreak and Zenith Blade form a powerful offensive combo.",
+          "thirdtip": "You can absorb a huge amount of damage using Eclipse, but you must stay near enemies to gain the bonus duration."
+        },
+        "enemytips": {
+          "firsttip": "When Leona activates Eclipse, you have three seconds to get away from her before she deals damage.",
+          "secondtip": "Only foes in the center of Solar Flare get stunned, so you can often avoid this if you're quick.",
+          "thirdtip": "Buy anti-tank items."
+        }
+      },
       "stats": {
         "hp": 576,
         "hpperlevel": 87,
@@ -3263,6 +4048,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 90,
@@ -3312,6 +4109,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can instantly use your ultimate on yourself by pressing the self cast key and the ultimate key at once (alt+R by default).",
+          "secondtip": "Casting Glacial Path and then running in the opposite direction will leave your enemies uncertain which way you will actually go.",
+          "thirdtip": "Lissandra's abilities are shorter range than those of many mages. As a result, buying items that offer both ability power and defense, like Zhonya's Hourglass and Banshee's Veil, can be a great choice to help her both survive and deal damage."
+        },
+        "enemytips": {
+          "firsttip": "The best way to stop Lissandra from moving using her Glacial Path is to immobilize her before she reactivates it.",
+          "secondtip": "Lissandra's Ring of Frost has a long cooldown at early ranks; engage her while it's on cooldown.",
+          "thirdtip": "Lissandra's Ice Shard only slows the first unit it hits. Approach Lissandra from behind your team's minions to avoid being slowed."
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 90,
@@ -3361,6 +4170,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "For optimal burst, try to combine Relentless Pursuit into Piercing Light.",
+          "secondtip": "Ardent Blaze actually explodes in a star pattern. Try to line it up so the spokes hit enemy champions.",
+          "thirdtip": "Once you have chosen an angle for The Culling, you cannot change it. Pick your moment well!"
+        },
+        "enemytips": {
+          "firsttip": "Lucian has strong burst, but little sustained damage.",
+          "secondtip": "Lucian cannot change the aim of The Culling. Take advantage of this by avoiding the angle of the bullets.",
+          "thirdtip": "Piercing Light does not give Lucian extra Attack Range. He still needs to find a target in range to line up his shot. Avoid Piercing Light by anticipating the angle Lucian will choose."
+        }
+      },
       "stats": {
         "hp": 571,
         "hpperlevel": 86,
@@ -3410,6 +4231,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Glitterlance can be fired at odd angles depending on where your cursor is - Moving your cursor closer to Pix and Lulu will change your area of effect size considerably.",
+          "secondtip": "Consider casting Help, Pix! on ranged attackers for the Pix boost and Wild Growth on Tanks or Fighters for the added initiation power.",
+          "thirdtip": "Whenever your adc is low and your abilities are on cooldown. Use your Ultimate!!!"
+        },
+        "enemytips": {
+          "firsttip": "The shots from Lulu's faerie can be intercepted - hide behind your minions to avoid the additional Faerie attacks.",
+          "secondtip": "Lulu excels when opponents heavily commit. Don't give her this chance! Use heavy harass tactics instead to force Lulu and her partner out of lane.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 525,
         "hpperlevel": 74,
@@ -3459,6 +4292,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Lux has great zone control abilities. Try to set up Lucent Singularity to prevent an enemy's advance or escape.",
+          "secondtip": "If you have trouble landing Prismatic Barrier, remember that it returns to you after it reaches max range. Try positioning yourself to hit your allies with its return trip.",
+          "thirdtip": "Lucent Singularity is a great scouting tool. Try throwing it into brush before walking into it to check for ambushes."
+        },
+        "enemytips": {
+          "firsttip": "Lux has powerful zone control abilities. Try to spread out and attack from different directions so she cannot lock down a specific area.",
+          "secondtip": "When retreating with low health, be prepared to dodge Lux's Final Spark, a red targeting beam fires prior to the main beam, so try to move to the side if possible.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 490,
         "hpperlevel": 85,
@@ -3508,6 +4353,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Armor naturally reduces the rate that attacks go through Granite Shield, so Brutal Strikes will strengthen the shield against physical damage.",
+          "secondtip": "Despite his abilities scaling on Armor, some games require Malphite to get Magic Resist. When those games occur, try getting Aegis of the Legion, Mercury's Treads, and Guardian Angel.",
+          "thirdtip": "Malphite's W has an auto-attack reset."
+        },
+        "enemytips": {
+          "firsttip": "If you're a physical damage character stay behind your allies when fighting Malphite. Ground Slam can significantly reduce your damage output.",
+          "secondtip": "Malphite is one of a couple tanks who are capable of jungling. Watch out if he gets Smite.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 574,
         "hpperlevel": 90,
@@ -3557,6 +4414,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Wait to cast Void Swarm until there are nearby enemies for the Voidling to attack or kill.",
+          "secondtip": "Use Call of the Void and Nether Grasp to renew the duration of Malefic Visions on enemies.",
+          "thirdtip": "Avoiding damage in lane maximizes the uptime on Void Shift, increasing Malzahar's safety dramatically."
+        },
+        "enemytips": {
+          "firsttip": "When Malzahar hits a spell on enemies affected by Malefic Visions, the Visions are refreshed.",
+          "secondtip": "Avoid minion waves that have been affected by Malefic Visions. You never know when they may die and pass the Visions onto you.",
+          "thirdtip": "Malzahar is especially dangerous when he has built up his Void Swarm."
+        }
+      },
       "stats": {
         "hp": 510,
         "hpperlevel": 87,
@@ -3606,6 +4475,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Saplings can be tossed into brush for empowered effect - but don't stack well.",
+          "secondtip": "Try looking for flanks or other situations where Nature's Grasp is unavoidable or takes enemies by surprise.",
+          "thirdtip": "Maokai's passive makes him extremely durable against focus fire from spells - so long as he can still basic attack something."
+        },
+        "enemytips": {
+          "firsttip": "Saplings will chase the first enemy that gets too close, but detonate after a few seconds or if they collide with other enemies. Be especially careful around brush sapling, as they are much more dangerous.",
+          "secondtip": "The cooldown on Maokai's self healing is heavily gated on how many time you hit him with spells. Careful about wasting abilities on him.",
+          "thirdtip": "Maokai will avoid taking damage while he's using Twisted Advance, so don't waste your spells."
+        }
+      },
       "stats": {
         "hp": 565,
         "hpperlevel": 95,
@@ -3655,6 +4536,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "If you're in a lane against ranged players, leveling up Meditate can allow you to stay in the lane longer and gain levels faster than they will.",
+          "secondtip": "Wuju Style is very strong early for last hitting minions.",
+          "thirdtip": "Try using Alpha Strike on a minion in front of an enemy champion so you are placed at a safe distance at the end of the spell."
+        },
+        "enemytips": {
+          "firsttip": "Meditate is an effective method of healing damage over time, but Master Yi is susceptible to coordinated team ganks early in the game.",
+          "secondtip": "If Master Yi tries to farm with Alpha Strike, hit him a few times so he has to use mana with Meditate to heal.",
+          "thirdtip": "Although Master Yi cannot be slowed while using Highlander, other disables can stop him in his tracks."
+        }
+      },
       "stats": {
         "hp": 599,
         "hpperlevel": 92,
@@ -3704,6 +4597,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Miss Fortune ramps up speed if she hasn't recently taken damage. Avoid getting hit to move very fast.",
+          "secondtip": "Use Double Up on the furthest enemy minion if enemy champions are hiding in back; it will bounce to them for lots of damage.",
+          "thirdtip": "Make sure to utilize Love Tap while Strut is on cooldown to maximize the active's availability."
+        },
+        "enemytips": {
+          "firsttip": "Miss Fortune's speed boost is removed if she is damaged by an enemy.",
+          "secondtip": "Miss Fortune is easy to kill if you can reach her; target her first in team fights.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 93,
@@ -3753,6 +4658,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Decoy and Nimbus Strike work well together to quickly strike your enemy and get out before they can retaliate.",
+          "secondtip": "Try using Decoy near brush to make an enemy overreact to your movement.",
+          "thirdtip": ""
+        },
+        "enemytips": {
+          "firsttip": "Wukong will often use Decoy after Nimbus Strike. Try delaying your abilities by a short amount of time to ensure that you're hitting the real Wukong.",
+          "secondtip": "Wukong becomes tougher to kill when surrounded by his enemies. Try to isolate him to gain an advantage.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 85,
@@ -3802,6 +4719,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Shield",
+      "tips": {
+        "allytips": {
+          "firsttip": "Offense is your defense. Keep fighting to build up larger Indestructible shields.",
+          "secondtip": "Hitting multiple champions with the same ability can help quickly activate Darkness Rise.",
+          "thirdtip": "Use Realm of Death on a low health enemy to guarantee the kill and keep their stats for the rest of a teamfight."
+        },
+        "enemytips": {
+          "firsttip": "Mordekaiser builds up a powerful damage aura when fighting champions, so keep your distance.",
+          "secondtip": "Damage he deals can be converted into a large shield, and consumed for health",
+          "thirdtip": "Realm of Death will cut you off from your teammates completely. Try to save mobility spells to escape Mordekaiser once inside"
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 90,
@@ -3851,6 +4780,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Shrewd use of Black Shield can determine the outcome of team fights.",
+          "secondtip": "Items that provide survivability allow Morgana to become extremely difficult to kill in conjunction with Black Shield and Soul Shackles.",
+          "thirdtip": "Tormented Shadow is an excellent farming tool if you're by yourself in a lane."
+        },
+        "enemytips": {
+          "firsttip": "Tormented Shadow deals tons of damage to units missing large amounts of Health. When low on Health, be wary of Morgana's attempts to trap you within its reach.",
+          "secondtip": "Morgana often needs to land Dark Binding to setup her other attacks. Use your minions as shields against Dark Binding.",
+          "thirdtip": "Black Shield makes Morgana immune to disabling effects, but can be broken with magic damage."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 90,
@@ -3900,6 +4841,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Aqua Prison has a long cooldown, make sure to use it at the right moment.",
+          "secondtip": "Using Ebb and Flow during an engagement with enemy champions will help sway the battle in your favor.",
+          "thirdtip": "Nami's ultimate can come in very handy for initiating on enemies who are far away."
+        },
+        "enemytips": {
+          "firsttip": "Aqua Prison is a very powerful ability with a long cooldown, take advantage of the situation if Nami misses this ability.",
+          "secondtip": "Tidal Wave has a very long range but travels slowly, be aware of when it is coming your way as you can move out of its path.",
+          "thirdtip": "Try to avoid fighting an opponent affected by Tidecaller's Blessing, it lasts a short duration so waiting it out can help you greatly."
+        }
+      },
       "stats": {
         "hp": 490,
         "hpperlevel": 74,
@@ -3949,6 +4902,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Paying attention to last hitting with Siphoning Strike will have a large impact at the end of a game.",
+          "secondtip": "If you're solo, Spirit Fire is a great way to farm a lane. It can be bad if you're in a lane with 2 and you push too far. Find the right balance between Siphoning Strike last hits and AoE farming.",
+          "thirdtip": "If you have low defenses, people will focus you down even during your ultimate. Try buying some survivability items even in your DPS builds."
+        },
+        "enemytips": {
+          "firsttip": "While transformed by his ultimate, Nasus is stronger than most champions in the League. Engage him only if you have a clear advantage.",
+          "secondtip": "Max rank Wither is a very effective counter to Attack Damage characters, so try to avoid getting caught alone by it.",
+          "thirdtip": "Nasus is prone to being kited. Try not to engage him at full Health."
+        }
+      },
       "stats": {
         "hp": 561,
         "hpperlevel": 90,
@@ -3998,6 +4963,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "While ganking, consider aiming Dredge Line at nearby terrain and following it up with Riptide for a higher hit rate.",
+          "secondtip": "Riptide has a delayed blast timing on activation - you can use this while running away or when enemies are incoming to serve as a deterrent.",
+          "thirdtip": "Nautilus can grab walls for faster map rotation."
+        },
+        "enemytips": {
+          "firsttip": "If Nautilus uses Riptide right next to you, hold in place until the ripple effect finishes before running. Running early will run straight into the secondary explosions, causing you to take additional damage and slow.",
+          "secondtip": "While Nautilus is shielded, he is capable of dealing large amounts of area of effect damage with his basic attacks - consider taking down the shield if you have time.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 576,
         "hpperlevel": 86,
@@ -4047,6 +5024,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can set her passive to use hotkeys in the options menu. The default is Shift+F1-F5",
+          "secondtip": "Try to use Inherent Glamour sparingly, ineffective uses will put enemies on the alert.",
+          "thirdtip": "Neeko's ultimate grants her a shield for a short amount of time."
+        },
+        "enemytips": {
+          "firsttip": "Standing behind minions against Neeko is very dangerous as Tangle-Barbs become stronger.",
+          "secondtip": "Pop Blossom's warning visuals are invisible if Neeko is disguised.",
+          "thirdtip": "Neeko's stun passes through minions."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 90,
@@ -4096,6 +5085,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use brush to your advantage! Moving in and out of brush can heavily alter your effectiveness in battle.",
+          "secondtip": "Start team fights by harassing with your Javelin Toss, and then switch to cougar form to chase down Hunted targets.",
+          "thirdtip": "Bushwhack traps deal damage based on their victim's current Health. Set them up in your team's backline before fights break out during sieges to help your team deal damage to the enemy frontline."
+        },
+        "enemytips": {
+          "firsttip": "Nidalee's Hunt debuff is only applied with Javelin Toss and Bushwhack. Avoiding being hit by these abilities will impair her ability to deal follow-up damage.",
+          "secondtip": "Nidalee's Javelin Toss deals more damage the farther she is. If she is far away, it's imperative to dodge it.",
+          "thirdtip": "Nidalee's Takedown deals extreme damage to Hunted targets, but she has to get close to use it. Save your crowd control or defensive abilities for when she goes in for the kill."
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 95,
@@ -4145,6 +5146,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Using Paranoia at a critical moment is well worth it even if you cannot use the dash.",
+          "secondtip": "Duskbringer isn't only an offensive ability. It can be used to close distance out of combat or escape from certain death.",
+          "thirdtip": "Use Shroud of Darkness in tandem with Paranoia's dash. Your opponents may panic and waste a critical disable on your spell shield."
+        },
+        "enemytips": {
+          "firsttip": "Stay close to your allies when Paranoia is cast - there is strength in numbers!",
+          "secondtip": "Nocturne's Unspeakable Horror is broken with range, so try to save your movement abilities for when he casts it.",
+          "thirdtip": "Stay out of vision. Whenever Nocturne uses Paranoia he can't recast it on you."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 85,
@@ -4194,6 +5207,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Consume allows Nunu to stay in a lane against ranged opponents.",
+          "secondtip": "You can choose to interrupt Absolute Zero early for partial damage if an opponent is about to run out of range.",
+          "thirdtip": "It's often beneficial to delay the casting of Absolute Zero until the initial round of disables are used. Try to hang back before rushing into a team fight."
+        },
+        "enemytips": {
+          "firsttip": "Interrupting the charge up on Absolute Zero will lower the amount of damage your team takes.",
+          "secondtip": "Using Summoner Flash is a surefire way to escape Absolute Zero.",
+          "thirdtip": "Biggest Snowball Ever moves very fast but cannot turn as quickly, so don't try to escape it by running away in a straight line.  Instead, make sudden, sharp turns."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 82,
@@ -4243,6 +5268,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Olaf can combine Berserker Rage, Vicious Strikes, and Ragnarok at low life to become deceptively strong.",
+          "secondtip": "The bonus healing granted by Vicious Strikes amplifies your Life Steal from all sources as well as heals from allies.",
+          "thirdtip": "Olaf's is becomes unaffected by CC. Use it whenever the time is right."
+        },
+        "enemytips": {
+          "firsttip": "Olaf becomes more dangerous the lower life he is. Save your disables to finish him off.",
+          "secondtip": "Preventing Olaf from reaching his axe will minimize the amount of harassment he can cause in the laning phase.",
+          "thirdtip": "Olaf has reduced defenses from damage during Ragnarok, despite being immune to disables. If you can't escape from Olaf during Ragnarok, try focusing your damage on him with your teammates."
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 100,
@@ -4292,6 +5329,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Command: Protect can be used on yourself to return the Ball back to you quickly. Combine this with Command: Attack for a quick harassment.",
+          "secondtip": "Command: Dissonance is a very powerful escape tool if Orianna has the Ball. The combination of speed and leaving a slowing obstacle can be quite powerful.",
+          "thirdtip": "Command: Shockwave can be used to drag enemies towards you or away from you if you position the Ball properly."
+        },
+        "enemytips": {
+          "firsttip": "Orianna can only affect the area the Ball is around. Use this to your advantage.",
+          "secondtip": "Watch out for Orianna's Ball returning to her due to leashing. This may cause some unexpected situations.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 91,
@@ -4340,6 +5389,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Learning build paths of items can help quickly select upgrades in lane.",
+          "secondtip": "Volcanic Rupture can be used to set up zoning areas to threaten enemies.",
+          "thirdtip": "The order of your abilties matters! Try to optimize Brittle usage."
+        },
+        "enemytips": {
+          "firsttip": "Try to stay away from walls. Ornn is much less strong if he cannot stun you.",
+          "secondtip": "Attack Ornn to keep him from creating items in lane.",
+          "thirdtip": "Ornn ultimate can recast and it was knock you up when it hits you a second time.s"
+        }
+      },
       "stats": {
         "hp": 590,
         "hpperlevel": 95,
@@ -4389,6 +5450,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Mortal Will activates after 5 spells or basic attacks - plan your way through fights to allow you to activate it more than once.",
+          "secondtip": "Whittle the enemy down with Comet Spears before you jump in.",
+          "thirdtip": "If an enemy is going to get out of range of your Aegis Assault, you can recast the spell to immediately fire the shield slam."
+        },
+        "enemytips": {
+          "firsttip": "Pantheon's Aegis Assault makes him invulnerable from the front. Get behind him or wait it out.",
+          "secondtip": "Be careful near Pantheon if your health is low - a thrown Comet Spear executes low health enemies.",
+          "thirdtip": "Grand Starfall gives several seconds of warning before Pantheon arrives. Use this time to get out of the way or to form a plan to deal with him."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 95,
@@ -4438,6 +5511,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Iron Ambassador tends to land near walls, try to take advantage of this with Heroic Charge.",
+          "secondtip": "Keeper's Verdict can be released immediately to send the enemy straight up, take advantage of this in duels.",
+          "thirdtip": "Knock away high damage champions."
+        },
+        "enemytips": {
+          "firsttip": "Poppy can stop nearby enemies from dashing with Steadfast Presence.",
+          "secondtip": "When Poppy starts to spin her hammer, she is charging Keeper's Verdict.",
+          "thirdtip": "You can step on Poppy's shield to deny it from her."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 90,
@@ -4487,6 +5572,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Pyke is very fragile so don't be afraid to temporarily run from a fight. You can regenerate a significant amount of health from Gift of the Drowned Ones when enemies can't see you.",
+          "secondtip": "Hitting an enemy with the Hold version of Bone Skewer will always pull them the same distance. Use it in melee range to throw targets behind you.",
+          "thirdtip": "The Tap version of Bone Skewer is much faster and deals additional damage."
+        },
+        "enemytips": {
+          "firsttip": "Pyke regenerates a significant amount of damage he has taken from enemy champions, but only when you can't see him!",
+          "secondtip": "When Pyke is hidden nearby in his Ghostwater Dive, sharks will circle underneath your feet.",
+          "thirdtip": "Try not to stand near low health allies. If Pyke executes them using Death From Below, you might be next on the list."
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 90,
@@ -4536,6 +5633,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 590,
         "hpperlevel": 90,
@@ -4585,6 +5694,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Attacking a vulnerable target marked by Valor will put Harrier on cooldown. Quickly consuming Harrier marks will allow you to generate them faster.",
+          "secondtip": "Vault is powerful but must be used with caution, as enemies can attack Quinn when she strikes them. Vault can sometimes be used to cross terrain if your back is to a wall.",
+          "thirdtip": "Use Behind Enemy Lines for traveling very long distances quickly, for farming minions around the map, or for chasing wounded targets."
+        },
+        "enemytips": {
+          "firsttip": "After being marked, move away from Quinn so she can't take advantage of it.",
+          "secondtip": "Keep tabs on Quinn's position. Behind Enemy Lines can enable Valor to cross the map very quickly and attack you by surprise.",
+          "thirdtip": "When Quinn is using Behind Enemy Lines, damaging her removes her movement speed bonus temporarily."
+        }
+      },
       "stats": {
         "hp": 533,
         "hpperlevel": 85,
@@ -4634,6 +5755,18 @@
       },
       "tags": "",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Rakan requires allies near him to make the most out of his tools.",
+          "secondtip": "Rakan's dash speeds increase with his movement speed. Use the extra speed to surprise your enemies!",
+          "thirdtip": "Danger is as fun as you let it be."
+        },
+        "enemytips": {
+          "firsttip": "Rakan's movement abilities forecast their destination. Try to use this to your advantage.",
+          "secondtip": "Champions with crowd control that can be applied quickly excel against Rakan.",
+          "thirdtip": "Catching Rakan with no allies around severely inhibits his mobility. Try to find him alone."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 85,
@@ -4684,6 +5817,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Powerball can be used as an effective escape mechanism.",
+          "secondtip": "Using taunt on a champion by your tower can cause the tower to attack your enemy.",
+          "thirdtip": "Tremors and Defensive Ball Curl can be used late in the game to obliterate towers. If you're bogged down in a team fight, it is often valuable to break off and attack the buildings."
+        },
+        "enemytips": {
+          "firsttip": "Pay particular attention to when his Defensive Ball Curl is off. Rammus has much lower stats than a normal tank when he's out of the stance.",
+          "secondtip": "Rammus often stacks high Armor, leaving him especially vulnerable to caster damage while not in Defensive Ball Curl.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 564,
         "hpperlevel": 80,
@@ -4733,6 +5878,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Rage",
+      "tips": {
+        "allytips": {
+          "firsttip": "Keeping tunnels spread out across the map will ensure you have choices when you want to cast Void Rush.",
+          "secondtip": "Cast Burrow before travelling around the map to take advantage of the increased Movement Speed and the safety provided by Tremor Sense.",
+          "thirdtip": "Tremor Sense can warn you of enemies closing in, and is particularly useful when entering enemy territory."
+        },
+        "enemytips": {
+          "firsttip": "If you see one of Rek'Sai's tunnels, briefly stand on one of the entrances to destroy it.",
+          "secondtip": "Rek'Sai's Furious Bite gains damage as she builds Fury. Be very careful around her when her Fury is full.",
+          "thirdtip": "When Rek'Sai is near, she can see the position of you and your allies, but only if you're moving."
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 85,
@@ -4782,6 +5939,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 90,
@@ -4831,6 +6000,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Fury",
+      "tips": {
+        "allytips": {
+          "firsttip": "Slice and Dice excels at harassing maneuvers. Slice in, follow up with another skill and then Dice back out to safety.",
+          "secondtip": "Cull the Meek drains an enormous amount of life when used in the middle of the fray. You can use this to bait opponents into thinking you are weaker than you really are.",
+          "thirdtip": "Cooldown reduction is especially good for Renekton, allowing him to both quickly build up and use his Fury."
+        },
+        "enemytips": {
+          "firsttip": "Pay close attention to Renekton's Fury gauge as that will usually signify when he is about to attack.",
+          "secondtip": "Keeping Renekton from being able to fight and gain Fury by continually harassing him will severely reduce the effectiveness of his abilities.",
+          "thirdtip": "Ranged Top Laners are good against Renekton."
+        }
+      },
       "stats": {
         "hp": 590,
         "hpperlevel": 92,
@@ -4880,6 +6061,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Ferocity",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Rengar's ultimate to find and assassinate high priority targets in team fights and skirmishes.",
+          "secondtip": "A lot of Rengar's power comes from empowered abilities he uses at the right moment - choose wisely!",
+          "thirdtip": "Make sure to take paths through brush when chasing opponents to take advantage of Rengar's passive."
+        },
+        "enemytips": {
+          "firsttip": "Rengar gains an empowered ability when his resource bar is full. Try to confront him when it's low.",
+          "secondtip": "Rengar's passive enables him to leap out of brush, so avoid fighting him when near bushes.",
+          "thirdtip": "Rengar puts an indicator over the nearest enemy champion when he is camouflaged during his ultimate."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 90,
@@ -4929,6 +6122,18 @@
       },
       "tags": "Fighter.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "Riven's Broken Wings locks onto the champion your cursor is over at the time of cast. If you want to move past your opponent, make sure that your cursor is past your opponent as well.",
+          "secondtip": "Riven lacks a source of healing or strong defense and must compensate with burst combos. Lead into fights with Broken Wings and Ki Burst, while using Valor to escape and absorb counter-harass.",
+          "thirdtip": "Recast Riven's QSpell so you can run away faster."
+        },
+        "enemytips": {
+          "firsttip": "Riven has a great deal of mobility but she cannot move very far with any one skill. Rooting or silencing her during her combo will greatly reduce her effectiveness.",
+          "secondtip": "All of Riven's damage is physical, prioritize high Armor if an opposing Riven gets out of control.",
+          "thirdtip": "Riven excels at dueling multiple melee attackers at once, as she will be on an almost equal footing damage-wise. If pairing up against Riven, don't go in as double melee until she has expended her full combo."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 86,
@@ -4978,6 +6183,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Heat",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try and pace yourself to stay in the Danger Zone to maximize your effectiveness. It is easy to overheat if you rapidly use your abilities.",
+          "secondtip": "Try and keep targets in the range of your Flamespitter. It can deal a lot of damage overtime.",
+          "thirdtip": "If you are winning a fight you can use your ultimate to wall off an escape path."
+        },
+        "enemytips": {
+          "firsttip": "Watch Rumble's Heat bar carefully. If you see him Overheat, go in for the kill while his skills are disabled.",
+          "secondtip": "Rumble's ultimate can deal a lot of damage if you stay inside the area of effect. When you see the missiles falling, move out of the way as quickly as possible.",
+          "thirdtip": "Rumble deals almost entirely magic damage. Build some Magic Resistance to reduce his damage."
+        }
+      },
       "stats": {
         "hp": 589,
         "hpperlevel": 85,
@@ -5027,6 +6244,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Overload's passive to optimize for maximum damage or maximum speed.",
+          "secondtip": "Spell Flux's short cooldown allows it to be used to spread Flux to many enemies.",
+          "thirdtip": "Ryze can move and cast other spells while Realm Warp is charging without cancelling the portal."
+        },
+        "enemytips": {
+          "firsttip": "Ryze is especially dangerous to opponents that are marked with Flux.",
+          "secondtip": "Ryze is especially dangerous to opponents that are marked with Flux.",
+          "thirdtip": "Crowd controlling Ryze during Realm Warp's windup will cancel the portal."
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 110,
@@ -5076,6 +6305,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 88,
@@ -5125,6 +6366,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Arctic Assault to escape bad situations, interupt channeled spells or chase runners.",
+          "secondtip": "Melee allies can stack Frost for your Permafrost, keep an eye on who they are attacking.",
+          "thirdtip": "Save Glacial Prison for encounters where you have teammates present to take advantage of it."
+        },
+        "enemytips": {
+          "firsttip": "Dodging Arctic Assault and Glacial Prison can give you a huge advantage.",
+          "secondtip": "Focus on avoiding the second swing of Winter's Wrath which carries the brunt of the damage.",
+          "thirdtip": "Melee enemies can also stack Frost for Sejuani, be very careful around them."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 100,
@@ -5174,6 +6427,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 520,
         "hpperlevel": 75,
@@ -5223,6 +6488,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 500,
         "hpperlevel": 90,
@@ -5272,6 +6549,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Grit",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 600,
         "hpperlevel": 93,
@@ -5321,6 +6610,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Using Deceive over terrain can help you make a clean escape.",
+          "secondtip": "Try getting items with on-hit effects. These will also benefit your Hallucination clone.",
+          "thirdtip": "Backstab's damage can be increased with increased Critical Damage effects like Infinity Edge."
+        },
+        "enemytips": {
+          "firsttip": "If Shaco is doing well early-game, it is worth the investment to place Stealth Wards near his Jungle camps.",
+          "secondtip": "If Shaco uses Deceive to enter a fight he won't be able to quickly use it again to get away. Work with your team to quickly focus him down.",
+          "thirdtip": "Pink ward. Not the youtuber but the item."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 89,
@@ -5370,6 +6671,18 @@
       },
       "tags": "Tank.png",
       "partype": "Energy",
+      "tips": {
+        "allytips": {
+          "firsttip": "Keep an eye on allies and be ready to save them with your teleport.",
+          "secondtip": "Leverage your Energy to get a long-term advantage over Mana users.",
+          "thirdtip": "Shen's Ultimate grants allied champions a shield for a certain amount of time. Use en cc them whenever you arrive."
+        },
+        "enemytips": {
+          "firsttip": "Be ready to dodge Shen's taunt and punish him if he misses.",
+          "secondtip": "Once Shen reaches level 6, watch out for his global-range ultimate, which can turn fights quickly.",
+          "thirdtip": "If you have Teleport use it whenever Shen uses his Ultimate."
+        }
+      },
       "stats": {
         "hp": 540,
         "hpperlevel": 85,
@@ -5419,6 +6732,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Fury",
+      "tips": {
+        "allytips": {
+          "firsttip": "Shyvana's abilities all benefit from attacking units. As a result, Attack Speed items are more valuable on her than most champions.",
+          "secondtip": "Flame Breath is great to level-up against difficult lane opponents.",
+          "thirdtip": "Burnout is an ideal choice for jungling. Monsters will be hit by the full duration, and the speed boost improves her ganking potential."
+        },
+        "enemytips": {
+          "firsttip": "A significant portion of Shyvana's power is generated through aggression, making her weak against opponents who are able to keep their distance.",
+          "secondtip": "All of Shyvana's basic abilities hit multiple enemies in dragon form. It's important for opposing champions to not cluster while fighting her.",
+          "thirdtip": "Shyvana's Fury Bar indicate her ultimate can be activated. Harassing her when she's low on Fury can be very effective."
+        }
+      },
       "stats": {
         "hp": 595,
         "hpperlevel": 95,
@@ -5468,6 +6793,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Poison Trail is very effective at farming and harassing, allowing Singed to dominate the flow of whatever lane he's in.",
+          "secondtip": "Use Insanity Potion to trick your opponents into chasing you through your Poison Trail.",
+          "thirdtip": "Flinging enemies into your tower can deal heavy amounts of damage to them."
+        },
+        "enemytips": {
+          "firsttip": "Keep your distance to avoid being Flung back into Singed's allies.",
+          "secondtip": "Singed needs to run close to your team to be effective. Try to take advantage of this by using crowd control effects on him while attacking his allies.",
+          "thirdtip": "Be careful when chasing Singed. He's very difficult to bring down, and can leave his Poison Trail to damage you in your pursuit."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 85,
@@ -5517,6 +6854,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You only have very slight turning ability during Unstoppable Onslaught, so make sure to use it in straight paths.",
+          "secondtip": "Roar of the Slayer is a great setup ability to land a very powerful Decimating Smash.",
+          "thirdtip": "The Soul Furnace buff displays how much shield strength is remaining, use this information to time its explosion perfectly."
+        },
+        "enemytips": {
+          "firsttip": "Even if Sion still hits a Decimating Smash, making him release the charge earlier reduces its impact.",
+          "secondtip": "Use the time after Sion has died to reposition and prepare for his return.",
+          "thirdtip": "When Sion uses his Ultimate you can here it even if he is out of vision."
+        }
+      },
       "stats": {
         "hp": 545,
         "hpperlevel": 73,
@@ -5566,6 +6915,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Sivir's Boomerang Blade returns to her after reaching the max range, so you can shift position to hit enemies who would otherwise have evaded it.",
+          "secondtip": "Ricochet resets Sivir's basic attack timer on activation, so activating this immediately after landing a normal basic attack will maximize damage output.",
+          "thirdtip": "Try saving Spell Shield for enemy abilities that can disable you such as stuns and roots."
+        },
+        "enemytips": {
+          "firsttip": "Boomerang Blade costs a lot of mana to cast, so dodging it sets Sivir back. If it hits you on the way out, avoid its path on the way back.",
+          "secondtip": "Sivir is a powerful pushing champion, so leaving her unattended in a lane for too long will often result in your turrets being destroyed.",
+          "thirdtip": "When laning against Sivir, it is possible to throw off the timing of her Spell Shield by faking an advance, then backing off."
+        }
+      },
       "stats": {
         "hp": 562,
         "hpperlevel": 90,
@@ -5615,6 +6976,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Basic attacks reduce the cooldown of Crystal Slash. Use them as often as possible for maximum damage.",
+          "secondtip": "Capturing Crystal Spires before attempting neutral objectives or team fights around them improves Skarner's performance in said fights dramatically.",
+          "thirdtip": "Impale is extremely powerful when you use it to position an enemy so your allies can attack them."
+        },
+        "enemytips": {
+          "firsttip": "Skarner can't harm you very much outside of short range, so stay away from him!",
+          "secondtip": "Skarner's Movement Speed is increased as long as his shield, Crystalline Exoskeleton, persists. Attack him to lower his speed.",
+          "thirdtip": "Skarner is especially dangerous when inside Crystal Spire zones his team controls. Try to capture them ahead of time if a fight may break out around them."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 85,
@@ -5664,6 +7037,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Make sure to tag your allies while Sona's auras are active, but avoid getting caught out by enemies.",
+          "secondtip": "Save Crescendo for the game-altering moment.",
+          "thirdtip": "Well-timed uses of Aria of Perseverance will grant you maximum survivability."
+        },
+        "enemytips": {
+          "firsttip": "Spread out when you see Sona so she can't make your entire team dance.",
+          "secondtip": "Kill Sona first, as she will heal up her team if left alone for too long.",
+          "thirdtip": "Sona's Q-Spell does a lot more damage than you think."
+        }
+      },
       "stats": {
         "hp": 480,
         "hpperlevel": 77,
@@ -5713,6 +7098,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Soraka is a powerful ally in battle, using her strong healing to keep the party moving forward.",
+          "secondtip": "You can use Wish on your allies from across the map to save them from otherwise fatal events.",
+          "thirdtip": "Equinox can be used as a powerful zoning tool to keep enemies at bay."
+        },
+        "enemytips": {
+          "firsttip": "Focus on attacking Soraka when she ever ventures to the frontline to heal her allies.",
+          "secondtip": "Take advantage of Soraka's long cooldown on Equinox if she uses it to harass.",
+          "thirdtip": "It's easier to focus Soraka than the ally she is healing."
+        }
+      },
       "stats": {
         "hp": 535,
         "hpperlevel": 74,
@@ -5762,6 +7159,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "If you're having trouble rooting an enemy with Nevermove, try throwing it at opponents when they are near their minions so the explosion surprises them.",
+          "secondtip": "While laning, try to use Death's Hand's piercing damage to damage opponents from a safe distance.",
+          "thirdtip": "Vision of Empire is quite difficult to land on its own, look for skirmishes around the map where enemies may be distracted or crowd controlled so you can land it more easily."
+        },
+        "enemytips": {
+          "firsttip": "Swain's passive is very potent if you are immobilized. Make sure to be extra careful around enemies who have immobilizing effects.",
+          "secondtip": "High mobility counters all of Swain's basic abilities: Death's Hand does more damage the closer he is, Vision of Empire has a very long delay and Nevermove must start returning back to him to be dangerous.",
+          "thirdtip": "Buying an item with Grievous Wounds will make Swain much easier to kill during his Demonic Ascension."
+        }
+      },
       "stats": {
         "hp": 525,
         "hpperlevel": 85,
@@ -5811,6 +7220,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Wait for you or your enemy to reach low health before using Kingslayer for maximum effect.",
+          "secondtip": "Space out your ability usage to get maximum effect from Petricite Burst.",
+          "thirdtip": "Clever use of enemy ultimates can open up new possibilities to approach teamfights."
+        },
+        "enemytips": {
+          "firsttip": "Sylas's healthbar can be deceptive, watch out for his Kingslayer!",
+          "secondtip": "Try to fight Sylas when he isn't able to take your ultimate.",
+          "thirdtip": "Sylas's W-Spell is on a short cooldown when it is at max level."
+        }
+      },
       "stats": {
         "hp": 525,
         "hpperlevel": 115,
@@ -5860,6 +7281,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "To maximize your ultimate's damage use it when there are many spheres on the battlefield.",
+          "secondtip": "After you hit an enemy champion with Force of Will follow up with Dark Sphere, they'll be slowed and have a hard time avoiding it.",
+          "thirdtip": "Get one of your spells to rank 5 as quickly as possible, they gain powerful bonus effects at max rank."
+        },
+        "enemytips": {
+          "firsttip": "Get boots early when playing against Syndra, they'll help you avoid many of her spells.",
+          "secondtip": "Attack Syndra after she's used Scatter the Weak, it has a long cooldown so she'll be vulnerable.",
+          "thirdtip": "At max rank Syndra's spells gain bonus effects and change in appearance."
+        }
+      },
       "stats": {
         "hp": 523,
         "hpperlevel": 90,
@@ -5909,6 +7342,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Your most important function as a support is to keep fragile allies safe. Keep Devour's range and cooldown in mind and position accordingly!",
+          "secondtip": "Consider carefully when to use Thick Skin's active. Sometimes shielding early to avoid further damage is good, but sometimes the healing is more beneficial.",
+          "thirdtip": "Tahm Kench is hard to play but rewarding. Hop into practice tool to learn this broken champion."
+        },
+        "enemytips": {
+          "firsttip": "When you see Tahm Kench use the shield from Thick Skin, remember that he just opted out of a good deal of healing. He will also not accumulate new gray health until Thick Skin comes off cooldown. Use this to your advantage!",
+          "secondtip": "Watch out for Kench's Abyssal Dive - you can cancel it's channel with immobilizing crowd control effects.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 95,
@@ -5958,6 +7403,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Try to throw enemies into Unraveled Earth using Seismic Shove.",
+          "secondtip": "Remember, you don't always have to ride Weaver's Wall.",
+          "thirdtip": "Once you have Rylai's Crystal Scepter, casting Threaded Volley at enemies chasing you is a great way of making them regret everything."
+        },
+        "enemytips": {
+          "firsttip": "When Taliyah casts Unraveled Earth in the lane, be on the lookout for Seismic Shove.",
+          "secondtip": "If she throws you into her minefield, the throws and stones will break your bones.",
+          "thirdtip": "Taliyah's Threaded Volley is locked into a direction. If she's throwing rocks at you, dodge to the side!"
+        }
+      },
       "stats": {
         "hp": 532,
         "hpperlevel": 90,
@@ -6007,6 +7464,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can use Assassin's Path to get behind the enemy and set up for Noxian Diplomacy's melee attack.",
+          "secondtip": "Shadow Assault is a powerful escape tool, but can also be offensively used to assault a group.",
+          "thirdtip": "Remember to pick your target before the fight. Focusing all of Talon's abilities on one target can be very rewarding, but splitting them up between many may leave you helpless."
+        },
+        "enemytips": {
+          "firsttip": "Talon's attacks are all physical damage. Build armor early to counter his burst damage.",
+          "secondtip": "Talon is heavily reliant on Shadow Assault to escape a fight. When it is down he's significantly more vulnerable.",
+          "thirdtip": "Talon has unrivaled roaming ability. Make sure to keep track of his position or force him to stay in lane by pushing aggressively."
+        }
+      },
       "stats": {
         "hp": 588,
         "hpperlevel": 95,
@@ -6056,6 +7525,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "The cooldown reducing component of Bravado makes Cooldown Reduction items like Frozen Heart, Iceborn Gauntlet, and Spirit Visage exceptionally powerful on Taric.",
+          "secondtip": "Using Starlight's Touch at lower charges makes its healing less Mana efficient, but can greatly increase Taric's sustained damage via Bravado.",
+          "thirdtip": "Rather than saving Cosmic Radiance for the last moment and risking someone dying during the delay, it can be more beneficial to cast it as soon as you know a teamfight is guaranteed to start."
+        },
+        "enemytips": {
+          "firsttip": "Taric's ultimate, Cosmic Radiance, has a long delay before its effect. Try to quickly assess whether to disengage the fight or attempt to kill his allies before it goes off.",
+          "secondtip": "Taric reduces his spell cooldowns by basic attacking enemies with Bravado. Try to kite him in teamfights and punish him for approaching the minion wave in lane.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 575,
         "hpperlevel": 85,
@@ -6105,6 +7586,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Teemo's mushrooms can be used to farm creep waves very effectively.",
+          "secondtip": "Place your mushrooms at key locations on the map, such as by the Dragon or Baron Nashor, to reveal when your enemies might be attempting to kill them.",
+          "thirdtip": "Teemo's mushrooms can hop off on another."
+        },
+        "enemytips": {
+          "firsttip": "Teemo's Toxic Shot punishes players who get hit and back out, so stay at a safe range until you're ready to commit.",
+          "secondtip": "It can be valuable to use Oracle's Lens(Trinket) to destroy mushrooms around key locations.",
+          "thirdtip": "Pink Wards are also very affective."
+        }
+      },
       "stats": {
         "hp": 528,
         "hpperlevel": 90,
@@ -6154,6 +7647,18 @@
       },
       "tags": "Tank.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Communication is key when making use of Thresh's lantern. Let your teammates know how you like to use it.",
+          "secondtip": "Death Sentence and Flay can be combined in either cast order for powerful combinations.",
+          "thirdtip": "Thresh can collect souls without needing to kill units himself. Planning your map position to be near the most deaths will help to maximize soul collection."
+        },
+        "enemytips": {
+          "firsttip": "Thresh's Death Sentence has a long cast time. Watch for the cast to begin to take evasive actions.",
+          "secondtip": "Intentionally breaking a wall of The Box can allow a vulnerable ally to escape unscathed.",
+          "thirdtip": "Thresh relies on collecting souls for a portion of his defense and damage. Try punishing him when he moves to collect them."
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 95,
@@ -6203,6 +7708,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Her massive gun allows Tristana to fire on targets at a great distance. Utilize this to prevent your enemies from ever laying a hand on you.",
+          "secondtip": "Use Rocket Jump after you have stacked up your Explosive Charge on an enemy to finish them off with a burst of damage.",
+          "thirdtip": "Use Rapid Fire to help stack up your Explosive Charge on enemy champions."
+        },
+        "enemytips": {
+          "firsttip": "If you see Tristana activate Rapid Fire in a fight, stun her and try to back off until the spell dissipates.",
+          "secondtip": "Stand away from your creeps in a lane to take less collateral damage from Explosive Charge.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 559,
         "hpperlevel": 88,
@@ -6252,6 +7769,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Trundle excels at fighting within his Frozen Domain. Try to draw enemies onto it.",
+          "secondtip": "Use Subjugate to soften a powerful enemy tank or to create a target for your team to focus fire.",
+          "thirdtip": "Chomp is good for lowering the physical damage of enemies; try to focus it on enemy physical damage dealers."
+        },
+        "enemytips": {
+          "firsttip": "Trundle is very powerful at location-based combat. Try to draw him off of his Frozen Domain.",
+          "secondtip": "Make sure to get out of his Pillar of Ice as quickly as possible, as it significantly slows you down.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 616,
         "hpperlevel": 96,
@@ -6301,6 +7830,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Fury",
+      "tips": {
+        "allytips": {
+          "firsttip": "Delaying the activation of Undying Rage is a very effective way to make an enemy champion over-commit to trying to kill you.",
+          "secondtip": "Bloodlust is an excellent way to heal Tryndamere. Try not to let it fade off before you activate it.",
+          "thirdtip": "If the enemy is stacking Armor, try building items like Last Whisper or Youmuu's Ghostblade."
+        },
+        "enemytips": {
+          "firsttip": "Try harassing Tryndamere early so he can't kill minions and heal with Bloodlust.",
+          "secondtip": "Remember, Tryndamere can only slow you if you are facing away from him.",
+          "thirdtip": "Most of Tryndamere's damage is physical. If he's getting too strong, consider buying a Thornmail."
+        }
+      },
       "stats": {
         "hp": 626,
         "hpperlevel": 98,
@@ -6350,6 +7891,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Coordinate with your allies for the best time to use Destiny to ambush enemies.",
+          "secondtip": "Stealth characters often escape a battle with very low hit points. Take advantage of Destiny's ability to reveal stealthed units to finish them off.",
+          "thirdtip": "Twisted Fate is viable as an Attack Damage or Ability Power character, letting him fit on many different team compositions."
+        },
+        "enemytips": {
+          "firsttip": "Focus on dodging Wild Cards early when your champion doesn't have the hit points to afford getting hit.",
+          "secondtip": "If you have low Health, use Destiny as an indicator to run to safety. It will give you a head start in escaping any possible ganks.",
+          "thirdtip": "Whenever Twisted Fate uses his Ultimate an eye shows up on top of your champion."
+        }
+      },
       "stats": {
         "hp": 534,
         "hpperlevel": 94,
@@ -6399,6 +7952,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Twitch's Attack Speed is among the highest in the game; try purchasing items with on-hit effects such as Black Cleaver or Wit's End.",
+          "secondtip": "Contaminate has a large range; apply as many stacks of Deadly Venom as possible before using it.",
+          "thirdtip": "You can catch up to an enemy out of attack range with Venom Cask."
+        },
+        "enemytips": {
+          "firsttip": "Twitch is fragile. Work with teammates to focus on him when you're able to catch him out of Camouflage.",
+          "secondtip": "Spell Shields won't block the damage from Deadly Venom, but they will block the effects Twitch can trigger with it.",
+          "thirdtip": "If you suspect Twitch has left the lane, let your teammates know that Twitch is 'MIA.'"
+        }
+      },
       "stats": {
         "hp": 612,
         "hpperlevel": 86,
@@ -6448,6 +8013,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Damage is applied to turtle shield post-mitigation. Therefore, buying defensive items can drastically increase your survivability.",
+          "secondtip": "Udyr is one of the best junglers in the game. Taking advantage of this can give your team a large XP advantage and map control.",
+          "thirdtip": "Make us of Udyr's insane movement speed for ganking and invading enemy jungle. It is very easy to get ahead."
+        },
+        "enemytips": {
+          "firsttip": "Udyr players will often start in the jungle and only appear to gank in lanes. Try warding key locations to keep track of his movement.",
+          "secondtip": "Once the initial shield effect has faded, Turtle Stance is weak against other champions. Press the attack to force him to switch stances and prevent him from regenerating health.",
+          "thirdtip": "Some Udyr players buy tank items to become very durable. If they do, focus their weaker teammates instead."
+        }
+      },
       "stats": {
         "hp": 594,
         "hpperlevel": 92,
@@ -6497,6 +8074,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Pay attention to your individual leg's cooldowns, as they make for a signficiant portion of your damage",
+          "secondtip": "Land Corrosive Charge or Disdain to lock on to target's with Purge - a great way to trigger multiple legs in rapid succession.",
+          "thirdtip": "Save Fear Beyond Death for opponents you know are already too weak to survive. It's especially good for picking off fleeing foes."
+        },
+        "enemytips": {
+          "firsttip": "Urgot relies heavily on blasting opponents with his legs, which have their own cooldowns and only detonate when he attacks in the direction they are facing. Avoid getting hit by multiple.",
+          "secondtip": "Urgot can deal and absorb tremendous amounts of damage with Purge, but slows himself while firing.",
+          "thirdtip": "If you are struck by Fear Beyond Death, do your best to avoid falling below the execution threshold (25% of your Maximum Health) until the effect times out."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 88,
@@ -6546,6 +8135,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "An early point in Blighted Quiver helps harass enemy champions and get killing blows on minions.",
+          "secondtip": "During short range fights it's sometimes best to fire Piercing Arrow quickly, rather than charging it to full power.",
+          "thirdtip": "Try to take advantage of Piercing Arrow's very long range to snipe at enemy champions before a fight or as they're trying to flee."
+        },
+        "enemytips": {
+          "firsttip": "If you are affected by Blight, Varus' abilities will deal extra damage to you.",
+          "secondtip": "When he gets a kill or assist, Varus temporarily gains Attack Speed and is much more dangerous.",
+          "thirdtip": "You'll get bound in place if a tendril from Varus' ultimate, Chain of Corruption, reaches you. You can cause the tendril to die however by running far enough away from it."
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 91,
@@ -6595,6 +8196,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Tumble has many uses, but it cannot pass over walls.",
+          "secondtip": "Condemn can be used to both pin targets to walls to ensure a kill, or to escape a pursuer.",
+          "thirdtip": "Don't go in first to a large teamfight. Wait for your teammates to initiate."
+        },
+        "enemytips": {
+          "firsttip": "Vayne is fragile - turn the pressure up on her and she will be forced to play cautiously.",
+          "secondtip": "Deny Vayne the opportunity to pin you against walls.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 515,
         "hpperlevel": 89,
@@ -6644,6 +8257,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Use Event Horizon to increase your chances of landing Dark Matter.",
+          "secondtip": "Veigar is extremely Mana and Cooldown Reduction dependent. Try buying items with these stats in order to increase the effectiveness of your passive and Baleful Strike.",
+          "thirdtip": "Veigar is very fragile. It is valuable to select at least one summoner spell that can be used defensively."
+        },
+        "enemytips": {
+          "firsttip": "Dark Matter deals very high damage, but it can be avoided. Pay attention to the sound and visual indicator to be aware of when and where the spell will land.",
+          "secondtip": "Event Horizon only stuns units on the edge. If you're inside the spell, you can still move and attack.",
+          "thirdtip": "Veigar's ultimate deals increased damage based on your missing health."
+        }
+      },
       "stats": {
         "hp": 505,
         "hpperlevel": 94,
@@ -6693,6 +8318,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "When laning, use Void Rift to kill minions while building stacks of Organic Deconstruction on your opponent. You can then follow up with your other abilities.",
+          "secondtip": "Shooting Plasma Fission diagonally and splitting at maximum range allows you to hit opponents that are out of the range of the initial missile, but is more challenging to pull off.",
+          "thirdtip": "Be very careful about when to use Life Form Disintegration Ray. Many champions have abilities that can interrupt the spell."
+        },
+        "enemytips": {
+          "firsttip": "Vel'Koz is very dangerous if left alone in a fight. Try to focus him down early.",
+          "secondtip": "Vel'Koz has fairly low mobility and is vulnerable to ganks.",
+          "thirdtip": "Life Form Disintegration Ray can be interrupted by stuns, silences and knockups."
+        }
+      },
       "stats": {
         "hp": 520,
         "hpperlevel": 88,
@@ -6742,6 +8379,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 520,
         "hpperlevel": 90,
@@ -6791,6 +8440,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "A fully charged Vault Breaker will deal double damage. It's great for catching and finishing off fleeing enemies.",
+          "secondtip": "Relentless Force does full damage to anyone caught in the shockwave. Use it on minions in lane to hit enemies hiding behind them.",
+          "thirdtip": "Cease and Desist is a powerful initiation tool, just remember not to get too far ahead of the rest of your team."
+        },
+        "enemytips": {
+          "firsttip": "A fully charged Vault breaker deals double damage. If you see Vi start to charge you should back off or try to dodge it.",
+          "secondtip": "Vi will shred your Armor and gain Attack Speed if she manages to hit you three times in a row. Try not to engage in extended brawls with her.",
+          "thirdtip": "Vi cannot be stopped while using her ult. Remember to save your displacement effects until after she's done charging."
+        }
+      },
       "stats": {
         "hp": 585,
         "hpperlevel": 85,
@@ -6840,6 +8501,18 @@
       },
       "tags": "Assassin.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 95,
@@ -6889,6 +8562,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Death Ray is a powerful poke and a strong area of denial tool.",
+          "secondtip": "Use Death Ray in combination with Gravity Field to control your enemy's position.",
+          "thirdtip": "Make sure you choose the right augment at the right time."
+        },
+        "enemytips": {
+          "firsttip": "Be careful about how close you let Viktor get to you. Viktor's control of the battlefield increases with his proximity to his opponent.",
+          "secondtip": "Be aware of how many augments Viktor has upgraded by looking at the color of the light on his staff (purple, yellow, blue, red).",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 530,
         "hpperlevel": 90,
@@ -6938,6 +8623,18 @@
       },
       "tags": "Mage.png",
       "partype": "Crimson Rush",
+      "tips": {
+        "allytips": {
+          "firsttip": "Transfusion instantly deals damage to the enemy before healing Vladimir, making it one of the best last hitting tools in the game.",
+          "secondtip": "Cast Hemoplague where it will afflict the most units.",
+          "thirdtip": "Sanguine Pool pops incoming missiles, so it can be used to dodge disables."
+        },
+        "enemytips": {
+          "firsttip": "Try to take Vladimir down before Hemoplague detonates, as it will heal him for each afflicted enemy Champion.",
+          "secondtip": "Making Vladimir use Sanguine Pool at the start of a fight will maximize the Health cost of the ability to him.",
+          "thirdtip": "Items that counter Health stacking, such as Liandry's Torment and Blade of the Ruined King, are very effective against Vladimir."
+        }
+      },
       "stats": {
         "hp": 537,
         "hpperlevel": 96,
@@ -6987,6 +8684,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 90,
@@ -7036,6 +8745,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Follow your Blood Hunt trails to low health enemy champions.",
+          "secondtip": "Infinite Duress (R)'s distance scales with any movement speed you gain, even from ally buffs and summoner spells.",
+          "thirdtip": "Jaws of the Beast (Q) will follow enemies who run, dash or teleport if you keep the button held down."
+        },
+        "enemytips": {
+          "firsttip": "Warwick's attacks heal him at low health. Save your disables to finish him off.",
+          "secondtip": "Warwick is empowered versus low health enemies. Manage your health to keep him at bay.",
+          "thirdtip": "Warwick's ultimate cast range scales with his movement speed."
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 85,
@@ -7085,6 +8806,18 @@
       },
       "tags": "Marksman.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Xayah's attacks and abilities leave Feathers on the ground",
+          "secondtip": "Whenever she recalls the leaves she has a big amount of damage and control.",
+          "thirdtip": "Xayah can use Featherstorm to dodge almost any ability while also creating a ton of Feathers. Try to utilize the offensive and defensive aspects of this ability."
+        },
+        "enemytips": {
+          "firsttip": "Xayah's Bladecaller will only root targets hit by 3 or more returning Feathers.",
+          "secondtip": "Long fights in the same area with Xayah will allow her to drop a lot of Feathers. Try to stay on the move!",
+          "thirdtip": "Make sure you are ready when you go for the kill. Untargetability from Featherstorm can quickly turn an ambush in Xayah's favor."
+        }
+      },
       "stats": {
         "hp": 590,
         "hpperlevel": 88,
@@ -7134,6 +8867,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "It's easier to land Arcanopulse on an enemy when they're moving toward or away from you, rather than side to side.",
+          "secondtip": "Eye of Destruction will make landing Arcanopulse easier as the target will be slowed.",
+          "thirdtip": "If you stun an enemy with Shocking Orb, follow up with a guaranteed center hit on Eye of Destruction."
+        },
+        "enemytips": {
+          "firsttip": "Xerath's range can be intimidating, but most champions who close distance with him can trade favorably.",
+          "secondtip": "Xerath takes a long time to engage Rite of the Arcane. Watch for his spellcast animation and start dodging.",
+          "thirdtip": "Banshee's Veil will make it much harder for Xerath to land Shocking Orb on you."
+        }
+      },
       "stats": {
         "hp": 526,
         "hpperlevel": 92,
@@ -7183,6 +8928,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Xin Zhao is a great initiator to combat. Lead the front to start a fight and use your ultimate to do the most damage possible.",
+          "secondtip": "Try to position yourself so your ultimate's knockback is most effective.",
+          "thirdtip": "Determination heals Xin Zhao every three attacks, allowing him to sustain himself in lane for a while by autoattacking minion waves and turrets. Doing so for extended periods however will push your lane, so watch out for gank attempts."
+        },
+        "enemytips": {
+          "firsttip": "Xin Zhao is a powerful initiator with both his charge and ultimate dealing damage to all units around him. Try having your team stay spread out until he's used his ultimate.",
+          "secondtip": "Xin Zhao relies heavily on his Three Talon Strikes for damage and cooldown resets, so preventing him from finishing his combo will have a dramatic effect.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 570,
         "hpperlevel": 92,
@@ -7232,6 +8989,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Flow",
+      "tips": {
+        "allytips": {
+          "firsttip": "Dash through a minion to have Sweeping Blade available to chase your opponent should they flee; Dash directly to your opponent to preserve a minion as your escape route.",
+          "secondtip": "At level 18, Yasuo's Steel Tempest reaches its Attack Speed cap with 55% Attack Speed from items.",
+          "thirdtip": "Last Breath can be cast on any target that is knocked Airborne, even by one of your allies."
+        },
+        "enemytips": {
+          "firsttip": "When Yasuo lands two Steel Tempests in a row, his next will fire a tornado. Watch and listen for the associated sound to prepare to dodge.",
+          "secondtip": "Yasuo is at his weakest just after he has launched a whirlwind. Engage at that point.",
+          "thirdtip": "Yasuo's shield from Resolve lasts only 2 seconds. Dealing damage to him will trigger it. Wait it out, then engage."
+        }
+      },
       "stats": {
         "hp": 490,
         "hpperlevel": 87,
@@ -7281,6 +9050,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Flow",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 550,
         "hpperlevel": 85,
@@ -7330,6 +9111,18 @@
       },
       "tags": "Fighter.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You do not need to cast Awakening to regain the ability to cast Last Rites.",
+          "secondtip": "The Maiden will attempt to assist you in a fight, so choose your targets well.",
+          "thirdtip": "You can send the Maiden down a lane alone, be careful though, as she represents a large portion of your combat power."
+        },
+        "enemytips": {
+          "firsttip": "You can cast Smite on Mist Walkers and the Maiden of the Mist to damage or kill them.",
+          "secondtip": "Try to thin out Yorick's minions before you engage him, Mist Walkers will die from a basic attack or a single target spell.",
+          "thirdtip": "You can attack Dark Procession to break the wall down."
+        }
+      },
       "stats": {
         "hp": 580,
         "hpperlevel": 100,
@@ -7379,6 +9172,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Akali excels at killing fragile champions. Let your team initiate and then strike at the people in the back.",
+          "secondtip": "Twilight Shroud offers safety in even the most dangerous situations. Use that time to save up energy for a quick strike later.",
+          "thirdtip": "Make use of Akali's Five Point Strike's slow so you can proc your passive and hit the enemy with bonus range and damage."
+        },
+        "enemytips": {
+          "firsttip": "Akali can still be hit by area effect spells while obscured inside Twilight Shroud. Doing so will briefly reveal her position.",
+          "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
+          "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
+        }
+      },
       "stats": {
         "hp": 480,
         "hpperlevel": 70,
@@ -7428,6 +9233,18 @@
       },
       "tags": "Tank.png",
       "partype": "None",
+      "tips": {
+        "allytips": {
+          "firsttip": "Picking up goo chunks is very important to staying alive.",
+          "secondtip": "When Cell Division is ready, try to die in a position that makes it difficult for the enemy team to kill your bloblets.",
+          "thirdtip": "Charging Elastic Slingshot from the fog of war will give opponents less time to react."
+        },
+        "enemytips": {
+          "firsttip": "Zac heals from the goo that separates from him. You can crush the goo pieces by stepping on them.",
+          "secondtip": "Kill all of Zac's bloblets when he splits apart to stop him from reforming.",
+          "thirdtip": "Silences, stuns, roots and knockups will all interrupt Zac when he is charging Elastic Slingshot."
+        }
+      },
       "stats": {
         "hp": 615,
         "hpperlevel": 95,
@@ -7477,6 +9294,18 @@
       },
       "tags": "Assassin.png",
       "partype": "Energy",
+      "tips": {
+        "allytips": {
+          "firsttip": "Saving energy and spell cooldowns until you use your ultimate will maximize Death Mark's damage.",
+          "secondtip": "Quickly double tapping Living Shadow will teleport Zed to his shadow immediately for rapid escapes.",
+          "thirdtip": "Placing a Living Shadow before using Death Mark can give Zed a safe escape from combat."
+        },
+        "enemytips": {
+          "firsttip": "Zed receives bonus effect from Attack Damage items he purchases, so Armor is super effective against him.",
+          "secondtip": "After Zed uses his Living Shadow, he is at his most vulnerable as his damage, slow, and mobility are both dependent upon it.",
+          "thirdtip": "Zed's Shadow Slash can only slow you if his shadow hits you with it. "
+        }
+      },
       "stats": {
         "hp": 584,
         "hpperlevel": 85,
@@ -7526,6 +9355,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Even if you're far from a fight you can still help from afar with Mega Inferno Bomb.",
+          "secondtip": "Slowing your enemies with Hexplosive Minefield makes it easier to land other abilities.",
+          "thirdtip": "Knocking yourself over walls with Satchel Charge can be great when chasing after or escaping from enemies."
+        },
+        "enemytips": {
+          "firsttip": "Don't step on Ziggs' mines! They'll slow you and make it much easier for him to hit you with his other abiltiies.",
+          "secondtip": "Many of Ziggs' abilities have long cooldowns. Try catching him just after he's used his abilities.",
+          "thirdtip": "Ziggs' ultimate, Mega Inferno Bomb, deals more damage in the center of the explosion."
+        }
+      },
       "stats": {
         "hp": 536,
         "hpperlevel": 92,
@@ -7575,6 +9416,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "You can combine the use of Time Bomb and Rewind to place two Time Bombs on a target quickly. Placing the second bomb will detonate the first and stun all nearby enemies.",
+          "secondtip": "Time Warp is an effective way to enable allies to finish off enemies, or escape from a losing battle.",
+          "thirdtip": "Chronoshift is a powerful deterrent to attacking your carries, but casting Chronoshift too early in a fight can cause the enemy to switch targets too soon, making it less effective."
+        },
+        "enemytips": {
+          "firsttip": "If you're able to match Zilean's speed, it can sometimes be beneficial to wait until his ultimate has faded before landing the killing blow.",
+          "secondtip": "Zilean is fragile if a team focuses on him, but otherwise he's very difficult to kill. Commit to killing him as a team.",
+          "thirdtip": ""
+        }
+      },
       "stats": {
         "hp": 504,
         "hpperlevel": 82,
@@ -7624,6 +9477,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Paddle Star deals more damage the further it has flown. Casting it behind yourself before redirecting can deal tons of damage.",
+          "secondtip": "Break Sleep with your biggest damage source, since enemies who are asleep take double damage.",
+          "thirdtip": "Sleepy Trouble Bubble travels further over walls. Find a hiding spot to set up for a long distance kill."
+        },
+        "enemytips": {
+          "firsttip": "Zoe's Paddle Star deals more damage the further it has flown.",
+          "secondtip": "Zoe must return to her starting point after casting Portal Jump, making her vulnerable to a counterattack.",
+          "thirdtip": "Sleepy Trouble Bubble travels further over walls. Stop Zoe from hiding in fog of war to prevent her from setting the spell up."
+        }
+      },
       "stats": {
         "hp": 560,
         "hpperlevel": 92,
@@ -7673,6 +9538,18 @@
       },
       "tags": "Mage.png",
       "partype": "Mana",
+      "tips": {
+        "allytips": {
+          "firsttip": "Placing a seed in your spell's path after you have cast it gives you the best chance of having a seed in the proper spot.",
+          "secondtip": "Seeds grant vision to your team.",
+          "thirdtip": "Zyra is a great ambusher - look for opportunities to set a trap of seeds in brush, then lure enemies in."
+        },
+        "enemytips": {
+          "firsttip": "Zyra's seeds can be destroyed by stepping on them. If she tries to grow them as you do, dodge back at the last moment. ",
+          "secondtip": "Moving closer to Zyra can be a smart move if she places plants too far away from herself.",
+          "thirdtip": "Plants take fixed damage from attacks and effects, similar to wards. They also expire quickly on their own."
+        }
+      },
       "stats": {
         "hp": 504,
         "hpperlevel": 79,
