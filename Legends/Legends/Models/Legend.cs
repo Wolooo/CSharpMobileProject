@@ -19,5 +19,6 @@ namespace Legends.Models
         public LegendInfo Info { get; set; }
         public string Tags { get; set; }
         public LegendTips Tips { get; set; }
+        public LegendAbilities Abilities { get; set; }
     }
 }

@@ -37,7 +37,7 @@ namespace Legends
                 {
                     LegendStatsViewModel model = new LegendStatsViewModel
                     {
-                        LegendStats = leg,
+                        LegendInfo = leg,
                         LegendAbilities = leg
                     };
                     this.BindingContext = model;

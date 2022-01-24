@@ -8,7 +8,7 @@ namespace Legends.ViewModel
 {
     public class LegendStatsViewModel
     {
-        public Legend LegendStats { get; set; }
+        public Legend LegendInfo { get; set; }
         public Legend LegendAbilities { get; set; }
         public Legend LegendLore { get; set; }
     }
