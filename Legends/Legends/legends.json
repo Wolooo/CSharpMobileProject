@@ -19,15 +19,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Aatrox.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Blood Well",
       "tips": {
@@ -41,28 +32,6 @@
           "secondtip": "Aatrox's Infernal Chains are easier to exit when running towards the sides or at Aatrox.",
           "thirdtip": "Keep your distance when Aatrox uses his Ultimate to prevent him from reviving."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 90,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 38,
-        "armorperlevel": 3.25,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 3,
-        "hpregenperlevel": 1,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 5,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.651
       }
     },
     "Ahri": {
@@ -81,15 +50,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Ahri.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -102,28 +62,6 @@
           "firsttip": "Ahri's survivability is dramatically reduced when her Ultimate, Spirit Rush, is down.",
           "secondtip": "Stay behind minions to make Charm difficult to land, this will reduce Ahri's damage potential significantly."
         }
-      },
-      "stats": {
-        "hp": 526,
-        "hpperlevel": 92,
-        "mp": 418,
-        "mpperlevel": 25,
-        "movespeed": 330,
-        "armor": 21,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 53,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.668
       }
     },
     "Akali": {
@@ -142,15 +80,6 @@
         "magic": 0.8,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Akali.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Energy",
       "tips": {
@@ -164,28 +93,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 500,
-        "hpperlevel": 105,
-        "mp": 200,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 23,
-        "armorperlevel": 3.5,
-        "spellblock": 37,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.9,
-        "mpregen": 50,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 3.2,
-        "attackspeed": 0.625
       }
     },
     "Akshan": {
@@ -204,15 +111,6 @@
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "full": "Akshan.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -226,28 +124,6 @@
           "secondtip": "Heroic Hook is interrupted when colliding with an opponent, meaning he can't make a quick exit.",
           "thirdtip": "Comeuppance is cast when marking a champion and after channeling, but projectiles can be interrupted if you stand behind turrets and allied minions."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 90,
-        "mp": 350,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 26,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8.175,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 4,
-        "attackspeed": 0.638
       }
     },
     "Alistar": {
@@ -266,15 +142,6 @@
         "magic": 0.5,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Alistar.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -288,28 +155,6 @@
           "secondtip": "Watch out for the Pulverize-Headbutt combo when around turrets.",
           "thirdtip": "When Alistar uses his ultimate, it's often better to move back and wait until the effect wears off before attacking him."
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 106,
-        "mp": 350,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 44,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.85,
-        "mpregen": 8.5,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.75,
-        "attackspeedperlevel": 2.125,
-        "attackspeed": 0.625
       }
     },
     "Amumu": {
@@ -328,15 +173,6 @@
         "magic": 0.8,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Amumu.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -350,28 +186,6 @@
           "secondtip": "Erratic movement, or hiding behind creep waves can make it difficult for Amumu to instigate a fight with Bandage Toss.",
           "thirdtip": "Amumu's Despair makes purchasing primarily Health items a risky proposition."
         }
-      },
-      "stats": {
-        "hp": 615,
-        "hpperlevel": 75,
-        "mp": 285,
-        "mpperlevel": 40,
-        "movespeed": 335,
-        "armor": 30,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.85,
-        "mpregen": 7.38,
-        "mpregenperlevel": 0.53,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 53,
-        "attackdamageperlevel": 3.8,
-        "attackspeedperlevel": 2.18,
-        "attackspeed": 0.736
       }
     },
     "Anivia": {
@@ -390,15 +204,6 @@
         "magic": 1,
         "difficulty": 1
       },
-      "image": {
-        "full": "Anivia.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -412,28 +217,6 @@
           "secondtip": "If you're playing a ranged champion, stay far enough away from Anivia so you can dodge Flash Frost more easily.",
           "thirdtip": "Try to fight Anivia in the lanes. In the jungle she can block pathways with lower ranks of Crystallize."
         }
-      },
-      "stats": {
-        "hp": 480,
-        "hpperlevel": 82,
-        "mp": 495,
-        "mpperlevel": 45,
-        "movespeed": 325,
-        "armor": 21,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 600,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 51,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 1.68,
-        "attackspeed": 0.625
       }
     },
     "Annie": {
@@ -452,15 +235,6 @@
         "magic": 1,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Annie.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -474,28 +248,6 @@
           "secondtip": "Summoner Smite can be used to help take down Tibbers.",
           "thirdtip": "Keep an eye out for a white, swirling power around Annie. It means she's ready to unleash her stun."
         }
-      },
-      "stats": {
-        "hp": 524,
-        "hpperlevel": 88,
-        "mp": 418,
-        "mpperlevel": 25,
-        "movespeed": 335,
-        "armor": 19,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 625,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 50,
-        "attackdamageperlevel": 2.63,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.579
       }
     },
     "Aphelios": {
@@ -514,15 +266,6 @@
         "magic": 0.1,
         "difficulty": 1
       },
-      "image": {
-        "full": "Aphelios.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -536,28 +279,6 @@
           "secondtip": "Each of Aphelios' weapons have different weaknesses, try to exploit the ones that work best for your champion. Watch out for the purple Gravity gun, it can root you.",
           "thirdtip": "Whenever Aphelios is blind picked, you counter pick him with Caitlyn since Caitlyn outranges him with her auto attacks."
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 88,
-        "mp": 348,
-        "mpperlevel": 42,
-        "movespeed": 325,
-        "armor": 28,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.25,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.1,
-        "attackspeed": 0.64
       }
     },
     "Ashe": {
@@ -576,15 +297,6 @@
         "magic": 0.2,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Ashe.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -598,28 +310,6 @@
           "secondtip": "Be wary of moving around the map alone if Ashe has not recently cast her Enchanted Crystal Arrow.",
           "thirdtip": "Ashe's attack speed, early game, is very weak try and trade whenever she uses her Volley"
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 87,
-        "mp": 280,
-        "mpperlevel": 32,
-        "movespeed": 325,
-        "armor": 26,
-        "armorperlevel": 3.4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 600,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6.97,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 2.96,
-        "attackspeedperlevel": 3.33,
-        "attackspeed": 0.658
       }
     },
     "AurelionSol": {
@@ -638,15 +328,6 @@
         "magic": 0.8,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "AurelionSol.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -660,28 +341,6 @@
           "secondtip": "His stars disappear while stunned or silenced, giving you an easy opportunity to fight him.",
           "thirdtip": "He gains speed while chasing in a straight line, but taking damage makes him lose that momentum."
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 92,
-        "mp": 350,
-        "mpperlevel": 50,
-        "movespeed": 325,
-        "armor": 19,
-        "armorperlevel": 3.6,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 7,
-        "hpregenperlevel": 0.6,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "Azir": {
@@ -700,15 +359,6 @@
         "magic": 0.8,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Azir.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -722,28 +372,6 @@
           "secondtip": "Azir has immense damage over a prolonged amount of time but lacks the upfront burst of other mages. Try to burst him out before he can turn a confrontation around.",
           "thirdtip": "Try to think of Sand Soldiers as fire. Don't stand in the fire."
         }
-      },
-      "stats": {
-        "hp": 552,
-        "hpperlevel": 92,
-        "mp": 480,
-        "mpperlevel": 21,
-        "movespeed": 335,
-        "armor": 19,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 7,
-        "hpregenperlevel": 0.75,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 2.8,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.625
       }
     },
     "Bard": {
@@ -762,15 +390,6 @@
         "magic": 0.5,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Bard.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -784,28 +403,6 @@
           "secondtip": "You can crush Bard's healing shrines just by walking over them. Don't let his allies take them without a fight.",
           "thirdtip": "Bard's ultimate, Tempered Fate, affects allies, enemies, monsters, and turrets alike. Sometimes it can be to your advantage to jump into it!"
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 89,
-        "mp": 350,
-        "mpperlevel": 50,
-        "movespeed": 330,
-        "armor": 34,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "Blitzcrank": {
@@ -824,15 +421,6 @@
         "magic": 0.5,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Blitzcrank.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -846,28 +434,6 @@
           "secondtip": "Staying behind creeps can prevent you from being Rocket Grabbed. Blitzcrank's Rocket Grab only pulls the first enemy target it encounters.",
           "thirdtip": "Blitzcrank has an insanely high cooldown on Rocket Grab"
         }
-      },
-      "stats": {
-        "hp": 583,
-        "hpperlevel": 95,
-        "mp": 267,
-        "mpperlevel": 40,
-        "movespeed": 325,
-        "armor": 40,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 8.5,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 1.13,
-        "attackspeed": 0.625
       }
     },
     "Brand": {
@@ -886,15 +452,6 @@
         "magic": 0.9,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Brand.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -908,28 +465,6 @@
           "secondtip": "Try to move away from allies when you see Pyroclasm being cast. The initial missile speed is slow, which should give your team time to react.",
           "thirdtip": "Brand's passive allows him to excel against teams that cluster together. Be sure to split up against him."
         }
-      },
-      "stats": {
-        "hp": 520,
-        "hpperlevel": 88,
-        "mp": 469,
-        "mpperlevel": 21,
-        "movespeed": 340,
-        "armor": 22,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 10.67,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "Braum": {
@@ -948,15 +483,6 @@
         "magic": 0.4,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Braum.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -970,28 +496,6 @@
           "secondtip": "Braum's ultimate has a long cast time, use that extra time to dodge. Walking over the frozen ground left behind will slow you, position so that you don't need to cross it.",
           "thirdtip": "Unbreakable gives Braum extremely strong directional defense, either wait until it is down or outposition the ability."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 98,
-        "mp": 311,
-        "mpperlevel": 45,
-        "movespeed": 335,
-        "armor": 47,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 1,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.644
       }
     },
     "Caitlyn": {
@@ -1010,15 +514,6 @@
         "magic": 0.2,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Caitlyn.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -1031,28 +526,6 @@
           "firsttip": "Keep behind allied minions if Caitlyn is harassing you with Piltover Peacemaker (it deals less damage with each subsequent target).",
           "secondtip": "You can intercept Ace in the Hole's missile from hitting an ally if you stand in its path."
         }
-      },
-      "stats": {
-        "hp": 510,
-        "hpperlevel": 93,
-        "mp": 315,
-        "mpperlevel": 35,
-        "movespeed": 325,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 650,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.4,
-        "mpregenperlevel": 0.55,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.8,
-        "attackspeedperlevel": 4,
-        "attackspeed": 0.681
       }
     },
     "Camille": {
@@ -1071,15 +544,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Camille.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -1093,28 +557,6 @@
           "secondtip": "The Hextech Ultimatum has a very short range to cast, so try to flash away from her before she gets close.",
           "thirdtip": "Stopwatch is a very good item to have whenever she uses The Hextech Ultimatum."
         }
-      },
-      "stats": {
-        "hp": 576,
-        "hpperlevel": 85,
-        "mp": 339,
-        "mpperlevel": 52,
-        "movespeed": 340,
-        "armor": 35,
-        "armorperlevel": 3.8,
-        "spellblock": 32.1,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.8,
-        "mpregen": 8.15,
-        "mpregenperlevel": 0.75,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.644
       }
     },
     "Cassiopeia": {
@@ -1133,15 +575,6 @@
         "magic": 0.9,
         "difficulty": 1
       },
-      "image": {
-        "full": "Cassiopeia.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -1153,28 +586,6 @@
           "firsttip": "Be wary of Cassiopeia's damage potential with Twin Fang when she has you poisoned.",
           "secondtip": "Turn away from Cassiopeia when she is casting Petrifying Gaze to get slowed instead of stunned."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 90,
-        "mp": 350,
-        "mpperlevel": 60,
-        "movespeed": 328,
-        "armor": 18,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 53,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.5,
-        "attackspeed": 0.647
       }
     },
     "Chogath": {
@@ -1193,15 +604,6 @@
         "magic": 0.7,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Chogath.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -1215,28 +617,6 @@
           "secondtip": "Focus on preventing Cho'Gath from reaching his max size.",
           "thirdtip": "Rupture has a smoke cloud indicating the area it will strike. Try to watch out for it to prevent Cho'Gath from being able to combo his abilities."
         }
-      },
-      "stats": {
-        "hp": 574,
-        "hpperlevel": 80,
-        "mp": 270,
-        "mpperlevel": 60,
-        "movespeed": 345,
-        "armor": 38,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.85,
-        "mpregen": 7.2,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 69,
-        "attackdamageperlevel": 4.2,
-        "attackspeedperlevel": 1.44,
-        "attackspeed": 0.625
       }
     },
     "Corki": {
@@ -1255,15 +635,6 @@
         "magic": 0.6,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Corki.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -1277,28 +648,6 @@
           "secondtip": "Corki is vulnerable after he uses his Valkyrie or Special Delivery, so try switching focus to him if he uses them to enter a fight.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 518,
-        "hpperlevel": 87,
-        "mp": 350,
-        "mpperlevel": 54,
-        "movespeed": 325,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.42,
-        "mpregenperlevel": 0.55,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 2.5,
-        "attackspeedperlevel": 2.3,
-        "attackspeed": 0.638
       }
     },
     "Darius": {
@@ -1317,15 +666,6 @@
         "magic": 0.1,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "Darius.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -1338,28 +678,6 @@
           "firsttip": "When Darius's axe grab is on cooldown, he is vulnerable to harassment attacks.",
           "secondtip": "Darius's ability to escape from fights is limited. If you have an advantage against him, press your lead."
         }
-      },
-      "stats": {
-        "hp": 582,
-        "hpperlevel": 100,
-        "mp": 263,
-        "mpperlevel": 57.5,
-        "movespeed": 340,
-        "armor": 39,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 10,
-        "hpregenperlevel": 0.95,
-        "mpregen": 6.6,
-        "mpregenperlevel": 0.35,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 5,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.625
       }
     },
     "Diana": {
@@ -1378,15 +696,6 @@
         "magic": 0.8,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Diana.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -1400,28 +709,6 @@
           "secondtip": "Pale Cascade orbs only last a few seconds. Avoid Diana and engage her after the shield dissipates.",
           "thirdtip": "Diana can play very aggressively if she uses Lunar Rush without Moonlight, but you can punish her by slowing or stunning her when she has no way to get back into position."
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 95,
-        "mp": 375,
-        "mpperlevel": 25,
-        "movespeed": 345,
-        "armor": 31,
-        "armorperlevel": 3.1,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.85,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.25,
-        "attackspeed": 0.625
       }
     },
     "Draven": {
@@ -1440,15 +727,6 @@
         "magic": 0.1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Draven.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -1461,28 +739,6 @@
           "firsttip": "Launch skillshots toward the landing position of Draven's Spinning Axes.",
           "secondtip": "Disrupt Draven with the goal of making him drop his axes. If you do, his power drops dramatically."
         }
-      },
-      "stats": {
-        "hp": 605,
-        "hpperlevel": 90,
-        "mp": 360.56,
-        "mpperlevel": 39,
-        "movespeed": 330,
-        "armor": 29,
-        "armorperlevel": 3.3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.7,
-        "mpregen": 8.04,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3.61,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.679
       }
     },
     "DrMundo": {
@@ -1501,15 +757,6 @@
         "magic": 0.6,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "DrMundo.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "None",
       "tips": {
@@ -1522,28 +769,6 @@
           "firsttip": "Try to coordinate high-damage abilities with your allies right after Dr. Mundo uses his ultimate, but if you're unable to kill him quickly with burst he will heal through the damage.",
           "secondtip": "Try casting Ignite when Dr. Mundo uses Sadism to negate a large portion of its healing."
         }
-      },
-      "stats": {
-        "hp": 583,
-        "hpperlevel": 89,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 32,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8,
-        "hpregenperlevel": 0.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 4.2,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.72
       }
     },
     "Ekko": {
@@ -1562,15 +787,6 @@
         "magic": 0.7,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Ekko.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -1584,28 +800,6 @@
           "secondtip": "Ekko's stun zone takes 3 seconds to arm. Watch for the image he creates on cast and try to guess where the zone was placed.",
           "thirdtip": "The second hit of Timewinder does more damage than the first; try to avoid it."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 85,
-        "mp": 280,
-        "mpperlevel": 70,
-        "movespeed": 340,
-        "armor": 32,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.9,
-        "mpregen": 7,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.688
       }
     },
     "Elise": {
@@ -1624,15 +818,6 @@
         "magic": 0.7,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Elise.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -1646,28 +831,6 @@
           "secondtip": "Rappel will only move Elise straight up and down unless she can descend upon an enemy unit.",
           "thirdtip": "Rappel has a long cooldown. Elise is vulnerable after she has used it."
         }
-      },
-      "stats": {
-        "hp": 555,
-        "hpperlevel": 93,
-        "mp": 324,
-        "mpperlevel": 50,
-        "movespeed": 330,
-        "armor": 27,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.75,
-        "attackspeed": 0.625
       }
     },
     "Evelynn": {
@@ -1686,15 +849,6 @@
         "magic": 0.7,
         "difficulty": 1
       },
-      "image": {
-        "full": "Evelynn.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -1708,28 +862,6 @@
           "secondtip": "A large share of Evelynn's threat is in her charm, 'Allure.' Protect allies marked with 'Allure' or, if you are marked, make sure allies are between you and where Evelynn may attack from.",
           "thirdtip": "If you suspect Evelynn is about to ambush one of your teammates, let them know by pinging the minimap and typing in chat."
         }
-      },
-      "stats": {
-        "hp": 572,
-        "hpperlevel": 84,
-        "mp": 315,
-        "mpperlevel": 42,
-        "movespeed": 335,
-        "armor": 37,
-        "armorperlevel": 3.5,
-        "spellblock": 32.1,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 8.11,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.1,
-        "attackspeed": 0.667
       }
     },
     "Ezreal": {
@@ -1748,15 +880,6 @@
         "magic": 0.6,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Ezreal.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -1770,28 +893,6 @@
           "secondtip": "Ezreal is completely skill shot based, so make sure to keep minions in between you.",
           "thirdtip": "Mystic Shot applies on-hit effects including the Crest of Cinders."
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 88,
-        "mp": 375,
-        "mpperlevel": 70,
-        "movespeed": 325,
-        "armor": 24,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 4,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8.5,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 2.5,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.625
       }
     },
     "Fiddlesticks": {
@@ -1810,15 +911,6 @@
         "magic": 0.9,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Fiddlesticks.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -1832,28 +924,6 @@
           "secondtip": "",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 580.4,
-        "hpperlevel": 92,
-        "mp": 500,
-        "mpperlevel": 28,
-        "movespeed": 335,
-        "armor": 34,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 480,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55.36,
-        "attackdamageperlevel": 2.63,
-        "attackspeedperlevel": 2.11,
-        "attackspeed": 0.625
       }
     },
     "Fiora": {
@@ -1872,15 +942,6 @@
         "magic": 0.2,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Fiora.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -1894,28 +955,6 @@
           "secondtip": "Be careful when casting immobilizing disables on Fiora. If her Riposte is available, she can turn their power against you.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 85,
-        "mp": 300,
-        "mpperlevel": 60,
-        "movespeed": 345,
-        "armor": 33,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 3.2,
-        "attackspeed": 0.69
       }
     },
     "Fizz": {
@@ -1934,15 +973,6 @@
         "magic": 0.7,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Fizz.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -1956,28 +986,6 @@
           "secondtip": "Fizz is a slippery target when his abilities are not on cooldown bait him into using them early and follow up with crowd control or hard-hitting attacks!",
           "thirdtip": "Fizz has a weak early game wave-clear. Always push him under turret or freeze the wave whenever you have the opportunity."
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 98,
-        "mp": 317,
-        "mpperlevel": 37,
-        "movespeed": 335,
-        "armor": 22,
-        "armorperlevel": 3.4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.7,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.1,
-        "attackspeed": 0.658
       }
     },
     "Galio": {
@@ -1996,15 +1004,6 @@
         "magic": 0.6,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Galio.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -2018,28 +1017,6 @@
           "secondtip": "Hero's Entrance can be interrupted before Galio jumps into the air.",
           "thirdtip": "Galio cannot traverse walls with Justice Punch."
         }
-      },
-      "stats": {
-        "hp": 562,
-        "hpperlevel": 112,
-        "mp": 500,
-        "mpperlevel": 40,
-        "movespeed": 335,
-        "armor": 24,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 8,
-        "hpregenperlevel": 0.8,
-        "mpregen": 9.5,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 1.5,
-        "attackspeed": 0.625
       }
     },
     "Gangplank": {
@@ -2058,15 +1035,6 @@
         "magic": 0.4,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Gangplank.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2080,28 +1048,6 @@
           "secondtip": "Once Gangplank reaches level 6, watch out for his global-range ultimate, Cannon Barrage!",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 90,
-        "mp": 280,
-        "mpperlevel": 60,
-        "movespeed": 345,
-        "armor": 35,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 6,
-        "hpregenperlevel": 0.6,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 3.2,
-        "attackspeed": 0.658
       }
     },
     "Garen": {
@@ -2120,15 +1066,6 @@
         "magic": 1,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Garen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "None",
       "tips": {
@@ -2142,28 +1079,6 @@
           "secondtip": "Try to run away from Garen as your health gets lower, as he can execute you quickly with Demacian Justice.",
           "thirdtip": "Judgment deals maximum damage when only hitting a single target. If getting out of its radius isn't possible, move through allied minions to reduce damage taken."
         }
-      },
-      "stats": {
-        "hp": 620,
-        "hpperlevel": 84,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 340,
-        "armor": 36,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 0.75,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.5,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 4.5,
-        "attackspeedperlevel": 3.65,
-        "attackspeed": 0.625
       }
     },
     "Gnar": {
@@ -2182,15 +1097,6 @@
         "magic": 0.5,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Gnar.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Rage",
       "tips": {
@@ -2204,28 +1110,6 @@
           "secondtip": "Gnar's animations and resource bar change as he gets closer to transforming.  ",
           "thirdtip": "Gnar's ultimate stuns if he hits you into a wall. Be careful when fighting him near one."
         }
-      },
-      "stats": {
-        "hp": 510,
-        "hpperlevel": 65,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 335,
-        "armor": 32,
-        "armorperlevel": 2.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 175,
-        "hpregen": 4.5,
-        "hpregenperlevel": 1.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 6,
-        "attackspeed": 0.625
       }
     },
     "Gragas": {
@@ -2244,15 +1128,6 @@
         "magic": 0.6,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Gragas.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2266,28 +1141,6 @@
           "secondtip": "Body Slam is on a very low cooldown, making it difficult to pursue Gragas. Don't overextend yourself chasing him.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 95,
-        "mp": 400,
-        "mpperlevel": 47,
-        "movespeed": 330,
-        "armor": 38,
-        "armorperlevel": 3.6,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2.05,
-        "attackspeed": 0.675
       }
     },
     "Graves": {
@@ -2306,15 +1159,6 @@
         "magic": 0.3,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Graves.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -2328,28 +1172,6 @@
           "secondtip": "Leaving the Smoke Screen's area of effect removes the harmful effect immediately.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 555,
-        "hpperlevel": 92,
-        "mp": 325,
-        "mpperlevel": 40,
-        "movespeed": 340,
-        "armor": 33,
-        "armorperlevel": 3.4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 425,
-        "hpregen": 8,
-        "hpregenperlevel": 0.7,
-        "mpregen": 8,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 2.6,
-        "attackspeed": 0.475
       }
     },
     "Gwen": {
@@ -2368,15 +1190,6 @@
         "magic": 0.5,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Gwen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2390,28 +1203,6 @@
           "secondtip": "Gwen must hit something to recast her Ultimate, try to evade her between casts.",
           "thirdtip": "Gwen needs to attack a few times to set up her damage, so try to get the jump on her."
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 90,
-        "mp": 330,
-        "mpperlevel": 40,
-        "movespeed": 340,
-        "armor": 39,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.25,
-        "attackspeed": 0.69
       }
     },
     "Hecarim": {
@@ -2430,15 +1221,6 @@
         "magic": 0.4,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Hecarim.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2452,28 +1234,6 @@
           "secondtip": "Hecarim's ultimate causes opponents to flee in terror. Spread out to reduce his power in fights.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 90,
-        "mp": 277,
-        "mpperlevel": 60,
-        "movespeed": 345,
-        "armor": 35,
-        "armorperlevel": 4.25,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 7,
-        "hpregenperlevel": 0.75,
-        "mpregen": 6.5,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.67
       }
     },
     "Heimerdinger": {
@@ -2492,15 +1252,6 @@
         "magic": 0.8,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Heimerdinger.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -2514,28 +1265,6 @@
           "secondtip": "Be wary of Heimerdinger's Upgrade!!!, as he can use it to find an answer to most trouble he gets into. Once his ultimate is down, go in for the kill!",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 488,
-        "hpperlevel": 87,
-        "mp": 385,
-        "mpperlevel": 20,
-        "movespeed": 340,
-        "armor": 19,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 56,
-        "attackdamageperlevel": 2.7,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "Illaoi": {
@@ -2576,28 +1305,6 @@
           "secondtip": "When your spirit gets pulled out, fight back if you can. Dealing damage to Illaoi reduces the spirit's duration.",
           "thirdtip": "Avoid grouping up for Leap of Faith to reduce the number of Tentacles available to Illaoi."
         }
-      },
-      "stats": {
-        "hp": 586,
-        "hpperlevel": 95,
-        "mp": 300,
-        "mpperlevel": 50,
-        "movespeed": 350,
-        "armor": 35,
-        "armorperlevel": 3.8,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9.5,
-        "hpregenperlevel": 0.8,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.75,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 5,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.571
       }
     },
     "Irelia": {
@@ -2616,15 +1323,6 @@
         "magic": 0.5,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Irelia.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2638,28 +1336,6 @@
           "secondtip": "Minion waves greatly enhance Irelia's mobility, beware fighting her inside one.",
           "thirdtip": "Beware of wasting your high impact spells on Defiant Dance."
         }
-      },
-      "stats": {
-        "hp": 520,
-        "hpperlevel": 110,
-        "mp": 350,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 36,
-        "armorperlevel": 3,
-        "spellblock": 28,
-        "spellblockperlevel": 1.25,
-        "attackrange": 200,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.85,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 65,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.656
       }
     },
     "Ivern": {
@@ -2678,15 +1354,6 @@
         "magic": 0.7,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Ivern.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -2700,28 +1367,6 @@
           "secondtip": "Ivern's brush has a long duration. Watch out for ambushes!",
           "thirdtip": "Be careful when fighting Ivern alone if he has Daisy ready to help!"
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 85,
-        "mp": 450,
-        "mpperlevel": 60,
-        "movespeed": 330,
-        "armor": 27,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 475,
-        "hpregen": 7,
-        "hpregenperlevel": 0.85,
-        "mpregen": 6,
-        "mpregenperlevel": 0.75,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 50,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.4,
-        "attackspeed": 0.644
       }
     },
     "Janna": {
@@ -2762,28 +1407,6 @@
           "secondtip": "Listen for the charge up sound on Howling Gale in case Janna is trying to hit you with it from off screen or from brush.",
           "thirdtip": "Janna's at her strongest when buffing another ally. If you can harass her ally, it will weaken her ability to fight you."
         }
-      },
-      "stats": {
-        "hp": 500,
-        "hpperlevel": 70,
-        "mp": 350,
-        "mpperlevel": 64,
-        "movespeed": 315,
-        "armor": 28,
-        "armorperlevel": 3.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 46,
-        "attackdamageperlevel": 1.5,
-        "attackspeedperlevel": 2.95,
-        "attackspeed": 0.625
       }
     },
     "JarvanIV": {
@@ -2802,15 +1425,6 @@
         "magic": 0.3,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "JarvanIV.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -2824,28 +1438,6 @@
           "secondtip": "Cataclysm's terrain is a frightening force to fight against, but movement abilities can go through it.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 90,
-        "mp": 300,
-        "mpperlevel": 40,
-        "movespeed": 340,
-        "armor": 34,
-        "armorperlevel": 3.6,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.7,
-        "mpregen": 6.5,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.658
       }
     },
     "Jax": {
@@ -2864,15 +1456,6 @@
         "magic": 0.7,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Jax.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2886,28 +1469,6 @@
           "secondtip": "Jax can dodge all incoming attacks for a very short amount of time and stuns enemies in melee range when it ends.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 593,
-        "hpperlevel": 85,
-        "mp": 339,
-        "mpperlevel": 52,
-        "movespeed": 350,
-        "armor": 36,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.58,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 4.25,
-        "attackspeedperlevel": 3.4,
-        "attackspeed": 0.638
       }
     },
     "Jayce": {
@@ -2926,15 +1487,6 @@
         "magic": 0.3,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Jayce.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -2948,28 +1500,6 @@
           "secondtip": "If you see Jayce drop his Acceleration Gate, be careful, he is probably about to cast Shock Blast.",
           "thirdtip": "Jayce is strong in the early game. If he gains the advantage, play defensively."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 90,
-        "mp": 375,
-        "mpperlevel": 45,
-        "movespeed": 335,
-        "armor": 27,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 125,
-        "hpregen": 6,
-        "hpregenperlevel": 0.6,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 4.25,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.658
       }
     },
     "Jhin": {
@@ -2988,15 +1518,6 @@
         "magic": 0.6,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Jhin.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3010,28 +1531,6 @@
           "secondtip": "Jhin places invisible traps around the map. Watch where you step!",
           "thirdtip": "Jhin's attacks are quite potent, but he runs out of ammo after the 4th shot. Use this window to jump him and burst him down."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 93,
-        "mp": 300,
-        "mpperlevel": 50,
-        "movespeed": 330,
-        "armor": 24,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 4.7,
-        "attackspeedperlevel": 0,
-        "attackspeed": 0.625
       }
     },
     "Jinx": {
@@ -3050,15 +1549,6 @@
         "magic": 0.4,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Jinx.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3072,28 +1562,6 @@
           "secondtip": "Jinx's ultimate does less damage the closer you are to her.",
           "thirdtip": "Jinx's snare grenades have a long cooldown and are her primary means of protecting herself. If she misses with them she will have a hard time escaping if engaged upon. "
         }
-      },
-      "stats": {
-        "hp": 610,
-        "hpperlevel": 86,
-        "mp": 245,
-        "mpperlevel": 45,
-        "movespeed": 325,
-        "armor": 26,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.5,
-        "mpregen": 6.7,
-        "mpregenperlevel": 1,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.625
       }
     },
     "Kaisa": {
@@ -3112,15 +1580,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Kaisa.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3134,28 +1593,6 @@
           "secondtip": "Kai'Sa is very vulnerable to getting outranged by mages and long range carries.",
           "thirdtip": "Make sure to place wards in your blind spots so you can see Kai'Sa coming."
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 88,
-        "mp": 344.88,
-        "mpperlevel": 38,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8.2,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 2,
-        "attackspeedperlevel": 1.8,
-        "attackspeed": 0.644
       }
     },
     "Kalista": {
@@ -3174,15 +1611,6 @@
         "magic": 0.4,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Kalista.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3196,28 +1624,6 @@
           "secondtip": "Kalista cannot cancel her basic attack wind up. While she is very mobile, this offers a window to land spells on her if you anticipate when she will begin attacking.",
           "thirdtip": "If you can break line of sight from Kalista, including through brush, her basic attacks will miss you, falling harmlessly to the ground."
         }
-      },
-      "stats": {
-        "hp": 534,
-        "hpperlevel": 100,
-        "mp": 250,
-        "mpperlevel": 45,
-        "movespeed": 325,
-        "armor": 21,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6.3,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 69,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 4,
-        "attackspeed": 0.694
       }
     },
     "Karma": {
@@ -3236,15 +1642,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Karma.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -3258,28 +1655,6 @@
           "secondtip": "Karma's Soulflare erupts for bonus damage in the area in which it's placed. React quickly and escape the circle to avoid taking heavy damage.",
           "thirdtip": "Focused Resolve is a strong disengage tool. Create distance to avoid being rooted and seek to engage afterwards."
         }
-      },
-      "stats": {
-        "hp": 534,
-        "hpperlevel": 95,
-        "mp": 374,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 13,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 51,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 2.3,
-        "attackspeed": 0.625
       }
     },
     "Karthus": {
@@ -3298,15 +1673,6 @@
         "magic": 1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Karthus.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -3320,28 +1686,6 @@
           "secondtip": "Make sure you always have enough health to survive Requiem, even if you have to go back to the base more frequently to heal.",
           "thirdtip": "Return to base if your Health is low so you can't get hit by Karthus's Fallen One."
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 87,
-        "mp": 467,
-        "mpperlevel": 30.5,
-        "movespeed": 335,
-        "armor": 18,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 450,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 46,
-        "attackdamageperlevel": 3.25,
-        "attackspeedperlevel": 2.11,
-        "attackspeed": 0.625
       }
     },
     "Kassadin": {
@@ -3360,15 +1704,6 @@
         "magic": 0.8,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Kassadin.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -3382,28 +1717,6 @@
           "secondtip": "Each time Kassadin consecutively uses Riftwalk, he pays more and more mana. Keep this in mind as you chase him.",
           "thirdtip": "It takes 6 spell casts for Kassadin's slow, Force Pulse, to become castable. If he levels up that ability, judiciously use your own skills while laning against him."
         }
-      },
-      "stats": {
-        "hp": 576,
-        "hpperlevel": 105,
-        "mp": 400,
-        "mpperlevel": 87,
-        "movespeed": 335,
-        "armor": 19,
-        "armorperlevel": 2.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 150,
-        "hpregen": 6,
-        "hpregenperlevel": 0.5,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 3.9,
-        "attackspeedperlevel": 3.7,
-        "attackspeed": 0.64
       }
     },
     "Katarina": {
@@ -3422,15 +1735,6 @@
         "magic": 0.9,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Katarina.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "None",
       "tips": {
@@ -3444,28 +1748,6 @@
           "secondtip": "Try to save a disable for when Katarina uses her Death Lotus.",
           "thirdtip": "Stay away from her daggers so she can't Shunpo on you."
         }
-      },
-      "stats": {
-        "hp": 602,
-        "hpperlevel": 94,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.7,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 2.74,
-        "attackspeed": 0.658
       }
     },
     "Kayle": {
@@ -3484,15 +1766,6 @@
         "magic": 0.7,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Kayle.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -3506,28 +1779,6 @@
           "secondtip": "Kayle is usually a fragile target. If you see her ultimate cast on an ally, switch to attacking her.",
           "thirdtip": "Kayle starts the game as a weaker melee champion. Try to put her behind before she ascends to her ranged form."
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 85,
-        "mp": 330,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 26,
-        "armorperlevel": 3,
-        "spellblock": 26,
-        "spellblockperlevel": 0.5,
-        "attackrange": 175,
-        "hpregen": 5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 50,
-        "attackdamageperlevel": 2.5,
-        "attackspeedperlevel": 1.5,
-        "attackspeed": 0.625
       }
     },
     "Kayn": {
@@ -3546,15 +1797,6 @@
         "magic": 0.1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Kayn.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -3568,28 +1810,6 @@
           "secondtip": "When Kayn is in terrain near you, you will get a visual warning on the edge of the terrain he's in.",
           "thirdtip": "Damage Kayn while he's in Shadow Step to shorten its duration, or apply hard crowd control (stun, charm, knockup, etc) to end Shadow Step immediately."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 85,
-        "mp": 410,
-        "mpperlevel": 50,
-        "movespeed": 340,
-        "armor": 38,
-        "armorperlevel": 3.3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.75,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.95,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.669
       }
     },
     "Kennen": {
@@ -3608,15 +1828,6 @@
         "magic": 0.7,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Kennen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Energy",
       "tips": {
@@ -3630,28 +1841,6 @@
           "secondtip": "Kennen is flimsy by nature. Turn and attack him if he gets careless with Lightning Rush.",
           "thirdtip": "Kennen's Ultimate still does damage whenever he uses stopwatch. Care!"
         }
-      },
-      "stats": {
-        "hp": 541,
-        "hpperlevel": 84,
-        "mp": 200,
-        "mpperlevel": 0,
-        "movespeed": 335,
-        "armor": 29,
-        "armorperlevel": 3.75,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.65,
-        "mpregen": 50,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 48,
-        "attackdamageperlevel": 3.75,
-        "attackspeedperlevel": 3.4,
-        "attackspeed": 0.625
       }
     },
     "Khazix": {
@@ -3670,15 +1859,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Khazix.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -3692,28 +1872,6 @@
           "secondtip": "Leap and Void Assault have long cooldowns. Kha'Zix is very vulnerable when these are not available.",
           "thirdtip": "Whenever Khazix ganks he takes his ghost form so make use of pink wards so you can see his ganks."
         }
-      },
-      "stats": {
-        "hp": 573,
-        "hpperlevel": 85,
-        "mp": 327,
-        "mpperlevel": 40,
-        "movespeed": 350,
-        "armor": 36,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.59,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.668
       }
     },
     "Kindred": {
@@ -3732,15 +1890,6 @@
         "magic": 0.2,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Kindred.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3754,28 +1903,6 @@
           "secondtip": "Clear the Hunts Wolf activates on jungle camps to slow down Kindred's damage output.",
           "thirdtip": "When Kindred uses Lamb's Respite get inside, it stops all champions from dying."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 85,
-        "mp": 300,
-        "mpperlevel": 35,
-        "movespeed": 325,
-        "armor": 29,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 65,
-        "attackdamageperlevel": 2.5,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "Kled": {
@@ -3794,15 +1921,6 @@
         "magic": 0.2,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Kled.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Courage",
       "tips": {
@@ -3816,28 +1934,6 @@
           "secondtip": "Watch Kled's courage bar when he's off his mount, when it reaches 100%, he will remount and regain a significant amount of health.",
           "thirdtip": "Kled is much more threatening when he has Violent Tendencies ready."
         }
-      },
-      "stats": {
-        "hp": 340,
-        "hpperlevel": 70,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 35,
-        "armorperlevel": 4,
-        "spellblock": 28,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 6,
-        "hpregenperlevel": 0.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 65,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "KogMaw": {
@@ -3856,15 +1952,6 @@
         "magic": 0.5,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "KogMaw.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -3878,28 +1965,6 @@
           "secondtip": "Run away from Kog'Maw after he dies!!!!",
           "thirdtip": "Bio-Arcane Barrage allows Kog'Maw to kill Baron Nashor extremely early. It can be valuable to ward Nashor when Kog'Maw completes his Blade of the Ruined King."
         }
-      },
-      "stats": {
-        "hp": 565,
-        "hpperlevel": 85,
-        "mp": 325,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 24,
-        "armorperlevel": 3.25,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8.75,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3.11,
-        "attackspeedperlevel": 2.65,
-        "attackspeed": 0.665
       }
     },
     "Leblanc": {
@@ -3918,15 +1983,6 @@
         "magic": 1,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Leblanc.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -3940,28 +1996,6 @@
           "secondtip": "The fake LeBlanc created at a distance will always run at the nearest Champion, cast a harmless spell, then immediately disappear.",
           "thirdtip": "Attacking LeBlanc first avoids most of her tricks, especially if she's recently used her dash, Distortion."
         }
-      },
-      "stats": {
-        "hp": 528,
-        "hpperlevel": 97,
-        "mp": 334,
-        "mpperlevel": 50,
-        "movespeed": 340,
-        "armor": 22,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 1.4,
-        "attackspeed": 0.625
       }
     },
     "LeeSin": {
@@ -3980,15 +2014,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "LeeSin.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Energy",
       "tips": {
@@ -4002,28 +2027,6 @@
           "secondtip": "Lee Sin has powerful tools to combat physical damage in Iron Will and Cripple but he is still vulnerable to magic damage.",
           "thirdtip": "Lee Sin relies heavily on following up with his abilities. Use disables to prevent him from chaining together his abilities and attacks."
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 85,
-        "mp": 200,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 36,
-        "armorperlevel": 3.7,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.7,
-        "mpregen": 50,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.7,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.651
       }
     },
     "Leona": {
@@ -4042,15 +2045,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Leona.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -4064,28 +2058,6 @@
           "secondtip": "Only foes in the center of Solar Flare get stunned, so you can often avoid this if you're quick.",
           "thirdtip": "Buy anti-tank items."
         }
-      },
-      "stats": {
-        "hp": 576,
-        "hpperlevel": 87,
-        "mp": 302,
-        "mpperlevel": 40,
-        "movespeed": 335,
-        "armor": 47,
-        "armorperlevel": 3.6,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.85,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.9,
-        "attackspeed": 0.625
       }
     },
     "Lillia": {
@@ -4104,15 +2076,6 @@
         "magic": 1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Lillia.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4126,28 +2089,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 90,
-        "mp": 410,
-        "mpperlevel": 50,
-        "movespeed": 330,
-        "armor": 22,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 0.75,
-        "attackrange": 325,
-        "hpregen": 2.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.95,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.625
       }
     },
     "Lissandra": {
@@ -4166,15 +2107,6 @@
         "magic": 0.8,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Lissandra.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4188,28 +2120,6 @@
           "secondtip": "Lissandra's Ring of Frost has a long cooldown at early ranks; engage her while it's on cooldown.",
           "thirdtip": "Lissandra's Ice Shard only slows the first unit it hits. Approach Lissandra from behind your team's minions to avoid being slowed."
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 90,
-        "mp": 475,
-        "mpperlevel": 30,
-        "movespeed": 325,
-        "armor": 22,
-        "armorperlevel": 3.7,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 2.7,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.656
       }
     },
     "Lucian": {
@@ -4228,15 +2138,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Lucian.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -4250,28 +2151,6 @@
           "secondtip": "Lucian cannot change the aim of The Culling. Take advantage of this by avoiding the angle of the bullets.",
           "thirdtip": "Piercing Light does not give Lucian extra Attack Range. He still needs to find a target in range to line up his shot. Avoid Piercing Light by anticipating the angle Lucian will choose."
         }
-      },
-      "stats": {
-        "hp": 571,
-        "hpperlevel": 86,
-        "mp": 348.88,
-        "mpperlevel": 38,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8.18,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 2.3,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.638
       }
     },
     "Lulu": {
@@ -4290,15 +2169,6 @@
         "magic": 0.7,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Lulu.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4312,28 +2182,6 @@
           "secondtip": "Lulu excels when opponents heavily commit. Don't give her this chance! Use heavy harass tactics instead to force Lulu and her partner out of lane.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 525,
-        "hpperlevel": 74,
-        "mp": 350,
-        "mpperlevel": 55,
-        "movespeed": 330,
-        "armor": 29,
-        "armorperlevel": 3.7,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6,
-        "hpregenperlevel": 0.6,
-        "mpregen": 11,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 47,
-        "attackdamageperlevel": 2.6,
-        "attackspeedperlevel": 2.25,
-        "attackspeed": 0.625
       }
     },
     "Lux": {
@@ -4352,15 +2200,6 @@
         "magic": 0.9,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Lux.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4374,28 +2213,6 @@
           "secondtip": "When retreating with low health, be prepared to dodge Lux's Final Spark, a red targeting beam fires prior to the main beam, so try to move to the side if possible.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 490,
-        "hpperlevel": 85,
-        "mp": 480,
-        "mpperlevel": 23.5,
-        "movespeed": 330,
-        "armor": 19,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.669
       }
     },
     "Malphite": {
@@ -4414,15 +2231,6 @@
         "magic": 0.7,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "Malphite.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -4436,28 +2244,6 @@
           "secondtip": "Malphite is one of a couple tanks who are capable of jungling. Watch out if he gets Smite.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 574,
-        "hpperlevel": 90,
-        "mp": 280,
-        "mpperlevel": 60,
-        "movespeed": 335,
-        "armor": 37,
-        "armorperlevel": 3.75,
-        "spellblock": 28,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.32,
-        "mpregenperlevel": 0.55,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 3.4,
-        "attackspeed": 0.736
       }
     },
     "Malzahar": {
@@ -4476,15 +2262,6 @@
         "magic": 0.9,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Malzahar.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4498,28 +2275,6 @@
           "secondtip": "Avoid minion waves that have been affected by Malefic Visions. You never know when they may die and pass the Visions onto you.",
           "thirdtip": "Malzahar is especially dangerous when he has built up his Void Swarm."
         }
-      },
-      "stats": {
-        "hp": 510,
-        "hpperlevel": 87,
-        "mp": 375,
-        "mpperlevel": 27.5,
-        "movespeed": 335,
-        "armor": 18,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 6,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.5,
-        "attackspeed": 0.625
       }
     },
     "Maokai": {
@@ -4538,15 +2293,6 @@
         "magic": 0.6,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Maokai.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -4560,28 +2306,6 @@
           "secondtip": "The cooldown on Maokai's self healing is heavily gated on how many time you hit him with spells. Careful about wasting abilities on him.",
           "thirdtip": "Maokai will avoid taking damage while he's using Twisted Advance, so don't waste your spells."
         }
-      },
-      "stats": {
-        "hp": 565,
-        "hpperlevel": 95,
-        "mp": 375,
-        "mpperlevel": 43,
-        "movespeed": 335,
-        "armor": 39,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.2,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 2.125,
-        "attackspeed": 0.8
       }
     },
     "MasterYi": {
@@ -4600,15 +2324,6 @@
         "magic": 0.2,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "MasterYi.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -4622,28 +2337,6 @@
           "secondtip": "If Master Yi tries to farm with Alpha Strike, hit him a few times so he has to use mana with Meditate to heal.",
           "thirdtip": "Although Master Yi cannot be slowed while using Highlander, other disables can stop him in his tracks."
         }
-      },
-      "stats": {
-        "hp": 599,
-        "hpperlevel": 92,
-        "mp": 251,
-        "mpperlevel": 42,
-        "movespeed": 355,
-        "armor": 33,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.65,
-        "mpregen": 7.26,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.679
       }
     },
     "MissFortune": {
@@ -4662,15 +2355,6 @@
         "magic": 0.5,
         "difficulty": 0.1
       },
-      "image": {
-        "full": "MissFortune.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -4684,28 +2368,6 @@
           "secondtip": "Miss Fortune is easy to kill if you can reach her; target her first in team fights.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 93,
-        "mp": 325.84,
-        "mpperlevel": 35,
-        "movespeed": 325,
-        "armor": 28,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8.04,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 2.7,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.656
       }
     },
     "MonkeyKing": {
@@ -4724,15 +2386,6 @@
         "magic": 0.2,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "MonkeyKing.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -4746,28 +2399,6 @@
           "secondtip": "Wukong becomes tougher to kill when surrounded by his enemies. Try to isolate him to gain an advantage.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 85,
-        "mp": 300,
-        "mpperlevel": 65,
-        "movespeed": 345,
-        "armor": 31,
-        "armorperlevel": 3.5,
-        "spellblock": 28,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 2.5,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.711
       }
     },
     "Mordekaiser": {
@@ -4786,15 +2417,6 @@
         "magic": 0.7,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Mordekaiser.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Shield",
       "tips": {
@@ -4808,28 +2430,6 @@
           "secondtip": "Damage he deals can be converted into a large shield, and consumed for health",
           "thirdtip": "Realm of Death will cut you off from your teammates completely. Try to save mobility spells to escape Mordekaiser once inside"
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 90,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 335,
-        "armor": 37,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.625
       }
     },
     "Morgana": {
@@ -4848,15 +2448,6 @@
         "magic": 0.8,
         "difficulty": 0.1
       },
-      "image": {
-        "full": "Morgana.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4870,28 +2461,6 @@
           "secondtip": "Morgana often needs to land Dark Binding to setup her other attacks. Use your minions as shields against Dark Binding.",
           "thirdtip": "Black Shield makes Morgana immune to disabling effects, but can be broken with magic damage."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 90,
-        "mp": 340,
-        "mpperlevel": 60,
-        "movespeed": 335,
-        "armor": 25,
-        "armorperlevel": 3.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 450,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.4,
-        "mpregen": 11,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 56,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 1.53,
-        "attackspeed": 0.625
       }
     },
     "Nami": {
@@ -4910,15 +2479,6 @@
         "magic": 0.7,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Nami.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -4932,28 +2492,6 @@
           "secondtip": "Tidal Wave has a very long range but travels slowly, be aware of when it is coming your way as you can move out of its path.",
           "thirdtip": "Try to avoid fighting an opponent affected by Tidecaller's Blessing, it lasts a short duration so waiting it out can help you greatly."
         }
-      },
-      "stats": {
-        "hp": 490,
-        "hpperlevel": 74,
-        "mp": 365,
-        "mpperlevel": 43,
-        "movespeed": 335,
-        "armor": 29,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 51,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.61,
-        "attackspeed": 0.644
       }
     },
     "Nasus": {
@@ -4972,15 +2510,6 @@
         "magic": 0.6,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Nasus.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -4994,28 +2523,6 @@
           "secondtip": "Max rank Wither is a very effective counter to Attack Damage characters, so try to avoid getting caught alone by it.",
           "thirdtip": "Nasus is prone to being kited. Try not to engage him at full Health."
         }
-      },
-      "stats": {
-        "hp": 561,
-        "hpperlevel": 90,
-        "mp": 326,
-        "mpperlevel": 62,
-        "movespeed": 350,
-        "armor": 34,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.9,
-        "mpregen": 7.44,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 67,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3.48,
-        "attackspeed": 0.638
       }
     },
     "Nautilus": {
@@ -5034,15 +2541,6 @@
         "magic": 0.6,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Nautilus.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -5056,28 +2554,6 @@
           "secondtip": "While Nautilus is shielded, he is capable of dealing large amounts of area of effect damage with his basic attacks - consider taking down the shield if you have time.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 576,
-        "hpperlevel": 86,
-        "mp": 400,
-        "mpperlevel": 47,
-        "movespeed": 325,
-        "armor": 39,
-        "armorperlevel": 3.75,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8.63,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.706
       }
     },
     "Neeko": {
@@ -5096,15 +2572,6 @@
         "magic": 0.9,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Neeko.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -5118,28 +2585,6 @@
           "secondtip": "Pop Blossom's warning visuals are invisible if Neeko is disguised.",
           "thirdtip": "Neeko's stun passes through minions."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 90,
-        "mp": 450,
-        "mpperlevel": 30,
-        "movespeed": 340,
-        "armor": 21,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 48,
-        "attackdamageperlevel": 2.5,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "Nidalee": {
@@ -5158,15 +2603,6 @@
         "magic": 0.7,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Nidalee.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -5180,28 +2616,6 @@
           "secondtip": "Nidalee's Javelin Toss deals more damage the farther she is. If she is far away, it's imperative to dodge it.",
           "thirdtip": "Nidalee's Takedown deals extreme damage to Hunted targets, but she has to get close to use it. Save your crowd control or defensive abilities for when she goes in for the kill."
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 95,
-        "mp": 295,
-        "mpperlevel": 45,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 6,
-        "hpregenperlevel": 0.6,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3.22,
-        "attackspeed": 0.638
       }
     },
     "Nocturne": {
@@ -5220,15 +2634,6 @@
         "magic": 0.2,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Nocturne.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -5242,28 +2647,6 @@
           "secondtip": "Nocturne's Unspeakable Horror is broken with range, so try to save your movement abilities for when he casts it.",
           "thirdtip": "Stay out of vision. Whenever Nocturne uses Paranoia he can't recast it on you."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 85,
-        "mp": 275,
-        "mpperlevel": 35,
-        "movespeed": 345,
-        "armor": 38,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 0.75,
-        "attackrange": 125,
-        "hpregen": 7,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.721
       }
     },
     "Nunu": {
@@ -5282,15 +2665,6 @@
         "magic": 0.7,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Nunu.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -5304,28 +2678,6 @@
           "secondtip": "Using Summoner Flash is a surefire way to escape Absolute Zero.",
           "thirdtip": "Biggest Snowball Ever moves very fast but cannot turn as quickly, so don't try to escape it by running away in a straight line.  Instead, make sudden, sharp turns."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 82,
-        "mp": 280,
-        "mpperlevel": 42,
-        "movespeed": 345,
-        "armor": 29,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 5,
-        "hpregenperlevel": 0.8,
-        "mpregen": 7,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.25,
-        "attackspeed": 0.625
       }
     },
     "Olaf": {
@@ -5344,15 +2696,6 @@
         "magic": 0.3,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Olaf.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -5366,28 +2709,6 @@
           "secondtip": "Preventing Olaf from reaching his axe will minimize the amount of harassment he can cause in the laning phase.",
           "thirdtip": "Olaf has reduced defenses from damage during Ragnarok, despite being immune to disables. If you can't escape from Olaf during Ragnarok, try focusing your damage on him with your teammates."
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 100,
-        "mp": 316,
-        "mpperlevel": 42,
-        "movespeed": 350,
-        "armor": 35,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.9,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2.7,
-        "attackspeed": 0.694
       }
     },
     "Orianna": {
@@ -5406,15 +2727,6 @@
         "magic": 0.9,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Orianna.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -5428,28 +2740,6 @@
           "secondtip": "Watch out for Orianna's Ball returning to her due to leashing. This may cause some unexpected situations.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 91,
-        "mp": 418,
-        "mpperlevel": 25,
-        "movespeed": 325,
-        "armor": 17,
-        "armorperlevel": 3,
-        "spellblock": 26,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 40,
-        "attackdamageperlevel": 2.6,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.658
       }
     },
     "Ornn": {
@@ -5467,15 +2757,6 @@
         "magic": 0.3,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Ornn.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -5489,28 +2770,6 @@
           "secondtip": "Attack Ornn to keep him from creating items in lane.",
           "thirdtip": "Ornn ultimate can recast and it was knock you up when it hits you a second time.s"
         }
-      },
-      "stats": {
-        "hp": 590,
-        "hpperlevel": 95,
-        "mp": 340.6,
-        "mpperlevel": 65,
-        "movespeed": 335,
-        "armor": 33,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 9,
-        "hpregenperlevel": 0.9,
-        "mpregen": 8.01,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 69,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "Pantheon": {
@@ -5529,15 +2788,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Pantheon.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -5551,28 +2801,6 @@
           "secondtip": "Be careful near Pantheon if your health is low - a thrown Comet Spear executes low health enemies.",
           "thirdtip": "Grand Starfall gives several seconds of warning before Pantheon arrives. Use this time to get out of the way or to form a plan to deal with him."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 95,
-        "mp": 317.12,
-        "mpperlevel": 31,
-        "movespeed": 345,
-        "armor": 40,
-        "armorperlevel": 3.75,
-        "spellblock": 28,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 9,
-        "hpregenperlevel": 0.65,
-        "mpregen": 7.36,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 2.95,
-        "attackspeed": 0.644
       }
     },
     "Poppy": {
@@ -5591,15 +2819,6 @@
         "magic": 0.2,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Poppy.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -5613,28 +2832,6 @@
           "secondtip": "When Poppy starts to spin her hammer, she is charging Keeper's Verdict.",
           "thirdtip": "You can step on Poppy's shield to deny it from her."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 90,
-        "mp": 280,
-        "mpperlevel": 40,
-        "movespeed": 345,
-        "armor": 38,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8,
-        "hpregenperlevel": 0.8,
-        "mpregen": 7,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.625
       }
     },
     "Pyke": {
@@ -5653,15 +2850,6 @@
         "magic": 0.1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Pyke.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -5675,28 +2863,6 @@
           "secondtip": "When Pyke is hidden nearby in his Ghostwater Dive, sharks will circle underneath your feet.",
           "thirdtip": "Try not to stand near low health allies. If Pyke executes them using Death From Below, you might be next on the list."
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 90,
-        "mp": 415,
-        "mpperlevel": 50,
-        "movespeed": 330,
-        "armor": 45,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 7,
-        "hpregenperlevel": 0.5,
-        "mpregen": 8,
-        "mpregenperlevel": 1,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 2,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.667
       }
     },
     "Qiyana": {
@@ -5715,15 +2881,6 @@
         "magic": 0.4,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Qiyana.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -5737,28 +2894,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 590,
-        "hpperlevel": 90,
-        "mp": 320,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.9,
-        "mpregen": 8,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.1,
-        "attackspeed": 0.688
       }
     },
     "Quinn": {
@@ -5777,15 +2912,6 @@
         "magic": 0.2,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Quinn.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -5799,28 +2925,6 @@
           "secondtip": "Keep tabs on Quinn's position. Behind Enemy Lines can enable Valor to cross the map very quickly and attack you by surprise.",
           "thirdtip": "When Quinn is using Behind Enemy Lines, damaging her removes her movement speed bonus temporarily."
         }
-      },
-      "stats": {
-        "hp": 533,
-        "hpperlevel": 85,
-        "mp": 269,
-        "mpperlevel": 35,
-        "movespeed": 335,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6.97,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 2.4,
-        "attackspeedperlevel": 3.1,
-        "attackspeed": 0.668
       }
     },
     "Rakan": {
@@ -5839,15 +2943,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Rakan.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "",
       "partype": "Mana",
       "tips": {
@@ -5861,28 +2956,6 @@
           "secondtip": "Champions with crowd control that can be applied quickly excel against Rakan.",
           "thirdtip": "Catching Rakan with no allies around severely inhibits his mobility. Try to find him alone."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 85,
-        "mp": 315,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 32,
-        "armorperlevel": 3.9,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 300,
-        "hpregen": 5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 8.75,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.635
       }
     },
     "Rammus": {
@@ -5901,16 +2974,6 @@
         "magic": 0.5,
         "difficulty": 0.5
       },
-
-      "image": {
-        "full": "Rammus.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -5924,28 +2987,6 @@
           "secondtip": "Rammus often stacks high Armor, leaving him especially vulnerable to caster damage while not in Defensive Ball Curl.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 564,
-        "hpperlevel": 80,
-        "mp": 310,
-        "mpperlevel": 33,
-        "movespeed": 335,
-        "armor": 36,
-        "armorperlevel": 4.3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.84,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 56,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2.215,
-        "attackspeed": 0.656
       }
     },
     "RekSai": {
@@ -5964,15 +3005,6 @@
         "magic": 0.2,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "RekSai.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Rage",
       "tips": {
@@ -5986,28 +3018,6 @@
           "secondtip": "Rek'Sai's Furious Bite gains damage as she builds Fury. Be very careful around her when her Fury is full.",
           "thirdtip": "When Rek'Sai is near, she can see the position of you and your allies, but only if you're moving."
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 85,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 335,
-        "armor": 36,
-        "armorperlevel": 3.75,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.65,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.667
       }
     },
     "Rell": {
@@ -6026,15 +3036,6 @@
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "full": "Rell.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -6048,28 +3049,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 90,
-        "mp": 350,
-        "mpperlevel": 45,
-        "movespeed": 335,
-        "armor": 32,
-        "armorperlevel": 3,
-        "spellblock": 32.1,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6,
-        "mpregenperlevel": 0.35,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.55
       }
     },
     "Renekton": {
@@ -6088,15 +3067,6 @@
         "magic": 0.2,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Renekton.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Fury",
       "tips": {
@@ -6110,28 +3080,6 @@
           "secondtip": "Keeping Renekton from being able to fight and gain Fury by continually harassing him will severely reduce the effectiveness of his abilities.",
           "thirdtip": "Ranged Top Laners are good against Renekton."
         }
-      },
-      "stats": {
-        "hp": 590,
-        "hpperlevel": 92,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 35,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8,
-        "hpregenperlevel": 0.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 69,
-        "attackdamageperlevel": 3.75,
-        "attackspeedperlevel": 2.75,
-        "attackspeed": 0.665
       }
     },
     "Rengar": {
@@ -6150,15 +3098,6 @@
         "magic": 0.2,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Rengar.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Ferocity",
       "tips": {
@@ -6172,28 +3111,6 @@
           "secondtip": "Rengar's passive enables him to leap out of brush, so avoid fighting him when near bushes.",
           "thirdtip": "Rengar puts an indicator over the nearest enemy champion when he is camouflaged during his ultimate."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 90,
-        "mp": 4,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 34,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7,
-        "hpregenperlevel": 0.5,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.667
       }
     },
     "Riven": {
@@ -6212,15 +3129,6 @@
         "magic": 0.1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Riven.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "None",
       "tips": {
@@ -6234,28 +3142,6 @@
           "secondtip": "All of Riven's damage is physical, prioritize high Armor if an opposing Riven gets out of control.",
           "thirdtip": "Riven excels at dueling multiple melee attackers at once, as she will be on an almost equal footing damage-wise. If pairing up against Riven, don't go in as double melee until she has expended her full combo."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 86,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 340,
-        "armor": 33,
-        "armorperlevel": 3.2,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "Rumble": {
@@ -6274,15 +3160,6 @@
         "magic": 0.8,
         "difficulty": 1
       },
-      "image": {
-        "full": "Rumble.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Heat",
       "tips": {
@@ -6296,28 +3173,6 @@
           "secondtip": "Rumble's ultimate can deal a lot of damage if you stay inside the area of effect. When you see the missiles falling, move out of the way as quickly as possible.",
           "thirdtip": "Rumble deals almost entirely magic damage. Build some Magic Resistance to reduce his damage."
         }
-      },
-      "stats": {
-        "hp": 589,
-        "hpperlevel": 85,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 31,
-        "armorperlevel": 3.5,
-        "spellblock": 28,
-        "spellblockperlevel": 0.75,
-        "attackrange": 125,
-        "hpregen": 8,
-        "hpregenperlevel": 0.6,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 1.85,
-        "attackspeed": 0.644
       }
     },
     "Ryze": {
@@ -6336,15 +3191,6 @@
         "magic": 1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Ryze.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -6358,28 +3204,6 @@
           "secondtip": "Ryze is especially dangerous to opponents that are marked with Flux.",
           "thirdtip": "Crowd controlling Ryze during Realm Warp's windup will cancel the portal."
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 110,
-        "mp": 300,
-        "mpperlevel": 70,
-        "movespeed": 340,
-        "armor": 22,
-        "armorperlevel": 3,
-        "spellblock": 36,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 8,
-        "hpregenperlevel": 0.8,
-        "mpregen": 8,
-        "mpregenperlevel": 1,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.112,
-        "attackspeed": 0.625
       }
     },
     "Samira": {
@@ -6398,15 +3222,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Samira.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -6420,28 +3235,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 88,
-        "mp": 348.88,
-        "mpperlevel": 38,
-        "movespeed": 335,
-        "armor": 26,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 3.25,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8.18,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.658
       }
     },
     "Sejuani": {
@@ -6460,15 +3253,6 @@
         "magic": 0.6,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Sejuani.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -6482,28 +3266,6 @@
           "secondtip": "Focus on avoiding the second swing of Winter's Wrath which carries the brunt of the damage.",
           "thirdtip": "Melee enemies can also stack Frost for Sejuani, be very careful around them."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 100,
-        "mp": 400,
-        "mpperlevel": 40,
-        "movespeed": 340,
-        "armor": 34,
-        "armorperlevel": 4.25,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 8.5,
-        "hpregenperlevel": 1,
-        "mpregen": 7,
-        "mpregenperlevel": 0.7,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.688
       }
     },
     "Senna": {
@@ -6522,15 +3284,6 @@
         "magic": 0.6,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Senna.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -6544,28 +3297,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 520,
-        "hpperlevel": 75,
-        "mp": 350,
-        "mpperlevel": 45,
-        "movespeed": 330,
-        "armor": 28,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 600,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 50,
-        "attackdamageperlevel": 0,
-        "attackspeedperlevel": 4,
-        "attackspeed": 0.625
       }
     },
     "Seraphine": {
@@ -6584,15 +3315,6 @@
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "full": "Seraphine.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -6606,28 +3328,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 500,
-        "hpperlevel": 90,
-        "mp": 440,
-        "mpperlevel": 40,
-        "movespeed": 325,
-        "armor": 19,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 1,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.669
       }
     },
     "Sett": {
@@ -6646,15 +3346,6 @@
         "magic": 0.1,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "Sett.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Grit",
       "tips": {
@@ -6668,28 +3359,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 600,
-        "hpperlevel": 93,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 340,
-        "armor": 33,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7,
-        "hpregenperlevel": 0.5,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 1.75,
-        "attackspeed": 0.625
       }
     },
     "Shaco": {
@@ -6708,15 +3377,6 @@
         "magic": 0.6,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Shaco.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -6730,28 +3390,6 @@
           "secondtip": "If Shaco uses Deceive to enter a fight he won't be able to quickly use it again to get away. Work with your team to quickly focus him down.",
           "thirdtip": "Pink ward. Not the youtuber but the item."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 89,
-        "mp": 297,
-        "mpperlevel": 40,
-        "movespeed": 345,
-        "armor": 30,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.16,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.694
       }
     },
     "Shen": {
@@ -6770,15 +3408,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Shen.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Energy",
       "tips": {
@@ -6792,28 +3421,6 @@
           "secondtip": "Once Shen reaches level 6, watch out for his global-range ultimate, which can turn fights quickly.",
           "thirdtip": "If you have Teleport use it whenever Shen uses his Ultimate."
         }
-      },
-      "stats": {
-        "hp": 540,
-        "hpperlevel": 85,
-        "mp": 400,
-        "mpperlevel": 0,
-        "movespeed": 340,
-        "armor": 34,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 50,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3,
-        "attackspeed": 0.751
       }
     },
     "Shyvana": {
@@ -6832,15 +3439,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Shyvana.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Fury",
       "tips": {
@@ -6854,28 +3452,6 @@
           "secondtip": "All of Shyvana's basic abilities hit multiple enemies in dragon form. It's important for opposing champions to not cluster while fighting her.",
           "thirdtip": "Shyvana's Fury Bar indicate her ultimate can be activated. Harassing her when she's low on Fury can be very effective."
         }
-      },
-      "stats": {
-        "hp": 595,
-        "hpperlevel": 95,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 350,
-        "armor": 38,
-        "armorperlevel": 3.35,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.8,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 66,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.658
       }
     },
     "Singed": {
@@ -6894,15 +3470,6 @@
         "magic": 0.7,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Singed.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -6916,28 +3483,6 @@
           "secondtip": "Singed needs to run close to your team to be effective. Try to take advantage of this by using crowd control effects on him while attacking his allies.",
           "thirdtip": "Be careful when chasing Singed. He's very difficult to bring down, and can leave his Poison Trail to damage you in your pursuit."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 85,
-        "mp": 330,
-        "mpperlevel": 45,
-        "movespeed": 345,
-        "armor": 34,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.55,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3.38,
-        "attackspeedperlevel": 1.9,
-        "attackspeed": 0.613
       }
     },
     "Sion": {
@@ -6956,15 +3501,6 @@
         "magic": 0.3,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Sion.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -6978,28 +3514,6 @@
           "secondtip": "Use the time after Sion has died to reposition and prepare for his return.",
           "thirdtip": "When Sion uses his Ultimate you can here it even if he is out of vision."
         }
-      },
-      "stats": {
-        "hp": 545,
-        "hpperlevel": 73,
-        "mp": 330,
-        "mpperlevel": 42,
-        "movespeed": 345,
-        "armor": 32,
-        "armorperlevel": 3,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.8,
-        "mpregen": 8,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 1.3,
-        "attackspeed": 0.679
       }
     },
     "Sivir": {
@@ -7018,15 +3532,6 @@
         "magic": 0.1,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Sivir.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -7040,28 +3545,6 @@
           "secondtip": "Sivir is a powerful pushing champion, so leaving her unattended in a lane for too long will often result in your turrets being destroyed.",
           "thirdtip": "When laning against Sivir, it is possible to throw off the timing of her Spell Shield by faking an advance, then backing off."
         }
-      },
-      "stats": {
-        "hp": 562,
-        "hpperlevel": 90,
-        "mp": 325,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 26,
-        "armorperlevel": 3.25,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 3.25,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.9,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.6,
-        "attackspeed": 0.625
       }
     },
     "Skarner": {
@@ -7080,15 +3563,6 @@
         "magic": 0.5,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Skarner.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -7102,28 +3576,6 @@
           "secondtip": "Skarner's Movement Speed is increased as long as his shield, Crystalline Exoskeleton, persists. Attack him to lower his speed.",
           "thirdtip": "Skarner is especially dangerous when inside Crystal Spire zones his team controls. Try to capture them ahead of time if a fight may break out around them."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 85,
-        "mp": 320,
-        "mpperlevel": 60,
-        "movespeed": 335,
-        "armor": 38,
-        "armorperlevel": 3.8,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 9,
-        "hpregenperlevel": 0.85,
-        "mpregen": 7.2,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 65,
-        "attackdamageperlevel": 4.5,
-        "attackspeedperlevel": 2.1,
-        "attackspeed": 0.625
       }
     },
     "Sona": {
@@ -7142,15 +3594,6 @@
         "magic": 0.8,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Sona.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7164,28 +3607,6 @@
           "secondtip": "Kill Sona first, as she will heal up her team if left alone for too long.",
           "thirdtip": "Sona's Q-Spell does a lot more damage than you think."
         }
-      },
-      "stats": {
-        "hp": 480,
-        "hpperlevel": 77,
-        "mp": 340,
-        "mpperlevel": 45,
-        "movespeed": 325,
-        "armor": 26,
-        "armorperlevel": 3.3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 49,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.3,
-        "attackspeed": 0.644
       }
     },
     "Soraka": {
@@ -7204,15 +3625,6 @@
         "magic": 0.7,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Soraka.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7226,28 +3638,6 @@
           "secondtip": "Take advantage of Soraka's long cooldown on Equinox if she uses it to harass.",
           "thirdtip": "It's easier to focus Soraka than the ally she is healing."
         }
-      },
-      "stats": {
-        "hp": 535,
-        "hpperlevel": 74,
-        "mp": 425,
-        "mpperlevel": 40,
-        "movespeed": 325,
-        "armor": 32,
-        "armorperlevel": 3.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 2.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 11.5,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 50,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.14,
-        "attackspeed": 0.625
       }
     },
     "Swain": {
@@ -7266,15 +3656,6 @@
         "magic": 0.9,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Swain.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7288,28 +3669,6 @@
           "secondtip": "High mobility counters all of Swain's basic abilities: Death's Hand does more damage the closer he is, Vision of Empire has a very long delay and Nevermove must start returning back to him to be dangerous.",
           "thirdtip": "Buying an item with Grievous Wounds will make Swain much easier to kill during his Demonic Ascension."
         }
-      },
-      "stats": {
-        "hp": 525,
-        "hpperlevel": 85,
-        "mp": 468,
-        "mpperlevel": 28.5,
-        "movespeed": 325,
-        "armor": 23,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 7,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 2.7,
-        "attackspeedperlevel": 2.11,
-        "attackspeed": 0.625
       }
     },
     "Sylas": {
@@ -7328,15 +3687,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Sylas.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7350,28 +3700,6 @@
           "secondtip": "Try to fight Sylas when he isn't able to take your ultimate.",
           "thirdtip": "Sylas's W-Spell is on a short cooldown when it is at max level."
         }
-      },
-      "stats": {
-        "hp": 525,
-        "hpperlevel": 115,
-        "mp": 310,
-        "mpperlevel": 70,
-        "movespeed": 340,
-        "armor": 27,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.75,
-        "attackrange": 175,
-        "hpregen": 9,
-        "hpregenperlevel": 0.9,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 61,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.645
       }
     },
     "Syndra": {
@@ -7390,15 +3718,6 @@
         "magic": 0.9,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Syndra.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7412,28 +3731,6 @@
           "secondtip": "Attack Syndra after she's used Scatter the Weak, it has a long cooldown so she'll be vulnerable.",
           "thirdtip": "At max rank Syndra's spells gain bonus effects and change in appearance."
         }
-      },
-      "stats": {
-        "hp": 523,
-        "hpperlevel": 90,
-        "mp": 480,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 25,
-        "armorperlevel": 3.4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 2.9,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "TahmKench": {
@@ -7452,15 +3749,6 @@
         "magic": 0.6,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "TahmKench.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -7474,28 +3762,6 @@
           "secondtip": "Watch out for Kench's Abyssal Dive - you can cancel it's channel with immobilizing crowd control effects.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 95,
-        "mp": 325,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 42,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 1,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 56,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.658
       }
     },
     "Taliyah": {
@@ -7514,15 +3780,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Taliyah.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -7536,28 +3793,6 @@
           "secondtip": "If she throws you into her minefield, the throws and stones will break your bones.",
           "thirdtip": "Taliyah's Threaded Volley is locked into a direction. If she's throwing rocks at you, dodge to the side!"
         }
-      },
-      "stats": {
-        "hp": 532,
-        "hpperlevel": 90,
-        "mp": 425,
-        "mpperlevel": 30,
-        "movespeed": 335,
-        "armor": 20,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 7,
-        "hpregenperlevel": 0.7,
-        "mpregen": 9.34,
-        "mpregenperlevel": 0.85,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "Talon": {
@@ -7576,15 +3811,6 @@
         "magic": 0.1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Talon.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Mana",
       "tips": {
@@ -7598,28 +3824,6 @@
           "secondtip": "Talon is heavily reliant on Shadow Assault to escape a fight. When it is down he's significantly more vulnerable.",
           "thirdtip": "Talon has unrivaled roaming ability. Make sure to keep track of his position or force him to stay in lane by pushing aggressively."
         }
-      },
-      "stats": {
-        "hp": 588,
-        "hpperlevel": 95,
-        "mp": 377.2,
-        "mpperlevel": 37,
-        "movespeed": 335,
-        "armor": 30,
-        "armorperlevel": 3.5,
-        "spellblock": 39,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2.9,
-        "attackspeed": 0.625
       }
     },
     "Taric": {
@@ -7638,15 +3842,6 @@
         "magic": 0.5,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Taric.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -7660,28 +3855,6 @@
           "secondtip": "Taric reduces his spell cooldowns by basic attacking enemies with Bravado. Try to kite him in teamfights and punish him for approaching the minion wave in lane.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 575,
-        "hpperlevel": 85,
-        "mp": 300,
-        "mpperlevel": 60,
-        "movespeed": 340,
-        "armor": 40,
-        "armorperlevel": 3.4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 6,
-        "hpregenperlevel": 0.5,
-        "mpregen": 8.5,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "Teemo": {
@@ -7700,15 +3873,6 @@
         "magic": 0.7,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Teemo.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -7722,28 +3886,6 @@
           "secondtip": "It can be valuable to use Oracle's Lens(Trinket) to destroy mushrooms around key locations.",
           "thirdtip": "Pink Wards are also very affective."
         }
-      },
-      "stats": {
-        "hp": 528,
-        "hpperlevel": 90,
-        "mp": 334,
-        "mpperlevel": 20,
-        "movespeed": 330,
-        "armor": 24,
-        "armorperlevel": 3.75,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 500,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.65,
-        "mpregen": 9.6,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.38,
-        "attackspeed": 0.69
       }
     },
     "Thresh": {
@@ -7762,15 +3904,6 @@
         "magic": 0.6,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Thresh.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "Mana",
       "tips": {
@@ -7784,28 +3917,6 @@
           "secondtip": "Intentionally breaking a wall of The Box can allow a vulnerable ally to escape unscathed.",
           "thirdtip": "Thresh relies on collecting souls for a portion of his defense and damage. Try punishing him when he moves to collect them."
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 95,
-        "mp": 274,
-        "mpperlevel": 44,
-        "movespeed": 330,
-        "armor": 28,
-        "armorperlevel": 0,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 450,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 56,
-        "attackdamageperlevel": 2.2,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "Tristana": {
@@ -7824,15 +3935,6 @@
         "magic": 0.5,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Tristana.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -7846,28 +3948,6 @@
           "secondtip": "Stand away from your creeps in a lane to take less collateral damage from Explosive Charge.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 559,
-        "hpperlevel": 88,
-        "mp": 250,
-        "mpperlevel": 32,
-        "movespeed": 325,
-        "armor": 26,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.65,
-        "mpregen": 7.2,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 1.5,
-        "attackspeed": 0.656
       }
     },
     "Trundle": {
@@ -7886,15 +3966,6 @@
         "magic": 0.2,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Trundle.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -7908,28 +3979,6 @@
           "secondtip": "Make sure to get out of his Pillar of Ice as quickly as possible, as it significantly slows you down.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 616,
-        "hpperlevel": 96,
-        "mp": 281,
-        "mpperlevel": 45,
-        "movespeed": 350,
-        "armor": 37,
-        "armorperlevel": 2.7,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 6,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.6,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 68,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.9,
-        "attackspeed": 0.67
       }
     },
     "Tryndamere": {
@@ -7948,15 +3997,6 @@
         "magic": 0.2,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Tryndamere.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Fury",
       "tips": {
@@ -7970,28 +4010,6 @@
           "secondtip": "Remember, Tryndamere can only slow you if you are facing away from him.",
           "thirdtip": "Most of Tryndamere's damage is physical. If he's getting too strong, consider buying a Thornmail."
         }
-      },
-      "stats": {
-        "hp": 626,
-        "hpperlevel": 98,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 33,
-        "armorperlevel": 3.1,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 8.5,
-        "hpregenperlevel": 0.9,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 72,
-        "attackdamageperlevel": 3.7,
-        "attackspeedperlevel": 2.9,
-        "attackspeed": 0.67
       }
     },
     "TwistedFate": {
@@ -8010,15 +4028,6 @@
         "magic": 0.6,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "TwistedFate.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -8032,28 +4041,6 @@
           "secondtip": "If you have low Health, use Destiny as an indicator to run to safety. It will give you a head start in escaping any possible ganks.",
           "thirdtip": "Whenever Twisted Fate uses his Ultimate an eye shows up on top of your champion."
         }
-      },
-      "stats": {
-        "hp": 534,
-        "hpperlevel": 94,
-        "mp": 333,
-        "mpperlevel": 39,
-        "movespeed": 330,
-        "armor": 21,
-        "armorperlevel": 3.15,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 3.22,
-        "attackspeed": 0.651
       }
     },
     "Twitch": {
@@ -8072,15 +4059,6 @@
         "magic": 0.3,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Twitch.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -8094,28 +4072,6 @@
           "secondtip": "Spell Shields won't block the damage from Deadly Venom, but they will block the effects Twitch can trigger with it.",
           "thirdtip": "If you suspect Twitch has left the lane, let your teammates know that Twitch is 'MIA.'"
         }
-      },
-      "stats": {
-        "hp": 612,
-        "hpperlevel": 86,
-        "mp": 287.2,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 27,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.75,
-        "hpregenperlevel": 0.6,
-        "mpregen": 7.26,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 3.11,
-        "attackspeedperlevel": 3.38,
-        "attackspeed": 0.679
       }
     },
     "Udyr": {
@@ -8134,15 +4090,6 @@
         "magic": 0.4,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Udyr.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -8156,28 +4103,6 @@
           "secondtip": "Once the initial shield effect has faded, Turtle Stance is weak against other champions. Press the attack to force him to switch stances and prevent him from regenerating health.",
           "thirdtip": "Some Udyr players buy tank items to become very durable. If they do, focus their weaker teammates instead."
         }
-      },
-      "stats": {
-        "hp": 594,
-        "hpperlevel": 92,
-        "mp": 271,
-        "mpperlevel": 50,
-        "movespeed": 350,
-        "armor": 34,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 6,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 64,
-        "attackdamageperlevel": 5,
-        "attackspeedperlevel": 2.67,
-        "attackspeed": 0.658
       }
     },
     "Urgot": {
@@ -8196,15 +4121,6 @@
         "magic": 0.3,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Urgot.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -8218,28 +4134,6 @@
           "secondtip": "Urgot can deal and absorb tremendous amounts of damage with Purge, but slows himself while firing.",
           "thirdtip": "If you are struck by Fear Beyond Death, do your best to avoid falling below the execution threshold (25% of your Maximum Health) until the effect times out."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 88,
-        "mp": 340,
-        "mpperlevel": 45,
-        "movespeed": 330,
-        "armor": 36,
-        "armorperlevel": 4.25,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 350,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.7,
-        "mpregen": 7.25,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 4,
-        "attackspeedperlevel": 3.75,
-        "attackspeed": 0.625
       }
     },
     "Varus": {
@@ -8258,15 +4152,6 @@
         "magic": 0.4,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "Varus.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -8280,28 +4165,6 @@
           "secondtip": "When he gets a kill or assist, Varus temporarily gains Attack Speed and is much more dangerous.",
           "thirdtip": "You'll get bound in place if a tendril from Varus' ultimate, Chain of Corruption, reaches you. You can cause the tendril to die however by running far enough away from it."
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 91,
-        "mp": 360,
-        "mpperlevel": 40,
-        "movespeed": 330,
-        "armor": 27,
-        "armorperlevel": 3.4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 575,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 59,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 4,
-        "attackspeed": 0.658
       }
     },
     "Vayne": {
@@ -8320,15 +4183,6 @@
         "magic": 0.1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Vayne.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -8342,28 +4196,6 @@
           "secondtip": "Deny Vayne the opportunity to pin you against walls.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 515,
-        "hpperlevel": 89,
-        "mp": 231.8,
-        "mpperlevel": 35,
-        "movespeed": 330,
-        "armor": 23,
-        "armorperlevel": 3.4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 3.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 6.97,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 2.36,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.658
       }
     },
     "Veigar": {
@@ -8382,15 +4214,6 @@
         "magic": 1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Veigar.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -8404,28 +4227,6 @@
           "secondtip": "Event Horizon only stuns units on the edge. If you're inside the spell, you can still move and attack.",
           "thirdtip": "Veigar's ultimate deals increased damage based on your missing health."
         }
-      },
-      "stats": {
-        "hp": 505,
-        "hpperlevel": 94,
-        "mp": 490,
-        "mpperlevel": 26,
-        "movespeed": 340,
-        "armor": 23,
-        "armorperlevel": 3.75,
-        "spellblock": 32,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 2.7,
-        "attackspeedperlevel": 2.24,
-        "attackspeed": 0.625
       }
     },
     "Velkoz": {
@@ -8444,15 +4245,6 @@
         "magic": 1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Velkoz.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -8466,28 +4258,6 @@
           "secondtip": "Vel'Koz has fairly low mobility and is vulnerable to ganks.",
           "thirdtip": "Life Form Disintegration Ray can be interrupted by stuns, silences and knockups."
         }
-      },
-      "stats": {
-        "hp": 520,
-        "hpperlevel": 88,
-        "mp": 469,
-        "mpperlevel": 21,
-        "movespeed": 340,
-        "armor": 22,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3.1416,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "Vex": {
@@ -8506,15 +4276,6 @@
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "full": "Vex.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -8528,28 +4289,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 520,
-        "hpperlevel": 90,
-        "mp": 490,
-        "mpperlevel": 32,
-        "movespeed": 335,
-        "armor": 23,
-        "armorperlevel": 3.25,
-        "spellblock": 28,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 6,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 2.75,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.669
       }
     },
     "Vi": {
@@ -8568,15 +4307,6 @@
         "magic": 0.3,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Vi.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -8590,28 +4320,6 @@
           "secondtip": "Vi will shred your Armor and gain Attack Speed if she manages to hit you three times in a row. Try not to engage in extended brawls with her.",
           "thirdtip": "Vi cannot be stopped while using her ult. Remember to save your displacement effects until after she's done charging."
         }
-      },
-      "stats": {
-        "hp": 585,
-        "hpperlevel": 85,
-        "mp": 295,
-        "mpperlevel": 65,
-        "movespeed": 340,
-        "armor": 30,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 10,
-        "hpregenperlevel": 1,
-        "mpregen": 8,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.644
       }
     },
     "Viego": {
@@ -8630,15 +4338,6 @@
         "magic": 0.2,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Viego.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "None",
       "tips": {
@@ -8652,28 +4351,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 95,
-        "mp": 10000,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 34,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 200,
-        "hpregen": 7,
-        "hpregenperlevel": 0.7,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 57,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.658
       }
     },
     "Viktor": {
@@ -8692,15 +4369,6 @@
         "magic": 1,
         "difficulty": 0.9
       },
-      "image": {
-        "full": "Viktor.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -8714,28 +4382,6 @@
           "secondtip": "Be aware of how many augments Viktor has upgraded by looking at the color of the light on his staff (purple, yellow, blue, red).",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 530,
-        "hpperlevel": 90,
-        "mp": 405,
-        "mpperlevel": 45,
-        "movespeed": 335,
-        "armor": 23,
-        "armorperlevel": 4,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 8,
-        "hpregenperlevel": 0.65,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 53,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.11,
-        "attackspeed": 0.658
       }
     },
     "Vladimir": {
@@ -8754,15 +4400,6 @@
         "magic": 0.8,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Vladimir.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Crimson Rush",
       "tips": {
@@ -8776,28 +4413,6 @@
           "secondtip": "Making Vladimir use Sanguine Pool at the start of a fight will maximize the Health cost of the ability to him.",
           "thirdtip": "Items that counter Health stacking, such as Liandry's Torment and Blade of the Ruined King, are very effective against Vladimir."
         }
-      },
-      "stats": {
-        "hp": 537,
-        "hpperlevel": 96,
-        "mp": 2,
-        "mpperlevel": 0,
-        "movespeed": 330,
-        "armor": 23,
-        "armorperlevel": 3.3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 450,
-        "hpregen": 7,
-        "hpregenperlevel": 0.6,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.658
       }
     },
     "Volibear": {
@@ -8816,15 +4431,6 @@
         "magic": 0.4,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Volibear.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -8838,28 +4444,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 90,
-        "mp": 350,
-        "mpperlevel": 70,
-        "movespeed": 340,
-        "armor": 31,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 150,
-        "hpregen": 9,
-        "hpregenperlevel": 0.75,
-        "mpregen": 6.25,
-        "mpregenperlevel": 0.5,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "Warwick": {
@@ -8878,15 +4462,6 @@
         "magic": 0.3,
         "difficulty": 0.3
       },
-      "image": {
-        "full": "Warwick.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -8900,28 +4475,6 @@
           "secondtip": "Warwick is empowered versus low health enemies. Manage your health to keep him at bay.",
           "thirdtip": "Warwick's ultimate cast range scales with his movement speed."
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 85,
-        "mp": 280,
-        "mpperlevel": 35,
-        "movespeed": 335,
-        "armor": 33,
-        "armorperlevel": 3.2,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 4,
-        "hpregenperlevel": 0.75,
-        "mpregen": 7.47,
-        "mpregenperlevel": 0.58,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 65,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.3,
-        "attackspeed": 0.638
       }
     },
     "Xayah": {
@@ -8940,15 +4493,6 @@
         "magic": 0.1,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Xayah.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Marksman.png",
       "partype": "Mana",
       "tips": {
@@ -8962,28 +4506,6 @@
           "secondtip": "Long fights in the same area with Xayah will allow her to drop a lot of Feathers. Try to stay on the move!",
           "thirdtip": "Make sure you are ready when you go for the kill. Untargetability from Featherstorm can quickly turn an ambush in Xayah's favor."
         }
-      },
-      "stats": {
-        "hp": 590,
-        "hpperlevel": 88,
-        "mp": 340,
-        "mpperlevel": 40,
-        "movespeed": 325,
-        "armor": 25,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 3.25,
-        "hpregenperlevel": 0.75,
-        "mpregen": 8.25,
-        "mpregenperlevel": 0.75,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3.5,
-        "attackspeedperlevel": 3.9,
-        "attackspeed": 0.625
       }
     },
     "Xerath": {
@@ -9002,15 +4524,6 @@
         "magic": 1,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Xerath.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9024,28 +4537,6 @@
           "secondtip": "Xerath takes a long time to engage Rite of the Arcane. Watch for his spellcast animation and start dodging.",
           "thirdtip": "Banshee's Veil will make it much harder for Xerath to land Shocking Orb on you."
         }
-      },
-      "stats": {
-        "hp": 526,
-        "hpperlevel": 92,
-        "mp": 459,
-        "mpperlevel": 22,
-        "movespeed": 340,
-        "armor": 22,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 525,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.55,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 1.36,
-        "attackspeed": 0.625
       }
     },
     "XinZhao": {
@@ -9064,15 +4555,6 @@
         "magic": 0.3,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "XinZhao.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -9086,28 +4568,6 @@
           "secondtip": "Xin Zhao relies heavily on his Three Talon Strikes for damage and cooldown resets, so preventing him from finishing his combo will have a dramatic effect.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 570,
-        "hpperlevel": 92,
-        "mp": 274,
-        "mpperlevel": 55,
-        "movespeed": 345,
-        "armor": 35,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.7,
-        "mpregen": 7.26,
-        "mpregenperlevel": 0.45,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.645
       }
     },
     "Yasuo": {
@@ -9126,15 +4586,6 @@
         "magic": 0.4,
         "difficulty": 1
       },
-      "image": {
-        "full": "Yasuo.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Flow",
       "tips": {
@@ -9148,28 +4599,6 @@
           "secondtip": "Yasuo is at his weakest just after he has launched a whirlwind. Engage at that point.",
           "thirdtip": "Yasuo's shield from Resolve lasts only 2 seconds. Dealing damage to him will trigger it. Wait it out, then engage."
         }
-      },
-      "stats": {
-        "hp": 490,
-        "hpperlevel": 87,
-        "mp": 100,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 30,
-        "armorperlevel": 3.4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.9,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.697
       }
     },
     "Yone": {
@@ -9188,15 +4617,6 @@
         "magic": 0.4,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Yone.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Flow",
       "tips": {
@@ -9210,28 +4630,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 550,
-        "hpperlevel": 85,
-        "mp": 500,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 28,
-        "armorperlevel": 3.4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 7.5,
-        "hpregenperlevel": 0.75,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 2,
-        "attackspeedperlevel": 3.5,
-        "attackspeed": 0.625
       }
     },
     "Yorick": {
@@ -9250,15 +4648,6 @@
         "magic": 0.4,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Yorick.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Fighter.png",
       "partype": "Mana",
       "tips": {
@@ -9272,28 +4661,6 @@
           "secondtip": "Try to thin out Yorick's minions before you engage him, Mist Walkers will die from a basic attack or a single target spell.",
           "thirdtip": "You can attack Dark Procession to break the wall down."
         }
-      },
-      "stats": {
-        "hp": 580,
-        "hpperlevel": 100,
-        "mp": 300,
-        "mpperlevel": 60,
-        "movespeed": 340,
-        "armor": 39,
-        "armorperlevel": 4,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.8,
-        "mpregen": 7.5,
-        "mpregenperlevel": 0.75,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 62,
-        "attackdamageperlevel": 5,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.625
       }
     },
     "Yuumi": {
@@ -9312,15 +4679,6 @@
         "magic": 0.8,
         "difficulty": 0.2
       },
-      "image": {
-        "full": "Yuumi.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9334,28 +4692,6 @@
           "secondtip": "Akali's Five Point Strike is powerful when used at maximum range and energy. Engage on her when she has low energy to maximize your chance of winning trades.",
           "thirdtip": "Return to base if your Health is low and Akali has her ultimate available."
         }
-      },
-      "stats": {
-        "hp": 480,
-        "hpperlevel": 70,
-        "mp": 400,
-        "mpperlevel": 45,
-        "movespeed": 330,
-        "armor": 25,
-        "armorperlevel": 3,
-        "spellblock": 25,
-        "spellblockperlevel": 0.3,
-        "attackrange": 500,
-        "hpregen": 7,
-        "hpregenperlevel": 0.55,
-        "mpregen": 10,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 55,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 1,
-        "attackspeed": 0.625
       }
     },
     "Zac": {
@@ -9374,15 +4710,6 @@
         "magic": 0.7,
         "difficulty": 0.8
       },
-      "image": {
-        "full": "Zac.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Tank.png",
       "partype": "None",
       "tips": {
@@ -9396,28 +4723,6 @@
           "secondtip": "Kill all of Zac's bloblets when he splits apart to stop him from reforming.",
           "thirdtip": "Silences, stuns, roots and knockups will all interrupt Zac when he is charging Elastic Slingshot."
         }
-      },
-      "stats": {
-        "hp": 615,
-        "hpperlevel": 95,
-        "mp": 0,
-        "mpperlevel": 0,
-        "movespeed": 340,
-        "armor": 33,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 175,
-        "hpregen": 8,
-        "hpregenperlevel": 0.5,
-        "mpregen": 0,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 60,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 1.6,
-        "attackspeed": 0.736
       }
     },
     "Zed": {
@@ -9436,15 +4741,6 @@
         "magic": 0.1,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Zed.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Assassin.png",
       "partype": "Energy",
       "tips": {
@@ -9458,28 +4754,6 @@
           "secondtip": "After Zed uses his Living Shadow, he is at his most vulnerable as his damage, slow, and mobility are both dependent upon it.",
           "thirdtip": "Zed's Shadow Slash can only slow you if his shadow hits you with it. "
         }
-      },
-      "stats": {
-        "hp": 584,
-        "hpperlevel": 85,
-        "mp": 200,
-        "mpperlevel": 0,
-        "movespeed": 345,
-        "armor": 32,
-        "armorperlevel": 3.5,
-        "spellblock": 32,
-        "spellblockperlevel": 1.25,
-        "attackrange": 125,
-        "hpregen": 7,
-        "hpregenperlevel": 0.65,
-        "mpregen": 50,
-        "mpregenperlevel": 0,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 63,
-        "attackdamageperlevel": 3.4,
-        "attackspeedperlevel": 3.3,
-        "attackspeed": 0.651
       }
     },
     "Ziggs": {
@@ -9498,15 +4772,6 @@
         "magic": 0.9,
         "difficulty": 0.4
       },
-      "image": {
-        "full": "Ziggs.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9520,28 +4785,6 @@
           "secondtip": "Many of Ziggs' abilities have long cooldowns. Try catching him just after he's used his abilities.",
           "thirdtip": "Ziggs' ultimate, Mega Inferno Bomb, deals more damage in the center of the explosion."
         }
-      },
-      "stats": {
-        "hp": 536,
-        "hpperlevel": 92,
-        "mp": 480,
-        "mpperlevel": 23.5,
-        "movespeed": 325,
-        "armor": 22,
-        "armorperlevel": 3.3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 54,
-        "attackdamageperlevel": 3.1,
-        "attackspeedperlevel": 2,
-        "attackspeed": 0.656
       }
     },
     "Zilean": {
@@ -9560,15 +4803,6 @@
         "magic": 0.8,
         "difficulty": 0.6
       },
-      "image": {
-        "full": "Zilean.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9582,28 +4816,6 @@
           "secondtip": "Zilean is fragile if a team focuses on him, but otherwise he's very difficult to kill. Commit to killing him as a team.",
           "thirdtip": ""
         }
-      },
-      "stats": {
-        "hp": 504,
-        "hpperlevel": 82,
-        "mp": 452,
-        "mpperlevel": 50,
-        "movespeed": 335,
-        "armor": 24,
-        "armorperlevel": 3.8,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 11.34,
-        "mpregenperlevel": 0.8,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 52,
-        "attackdamageperlevel": 3,
-        "attackspeedperlevel": 2.13,
-        "attackspeed": 0.625
       }
     },
     "Zoe": {
@@ -9622,15 +4834,6 @@
         "magic": 0.8,
         "difficulty": 0.5
       },
-      "image": {
-        "full": "Zoe.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9644,28 +4847,6 @@
           "secondtip": "Zoe must return to her starting point after casting Portal Jump, making her vulnerable to a counterattack.",
           "thirdtip": "Sleepy Trouble Bubble travels further over walls. Stop Zoe from hiding in fog of war to prevent her from setting the spell up."
         }
-      },
-      "stats": {
-        "hp": 560,
-        "hpperlevel": 92,
-        "mp": 425,
-        "mpperlevel": 25,
-        "movespeed": 340,
-        "armor": 21,
-        "armorperlevel": 3.5,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 550,
-        "hpregen": 6.5,
-        "hpregenperlevel": 0.6,
-        "mpregen": 8,
-        "mpregenperlevel": 0.65,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 58,
-        "attackdamageperlevel": 3.3,
-        "attackspeedperlevel": 2.5,
-        "attackspeed": 0.625
       }
     },
     "Zyra": {
@@ -9684,15 +4865,6 @@
         "magic": 0.8,
         "difficulty": 0.7
       },
-      "image": {
-        "full": "Zyra.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
       "tags": "Mage.png",
       "partype": "Mana",
       "tips": {
@@ -9706,28 +4878,6 @@
           "secondtip": "Moving closer to Zyra can be a smart move if she places plants too far away from herself.",
           "thirdtip": "Plants take fixed damage from attacks and effects, similar to wards. They also expire quickly on their own."
         }
-      },
-      "stats": {
-        "hp": 504,
-        "hpperlevel": 79,
-        "mp": 418,
-        "mpperlevel": 25,
-        "movespeed": 340,
-        "armor": 29,
-        "armorperlevel": 3,
-        "spellblock": 30,
-        "spellblockperlevel": 0.5,
-        "attackrange": 575,
-        "hpregen": 5.5,
-        "hpregenperlevel": 0.5,
-        "mpregen": 13,
-        "mpregenperlevel": 0.4,
-        "crit": 0,
-        "critperlevel": 0,
-        "attackdamage": 53,
-        "attackdamageperlevel": 3.2,
-        "attackspeedperlevel": 2.11,
-        "attackspeed": 0.625
       }
     }
   }
