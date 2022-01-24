@@ -10,7 +10,7 @@
         </StackLayout>-->
     <helpers:Details BindingContext="{Binding LegendInfo}" BackgroundColor="#112120" IconImageSource="/Resources/detailsIcon.png">
     </helpers:Details>
-    <helpers:Abilities Title="Abilities" BindingContext="{Binding LegendAbilities}" IconImageSource="/Resources/abilityIcon.png">
+    <helpers:Abilities Title="Abilities" BindingContext="{Binding LegendAbilities}" BackgroundColor="#112120" IconImageSource="/Resources/abilityIcon.png">
         
     </helpers:Abilities>
     <helpers:Lore Title="Lore" IconImageSource="/Resources/loreIcon.png">

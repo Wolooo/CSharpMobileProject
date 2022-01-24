@@ -8,7 +8,6 @@ namespace Legends.Models
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public string CooldownBurn { get; set; }
         public string ImageSpell { get; set; }
     }
 }
