@@ -2555,3 +2555,5 @@ C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\zyraq.png
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\zyrar.png
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\zyraw.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\splashscreen.xml
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\android\src\crc6404344c0b68d8fdb8\SplashActivity.java

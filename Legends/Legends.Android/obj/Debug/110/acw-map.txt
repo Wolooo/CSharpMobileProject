@@ -1,6 +1,9 @@
 Legends.Droid.MainActivity, Legends.Android;crc6404344c0b68d8fdb8.MainActivity
 Legends.Droid.MainActivity;crc6404344c0b68d8fdb8.MainActivity
 legends.droid.MainActivity;crc6404344c0b68d8fdb8.MainActivity
+Legends.Droid.SplashActivity, Legends.Android;crc6404344c0b68d8fdb8.SplashActivity
+Legends.Droid.SplashActivity;crc6404344c0b68d8fdb8.SplashActivity
+legends.droid.SplashActivity;crc6404344c0b68d8fdb8.SplashActivity
 Microcharts.Droid.ChartView, Microcharts.Droid;crc64e9f97cf19b8286a9.ChartView
 Microcharts.Droid.ChartView;crc64e9f97cf19b8286a9.ChartView
 microcharts.droid.ChartView;crc64e9f97cf19b8286a9.ChartView

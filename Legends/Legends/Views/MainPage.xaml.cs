@@ -17,6 +17,7 @@ namespace Legends
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
 
         private async void LegendsPage_Clicked(object sender, EventArgs e)

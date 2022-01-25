@@ -37,25 +37,21 @@
         "qspell": {
           "name": "The Darkin Blade",
           "description": "Aatrox slams his greatsword down, dealing physical damage. He can swing three times, each with a different area of effect.",
-          "cooldownburn": "14/12/10/8/6",
           "imagespell": "AatroxQ.png"
         },
         "wspell": {
           "name": "Infernal Chains",
           "description": "Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.",
-          "cooldownburn": "20/18/17/15/14",
           "imagespell": "AatroxW.png"
         },
         "espell": {
           "name": "Umbral Dash",
           "description": "Passively, Aatrox heals when damaging enemy champions. On activation, he dashes in a direction.",
-          "cooldownburn": "9/8/7/6/5",
           "imagespell": "AatroxE.png"
         },
         "rspell": {
           "name": "World Ender",
           "description": "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and movement speed. If he gets a takedown, this effect is extended.",
-          "cooldownburn": "120/100/80",
           "imagespell": "AatroxR.png"
         },
         "pspell": {

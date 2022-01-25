@@ -12,7 +12,9 @@ androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\Gebruiker\source\re
 attr;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\60\jl\res\values\attrs.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\110\res\drawable\splashscreen.xml
 cache-path;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\59\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\drawable\splashscreen.xml
 color;obj\Debug\110\res\values\colors.xml
 com.google.android.material.appbar.AppBarLayout;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\60\jl\res\layout\flyoutcontent.xml
 com.google.android.material.appbar.AppBarLayout;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\60\jl\res\layout\rootlayout.xml
@@ -32,9 +34,12 @@ item;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Leg
 item;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\5\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
 item;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\5\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
 item;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\60\jl\res\values\styles.xml
+item;obj\Debug\110\res\drawable\splashscreen.xml
+item;obj\Debug\110\res\values\styles.xml
 layer-list;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\5\jl\res\drawable\sfprogressbar_determinate_linear.xml
 layer-list;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\5\jl\res\drawable\sfprogressbar_indeterminate_circular.xml
 layer-list;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\5\jl\res\drawable\sfprogressbar_indeterminate_linear.xml
+layer-list;obj\Debug\110\res\drawable\splashscreen.xml
 LinearLayout;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\60\jl\res\layout\bottomtablayout.xml
 paths;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\59\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\lp\1\jl\res\values\strings.xml
