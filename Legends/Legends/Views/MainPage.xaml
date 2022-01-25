@@ -2,18 +2,13 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Legends.MainPage" Style="{StaticResource BackgroundColor}" BackgroundImageSource="Resources/LoLWallpaper.jpg">
-
     <StackLayout>
-        <Button x:Name="LegendsPage" Text="Legends" Clicked="LegendsPage_Clicked"></Button>
+        <StackLayout  VerticalOptions="Center" HorizontalOptions="Center">
+            <Image Source="Resources/LegendsLogo.png"></Image>
+        </StackLayout>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand">
+            <Button x:Name="LegendsPage" BackgroundColor="#ae914b" Opacity="0.93" BorderColor="#f4de93" BorderWidth="1" HeightRequest="60" CornerRadius="20" Margin="20,0,20,10" 
+                    Font="Large" Text="To Summoners Rift" FontAttributes="Bold" FontSize="20" TextColor="#f4de93" Clicked="LegendsPage_Clicked"></Button>
+        </StackLayout>
     </StackLayout>
-    
-
-    <!--<ListView x:Name="listviewChampions">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <TextCell Text="{Binding Value.Name}" Detail="{Binding Value.Title}" />
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>-->
-
 </ContentPage>
