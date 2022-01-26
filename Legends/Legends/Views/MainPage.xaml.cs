@@ -19,7 +19,6 @@ namespace Legends
         {
             InitializeComponent();
             flyout.listview.ItemSelected += OnSelectedItem;
-            NavigationPage.SetHasNavigationBar(this, false);
         }
 
         private void OnSelectedItem(object sender, SelectedItemChangedEventArgs e)
@@ -27,18 +26,10 @@ namespace Legends
             var item = e.SelectedItem as FlyoutItemPage;
             if (item!=null)
             {
-                var page = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
-                page.BarBackgroundColor = Color.FromHex("#122e2f");
-                Detail = page;
-
+                Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
                 flyout.listview.SelectedItem = null;
                 IsPresented = false;
             }
-        }
-
-        //private async void LegendsPage_Clicked(object sender, EventArgs e)
-        //{
-        //    await this.Navigation.PushAsync(new LegendsPage());
-        //}        
+        }        
     }
 }
