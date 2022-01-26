@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Legends": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

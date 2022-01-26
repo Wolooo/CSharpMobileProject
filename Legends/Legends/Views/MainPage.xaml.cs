@@ -26,7 +26,9 @@ namespace Legends
             var item = e.SelectedItem as FlyoutItemPage;
             if (item!=null)
             {
-                Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
+                var page = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
+                page.BarBackground = Color.FromHex("#112120");
+                Detail = page;
                 flyout.listview.SelectedItem = null;
                 IsPresented = false;
             }

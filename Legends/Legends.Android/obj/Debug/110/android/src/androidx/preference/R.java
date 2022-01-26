@@ -706,9 +706,9 @@ public final class R {
 		public static final int notification_template_icon_low_bg = 0x7f070309;
 		public static final int notification_tile_bg = 0x7f07030a;
 		public static final int notify_panel_notification_icon_bg = 0x7f07030b;
-		public static final int preference_list_divider_material = 0x7f07033e;
-		public static final int tooltip_frame_dark = 0x7f070437;
-		public static final int tooltip_frame_light = 0x7f070438;
+		public static final int preference_list_divider_material = 0x7f07033f;
+		public static final int tooltip_frame_dark = 0x7f070438;
+		public static final int tooltip_frame_light = 0x7f070439;
 	}
 	public static final class id {
 		public static final int accessibility_action_clickable_span = 0x7f08000f;

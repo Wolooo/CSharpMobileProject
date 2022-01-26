@@ -37,7 +37,7 @@ C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Views\LegendDetailsPage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Views\LegendsPage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Legends.csproj.AssemblyReference.cache
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\FlyoutMenuPage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\HomePage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\PatchNotes.xaml.g.cs
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Legends.csproj.AssemblyReference.cache
