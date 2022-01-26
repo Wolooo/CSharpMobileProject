@@ -14,15 +14,15 @@ namespace Legends {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    public partial class MainPage : global::Xamarin.Forms.FlyoutPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Button LegendsPage;
+        private global::Legends.Helpers.FlyoutMenuPage flyout;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
-            LegendsPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "LegendsPage");
+            flyout = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Legends.Helpers.FlyoutMenuPage>(this, "flyout");
         }
     }
 }

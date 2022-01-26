@@ -2558,3 +2558,4 @@ C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\splashscreen.xml
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\android\src\crc6404344c0b68d8fdb8\SplashActivity.java
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\legendslogo.png
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends.Android\obj\Debug\110\res\drawable\home.png

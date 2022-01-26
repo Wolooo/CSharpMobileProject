@@ -9,20 +9,36 @@ using Legends.Data;
 using System.IO;
 using System.Reflection;
 using Newtonsoft.Json;
+using Legends.Helpers;
 
 namespace Legends
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : FlyoutPage
     {
         public MainPage()
         {
             InitializeComponent();
+            flyout.listview.ItemSelected += OnSelectedItem;
             NavigationPage.SetHasNavigationBar(this, false);
         }
 
-        private async void LegendsPage_Clicked(object sender, EventArgs e)
+        private void OnSelectedItem(object sender, SelectedItemChangedEventArgs e)
         {
-            await this.Navigation.PushAsync(new LegendsPage());
-        }        
+            var item = e.SelectedItem as FlyoutItemPage;
+            if (item!=null)
+            {
+                var page = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
+                page.BarBackgroundColor = Color.FromHex("#122e2f");
+                Detail = page;
+
+                flyout.listview.SelectedItem = null;
+                IsPresented = false;
+            }
+        }
+
+        //private async void LegendsPage_Clicked(object sender, EventArgs e)
+        //{
+        //    await this.Navigation.PushAsync(new LegendsPage());
+        //}        
     }
 }

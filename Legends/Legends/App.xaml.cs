@@ -10,9 +10,7 @@ namespace Legends
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
-            var navigationPage = Application.Current.MainPage as NavigationPage;
-            navigationPage.BarBackgroundColor = Color.FromHex("#112120");
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
