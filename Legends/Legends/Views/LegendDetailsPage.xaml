@@ -13,7 +13,7 @@
     <helpers:Abilities Title="Abilities" BindingContext="{Binding LegendAbilities}" BackgroundColor="#112120" IconImageSource="/Resources/abilityIcon.png">
         
     </helpers:Abilities>
-    <helpers:Lore Title="Lore" IconImageSource="/Resources/loreIcon.png">
+    <helpers:Lore Title="Lore" BindingContext="{Binding LegendLore}" BackgroundColor="#112120" IconImageSource="/Resources/loreIcon.png">
         
     </helpers:Lore>
 </TabbedPage>

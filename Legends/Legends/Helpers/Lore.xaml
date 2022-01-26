@@ -1,12 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Legends.Helpers.Lore">
+             x:Class="Legends.Helpers.Lore" Title="Lore">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="The story of the legend"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand" VerticalOptions="Start">
+                <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="{Binding ImageSplash}"/>
+                <Frame Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,10,15,5" Padding="0,5" BackgroundColor="#ae914b" CornerRadius="20">
+                    <Label FontSize="18" TextColor="#122e2f" FontAttributes="Bold" Text="{Binding Title}" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                </Frame>
+                <Frame BorderColor="#ae914b" BackgroundColor="#112120" CornerRadius="15" Margin="15,0,15,20">
+                    <Label Text="{Binding Lore}" FontSize="25" TextColor="#ae914b"
+                VerticalOptions="StartAndExpand" Margin="10,0,10,0"
+                HorizontalOptions="StartAndExpand" />
+                </Frame>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
