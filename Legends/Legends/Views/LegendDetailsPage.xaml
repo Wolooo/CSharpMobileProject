@@ -2,18 +2,18 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Legends.LegendDetailsPage" xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core" xmlns:helpers="clr-namespace:Legends.Helpers"
-            android:TabbedPage.ToolbarPlacement="Bottom" BarBackgroundColor="#122e2f" BarTextColor="#ae914b" SelectedTabColor="#ae914b">
+            android:TabbedPage.ToolbarPlacement="Bottom" Style="{StaticResource BackgroundStyleTabbedPage}">
     <!--<StackLayout>
             <Label x:Name="lblLegendName"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>-->
-    <helpers:Details BindingContext="{Binding LegendInfo}" BackgroundColor="#112120" IconImageSource="/Resources/detailsIcon.png">
+    <helpers:Details BindingContext="{Binding LegendInfo}" Style="{StaticResource BackgroundColor}" IconImageSource="/Resources/detailsIcon.png">
     </helpers:Details>
-    <helpers:Abilities Title="Abilities" BindingContext="{Binding LegendAbilities}" BackgroundColor="#112120" IconImageSource="/Resources/abilityIcon.png">
+    <helpers:Abilities Title="Abilities" BindingContext="{Binding LegendAbilities}" Style="{StaticResource BackgroundColor}" IconImageSource="/Resources/abilityIcon.png">
         
     </helpers:Abilities>
-    <helpers:Lore Title="Lore" BindingContext="{Binding LegendLore}" BackgroundColor="#112120" IconImageSource="/Resources/loreIcon.png">
+    <helpers:Lore Title="Lore" BindingContext="{Binding LegendLore}" Style="{StaticResource BackgroundColor}" IconImageSource="/Resources/loreIcon.png">
         
     </helpers:Lore>
 </TabbedPage>

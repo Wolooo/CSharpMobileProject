@@ -7,6 +7,88 @@
             <Style x:Key="BackgroundColor" TargetType="ContentPage">
                 <Setter Property="BackgroundColor" Value="#112120"></Setter>
             </Style>
+            <Style x:Key="BarBackground" TargetType="NavigationPage">
+                <Setter Property="BarBackground" Value="#112120"></Setter>
+            </Style>
+            
+            <Style x:Key="BackgroundStyleTabbedPage" TargetType="TabbedPage">
+                <Setter Property="BarBackgroundColor" Value="#122e2f"></Setter>
+                <Setter Property="BarTextColor" Value="#ae914b"></Setter>
+                <Setter Property="SelectedTabColor" Value="#ae914b"></Setter>
+            </Style>
+
+            <Style x:Key="ChampionNameStyle" TargetType="Label">
+                <Setter Property="Margin" Value="15,0,15,5"></Setter>
+                <Setter Property="FontSize" Value="40"></Setter>
+                <Setter Property="TextColor" Value="#ae914b"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Start"></Setter>
+            </Style>
+
+            <Style x:Key="ChampionImage" TargetType="Image">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"></Setter>
+                <Setter Property="Aspect" Value="AspectFill"></Setter>
+            </Style>
+
+            <Style x:Key="ChampionFrameTitle" TargetType="Frame">
+                <Setter Property="Margin" Value="15,10,15,5"></Setter>
+                <Setter Property="Padding" Value="0,5"></Setter>
+                <Setter Property="BackgroundColor" Value="#ae914b"></Setter>
+                <Setter Property="CornerRadius" Value="20"></Setter>
+            </Style>
+
+            <Style x:Key="ChampionLabelTitle" TargetType="Label">
+                <Setter Property="FontSize" Value="18"></Setter>
+                <Setter Property="TextColor" Value="#122e2f"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+                <Setter Property="VerticalTextAlignment" Value="Center"></Setter>
+            </Style>
+            <!--HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True"-->
+            <Style x:Key="FrameProgressBar" TargetType="Frame">
+                <Setter Property="HasShadow" Value="False"></Setter>
+                <Setter Property="HeightRequest" Value="10"></Setter>
+                <Setter Property="CornerRadius" Value="5"></Setter>
+                <Setter Property="Padding" Value="0"></Setter>
+                <Setter Property="Margin" Value="15,0,250,0"></Setter>
+                <Setter Property="BackgroundColor" Value="#ae914b"></Setter>
+                <Setter Property="IsClippedToBounds" Value="True"></Setter>
+            </Style>
+
+            <Style x:Key="ProgressBar" TargetType="ProgressBar">
+                <Setter Property="ProgressColor" Value="#122e2f"></Setter>
+                <Setter Property="ScaleY" Value="3"></Setter>
+            </Style>
+            <!--FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"-->
+            <Style x:Key="LabelInfo" TargetType="Label">
+                <Setter Property="FontSize" Value="15"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="TextColor" Value="#ae914b"></Setter>
+                <Setter Property="Margin" Value="15,0,0,0"></Setter>
+            </Style>
+
+            <Style x:Key="FrameTips" TargetType="Frame">
+                <Setter Property="Margin" Value="15,0,120,0"></Setter>
+                <Setter Property="Padding" Value="0,5"></Setter>
+                <Setter Property="BackgroundColor" Value="#ae914b"></Setter>
+                <Setter Property="CornerRadius" Value="20"></Setter>
+            </Style>
+            <!--FontSize="20" TextColor="#122e2f" HorizontalOptions="Center" FontAttributes="Bold" Margin="15,0,0,0"-->
+            <Style x:Key="LabelTips" TargetType="Label">
+                <Setter Property="FontSize" Value="20"></Setter>
+                <Setter Property="TextColor" Value="#122e2f"></Setter>
+                <Setter Property="HorizontalOptions" Value="Center"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="Margin" Value="15,0,0,0"></Setter>
+            </Style>
+            <!--FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"-->
+            <Style x:Key="LabelResultTips" TargetType="Label">
+                <Setter Property="FontSize" Value="20"></Setter>
+                <Setter Property="TextColor" Value="#ae914b"></Setter>
+                <Setter Property="FontAttributes" Value="Italic"></Setter>
+                <Setter Property="Margin" Value="15,5,0,0"></Setter>
+            </Style>
+            
         </ResourceDictionary>
 
     </Application.Resources>

@@ -17,62 +17,54 @@
             </Grid.ColumnDefinitions>
 
 
-            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,0,15,5" FontSize="40" TextColor="#ae914b" FontAttributes="Bold" Text="{Binding Name}" HorizontalTextAlignment="Start"></Label>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource ChampionNameStyle}" Text="{Binding Name}"></Label>
 
-            <Image Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" HorizontalOptions="FillAndExpand" Aspect="AspectFill" Source="{Binding ImageSplash}"></Image>
+            <Image Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource ChampionImage}" Source="{Binding ImageSplash}"></Image>
             <StackLayout Grid.Row="0" Grid.Column="0" HorizontalOptions="End" Orientation="Horizontal">
                 <Image HorizontalOptions="End" Source="{Binding Tags}"></Image>
                 <Image HorizontalOptions="End" Source="{Binding Lane}" ></Image>
             </StackLayout>
-            <Frame Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Margin="15,10,15,5" Padding="0,5" BackgroundColor="#ae914b" CornerRadius="20">
-                <Label FontSize="18" TextColor="#122e2f" FontAttributes="Bold" Text="{Binding Title}" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            <Frame Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource ChampionFrameTitle}">
+                <Label Text="{Binding Title}" Style="{StaticResource ChampionLabelTitle}"></Label>
             </Frame>
             <!---basic info-->
             <StackLayout Grid.Row="3" Grid.Column="0" Orientation="Vertical" BindingContext="{Binding Info}">
-                <Label Text="Attack" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
-                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
-                    <ProgressBar Progress="{Binding Attack}" ScaleY="3" ProgressColor="#122e2f"></ProgressBar>
+                <Label Text="Attack" Style="{StaticResource LabelInfo}"></Label>
+                <Frame Style="{StaticResource FrameProgressBar}">
+                    <ProgressBar Progress="{Binding Attack}" Style="{StaticResource ProgressBar}"></ProgressBar>
                 </Frame>
-                <Label Text="Defense" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
-                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
-                    <ProgressBar Progress="{Binding Defense}" ScaleY="3" ProgressColor="#122e2f"></ProgressBar>
+                <Label Text="Defense" Style="{StaticResource LabelInfo}"></Label>
+                <Frame Style="{StaticResource FrameProgressBar}">
+                    <ProgressBar Progress="{Binding Defense}" Style="{StaticResource ProgressBar}"></ProgressBar>
                 </Frame>
-                <Label Text="Magic" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
-                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
-                    <ProgressBar Progress="{Binding Magic}" ScaleY="3" ProgressColor="#122e2f"></ProgressBar>
+                <Label Text="Magic" Style="{StaticResource LabelInfo}"></Label>
+                <Frame Style="{StaticResource FrameProgressBar}">
+                    <ProgressBar Progress="{Binding Magic}" Style="{StaticResource ProgressBar}"></ProgressBar>
                 </Frame>
-                <Label Text="Difficulty" FontSize="15" FontAttributes="Bold" TextColor="#ae914b" Margin="15,0,0,0"></Label>
-                <Frame HasShadow="False" HeightRequest="10" CornerRadius="5" Padding="0" Margin="15,0,250,0" BackgroundColor="#ae914b" IsClippedToBounds="True">
-                    <ProgressBar Progress="{Binding Difficulty}" ScaleY="3" ProgressColor="#122e2f"></ProgressBar>
+                <Label Text="Difficulty" Style="{StaticResource LabelInfo}"></Label>
+                <Frame Style="{StaticResource FrameProgressBar}">
+                    <ProgressBar Progress="{Binding Difficulty}" Style="{StaticResource ProgressBar}"></ProgressBar>
                 </Frame>
             </StackLayout>
             <!---Tips-->
             <StackLayout Grid.Row="4" Grid.Column="0" Orientation="Vertical" BindingContext="{Binding Tips}">
-                <Frame Margin="15,0,120,0" Padding="0,5" BackgroundColor="#ae914b" CornerRadius="20">
-                    <Label Grid.Row="5" Grid.Column="0" Text="Ally tips" FontSize="20" TextColor="#122e2f" HorizontalOptions="Center" FontAttributes="Bold" Margin="15,0,0,0"></Label>
+                <Frame Style="{StaticResource FrameTips}">
+                    <Label Grid.Row="5" Grid.Column="0" Text="Ally tips" Style="{StaticResource LabelTips}"></Label>
                 </Frame>
                 <StackLayout Orientation="Vertical" BindingContext="{Binding AllyTips}">
-                    <Label Text="{Binding FirstTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"></Label>
-                    <Label Text="{Binding SecondTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"></Label>
-                    <Label Text="{Binding ThirdTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"></Label>
+                    <Label Text="{Binding FirstTip}" Style="{StaticResource LabelResultTips}"></Label>
+                    <Label Text="{Binding SecondTip}" Style="{StaticResource LabelResultTips}"></Label>
+                    <Label Text="{Binding ThirdTip}" Style="{StaticResource LabelResultTips}"></Label>
                 </StackLayout>
-                <Frame Margin="15,10,120,0" Padding="0,5" BackgroundColor="#ae914b" CornerRadius="20">
-                    <Label Grid.Row="5" Grid.Column="0" Text="Enemy Tips" FontSize="20" TextColor="#122e2f" HorizontalOptions="Center" FontAttributes="Bold" Margin="15,0,0,0"></Label>
+                <Frame Style="{StaticResource FrameTips}">
+                    <Label Grid.Row="5" Grid.Column="0" Text="Enemy Tips" Style="{StaticResource LabelTips}"></Label>
                 </Frame>
                 <StackLayout Orientation="Vertical" BindingContext="{Binding EnemyTips}">
-                    <Label Text="{Binding FirstTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"></Label>
-                    <Label Text="{Binding SecondTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,0"></Label>
-                    <Label Text="{Binding ThirdTip}" FontSize="20" TextColor="#ae914b" FontAttributes="Italic" Margin="15,5,0,20"></Label>
+                    <Label Text="{Binding FirstTip}" Style="{StaticResource LabelResultTips}"></Label>
+                    <Label Text="{Binding SecondTip}" Style="{StaticResource LabelResultTips}"></Label>
+                    <Label Text="{Binding ThirdTip}" Style="{StaticResource LabelResultTips}"></Label>
                 </StackLayout>
             </StackLayout>
-            <!--<Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Text="Tips" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>
-            <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" TextColor="#ae914b" FontAttributes="Italic" Margin="15,-20,5,25"></Label>-->
-            <!---tips against-->
-            <!--<Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" Text="Tips Against" FontSize="20" TextColor="#ae914b" TextDecorations="Underline" FontAttributes="Bold" Margin="15,0,0,0"></Label>
-            <Label Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" FontSize="18" TextColor="#ae914b" FontAttributes="Italic" Margin="15,-20,5,25"></Label>-->
-            
-            <!--<BoxView BackgroundColor="Blue" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"></BoxView>
-            <BoxView BackgroundColor="Purple" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3"></BoxView>-->
         </Grid>
     </ScrollView>
 </ContentPage>

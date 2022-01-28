@@ -2,20 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Legends.LegendsPage" Title="Legends" Style="{StaticResource BackgroundColor}">
-
-    <!--<ScrollView>
-        <StackLayout>
-            <FlexLayout Direction="Row" Wrap="Wrap" JustifyContent="SpaceEvenly">
-                <ListView x:Name="ListViewLegends">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ImageCell Text="{Binding Name}" ImageSource="{Binding ImageUrl}"/>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-            </FlexLayout>
-        </StackLayout>
-    </ScrollView>-->
+    
     <ScrollView>
         <FlexLayout x:Name="flexList" Wrap="Wrap" JustifyContent="SpaceAround">
             

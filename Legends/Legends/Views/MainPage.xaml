@@ -8,7 +8,7 @@
     </FlyoutPage.Flyout>
 
     <FlyoutPage.Detail>
-        <NavigationPage BarBackground="#112120">
+        <NavigationPage Style="{StaticResource BarBackground}">
             <x:Arguments>
                 <local:HomePage/>
             </x:Arguments>
