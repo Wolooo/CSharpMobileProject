@@ -39,15 +39,35 @@ Het json-bestand een beetje opgekuist.
 Ik heb klassen gemaakt voor abilities te initialiseren om er morgen aan te beginnen.
   
 <b>25/01/2022:<b>
-De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 en had een verwijzing naar de images in bron 3. Ik heb 157 champions en elke champion heeft 5 abilities: Passive, Q-Spell, W-Spell, E-Spell en R-Spell.
+De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 en hadden een verwijzing naar de images in bron 3. Ik heb 157 champions en elke champion heeft 5 abilities: Passive, Q-Spell, W-Spell, E-Spell en R-Spell. Mijn eerste probleem was hoe ik meer dan 700 images van de api kon afhalen. Ik heb hiervoor python gebruikt:
+<img src="screenshots/PythonScript.png" width="100"><br>
+In nog geen 5 minuten had ik al mijn images. Het enige wat mijn nog te doen stond was alle gegevens opnemen in mijn eigen json-bestand dit was ook een hele uitdaging omdat dit veel was want elke ability had zijn eigen naam, beschrijving en imageurl. Hier ben ik ook ingeslaagd door python te gebruiken.
+<img src="screenshots/pythonScriptAbilities.png" width="100"><br>
+De output heb ik gekopieert en geplakt in mijn json-bestand.<br>
+<img src="screenshots/PythonOutputAbilites.png" width="100"><br>
+Voor de output van json-data heb ik een beetje valsgespeeld door trial en error met mijn prints.
   
-## Link video
-## Bronnen
+Voor zowel het ophalen van de foto's als het genereren van de data, heb ik volledig zelf gedaan met de kennis van python dat ik al had.
 
+Splash screen gemaakt met de hulp van bron 6.
+  
+<b>26/01/2022:<b><br>
+Een logo toegevoegd aan de splashscreen. Extra Flyout aan mijn home pagina toegevoegd. Lore pagina gemaakt en extra patchnotes toegevoegd in webview.
+  
+<b>28/01/2022:<b><br>
+Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. Het was me helaas niet meer gelukt om een logout en profiel pagina te maken.µ
+
+## Link video
+
+  
+## Bronnen
 1: https://developer.riotgames.com/docs/lol<br>
 2: http://ddragon.leagueoflegends.com/cdn/11.19.1/data/en_US/champion.json<br>
 3: http://ddragon.leagueoflegends.com/cdn/12.1.1/data/en_US/champion/Aatrox.json<br>
 4: http://ddragon.leagueoflegends.com/cdn/12.1.1/img/passive/Aatrox_Passive.png<br>
 5: https://ddragon.leagueoflegends.com/cdn/dragontail-10.10.5.zip<br>
+6: https://www.youtube.com/watch?v=7KOAXV0vP3g
+7: https://www.youtube.com/watch?v=8JQSd9sF3XI
+8: https://www.youtube.com/watch?v=TuN8Y9sUCmw
 
 Login: https://www.youtube.com/watch?v=8JQSd9sF3XI
