@@ -66,8 +66,8 @@ Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. 
 3: http://ddragon.leagueoflegends.com/cdn/12.1.1/data/en_US/champion/Aatrox.json<br>
 4: http://ddragon.leagueoflegends.com/cdn/12.1.1/img/passive/Aatrox_Passive.png<br>
 5: https://ddragon.leagueoflegends.com/cdn/dragontail-10.10.5.zip<br>
-6: https://www.youtube.com/watch?v=7KOAXV0vP3g
-7: https://www.youtube.com/watch?v=8JQSd9sF3XI
-8: https://www.youtube.com/watch?v=TuN8Y9sUCmw
+6: https://www.youtube.com/watch?v=7KOAXV0vP3g<br>
+7: https://www.youtube.com/watch?v=8JQSd9sF3XI<br>
+8: https://www.youtube.com/watch?v=TuN8Y9sUCmw<br>
 
 Login: https://www.youtube.com/watch?v=8JQSd9sF3XI
