@@ -47,7 +47,7 @@ De output heb ik gekopieert en geplakt in mijn json-bestand.<br>
 <img src="Screenshots/PythonOutputAbilites.png" width="500" height="200"><br>
 Voor de output van json-data heb ik een beetje valsgespeeld door trial en error met mijn prints.
   
-Voor zowel het ophalen van de foto's als het genereren van de data, heb ik volledig zelf gedaan met de kennis van python dat ik al had.
+Voor zowel het ophalen van de foto's als het genereren van de data, heb ik volledig zelf gedaan met de kennis van python dat ik al had. De map met alle images is nog geen 40MB groot.
 
 Splash screen gemaakt met de hulp van bron 6.
   
