@@ -58,7 +58,7 @@ Een logo toegevoegd aan de splashscreen. Extra Flyout aan mijn home pagina toege
 Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. Het was me helaas niet meer gelukt om een logout en profiel pagina te maken.µ
 
 ## Screenshots App
-<img src="Screenshots/Homepage.png" width="100">
+<img src="Screenshots/HomePage.png" width="100">
   
 ## Link video
 
