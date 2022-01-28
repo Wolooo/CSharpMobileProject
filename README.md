@@ -39,9 +39,9 @@ Het json-bestand een beetje opgekuist.
 Ik heb klassen gemaakt voor abilities te initialiseren om er morgen aan te beginnen.
   
 <b>25/01/2022:<b>
-De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 en hadden een verwijzing naar de images in bron 3. Ik heb 157 champions en elke champion heeft 5 abilities: Passive, Q-Spell, W-Spell, E-Spell en R-Spell. Mijn eerste probleem was hoe ik meer dan 700 images van de api kon afhalen. Ik heb hiervoor python gebruikt:
+De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 en hadden een verwijzing naar de images in bron 3. Ik heb 157 champions en elke champion heeft 5 abilities: Passive, Q-Spell, W-Spell, E-Spell en R-Spell. Mijn eerste probleem was hoe ik meer dan 700 images van de api kon afhalen. Ik heb hiervoor python gebruikt:<br>
 <img src="Screenshots/PythonScript.png" width="400" height="180"><br>
-In nog geen 5 minuten had ik al mijn images. Het enige wat mijn nog te doen stond was alle gegevens opnemen in mijn eigen json-bestand dit was ook een hele uitdaging omdat dit veel was want elke ability had zijn eigen naam, beschrijving en imageurl. Hier ben ik ook ingeslaagd door python te gebruiken.
+In nog geen 5 minuten had ik al mijn images. Het enige wat mijn nog te doen stond was alle gegevens opnemen in mijn eigen json-bestand dit was ook een hele uitdaging omdat dit veel was want elke ability had zijn eigen naam, beschrijving en imageurl. Hier ben ik ook ingeslaagd door python te gebruiken.<br>
 <img src="Screenshots/pythonScriptAbilities.png" width="400" height="180"><br>
 De output heb ik gekopieert en geplakt in mijn json-bestand.<br>
 <img src="Screenshots/PythonOutputAbilites.png" width="400" height="180"><br>
