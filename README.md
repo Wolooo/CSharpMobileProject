@@ -44,10 +44,10 @@ De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 
 ## Link video
 ## Bronnen
 
-1: https://developer.riotgames.com/docs/lol
-2: http://ddragon.leagueoflegends.com/cdn/11.19.1/data/en_US/champion.json
-3: http://ddragon.leagueoflegends.com/cdn/12.1.1/data/en_US/champion/Aatrox.json
-4: http://ddragon.leagueoflegends.com/cdn/12.1.1/img/passive/Aatrox_Passive.png
-5: https://ddragon.leagueoflegends.com/cdn/dragontail-10.10.5.zip
+1: https://developer.riotgames.com/docs/lol<br>
+2: http://ddragon.leagueoflegends.com/cdn/11.19.1/data/en_US/champion.json<br>
+3: http://ddragon.leagueoflegends.com/cdn/12.1.1/data/en_US/champion/Aatrox.json<br>
+4: http://ddragon.leagueoflegends.com/cdn/12.1.1/img/passive/Aatrox_Passive.png<br>
+5: https://ddragon.leagueoflegends.com/cdn/dragontail-10.10.5.zip<br>
 
 Login: https://www.youtube.com/watch?v=8JQSd9sF3XI
