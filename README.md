@@ -70,7 +70,8 @@ Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. 
 <img src="Screenshots/Register.png" width="200">
   
 ## Link video
-
+  
+https://youtu.be/c09pTyElxbs
   
 ## Bronnen
 1: https://developer.riotgames.com/docs/lol<br>
