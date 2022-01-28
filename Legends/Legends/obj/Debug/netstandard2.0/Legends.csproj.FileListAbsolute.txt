@@ -40,4 +40,6 @@ C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\FlyoutMenuPage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\HomePage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\PatchNotes.xaml.g.cs
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\RegistrationPage.xaml.g.cs
+C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Helpers\LoginPage.xaml.g.cs
 C:\Users\Gebruiker\source\repos\project-abc-2122-Wolooo\Legends\Legends\Legends\obj\Debug\netstandard2.0\Legends.csproj.AssemblyReference.cache

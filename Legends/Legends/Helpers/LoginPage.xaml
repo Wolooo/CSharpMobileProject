@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Legends.Helpers.LoginPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <Entry Placeholder="Username" x:Name="EntryUser" Grid.Row="0"></Entry>
+                    <Entry Placeholder="Password" x:Name="EntryPassword" Grid.Row="1"></Entry>
+                    <Button x:Name="BtnLogin" Grid.Row="2" BackgroundColor="#0077be" TextColor="White" Text="Login" Clicked="BtnLogin_Clicked"></Button>
+                    <Button x:Name="BtnRegister" Text="Register" Grid.Row="3" Clicked="BtnRegister_Clicked"></Button>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -2,15 +2,22 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Legends.Helpers"
+             xmlns:ViewModel="clr-namespace:Legends.ViewModel"
              Title="Flyout Menu" 
              x:Class="Legends.Helpers.FlyoutMenuPage" BackgroundColor="#122e2f">
+    <ContentPage.BindingContext>
+        <ViewModel:FlyoutMenuViewModel></ViewModel:FlyoutMenuViewModel>
+    </ContentPage.BindingContext>
     <StackLayout>
+        <Label Margin="20,10,0,0" Text="{Binding Username}" BackgroundColor="#122e2f" TextColor="#ae914b" FontSize="25" VerticalOptions="Center"></Label>
         <ListView x:Name="listview" x:FieldModifier="public">
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:FlyoutItemPage}">
                     <!--Hier nieuwe lijn kopieren voor nieuwe items toe te voegen-->
                     <local:FlyoutItemPage Title="Home" IconSource="Home.png" TargetPage="{x:Type local:HomePage}" />
                     <local:FlyoutItemPage Title="Patchnotes" IconSource="patchnote.png" TargetPage="{x:Type local:PatchNotes}" />
+                    <local:FlyoutItemPage Title="Register" IconSource="userRegisterIcon.png" TargetPage="{x:Type local:RegistrationPage}" />                    
+                    <local:FlyoutItemPage Title="Login" IconSource="UserIcon.png" TargetPage="{x:Type local:LoginPage}" />                    
                 </x:Array>
             </ListView.ItemsSource>
             <ListView.ItemTemplate>

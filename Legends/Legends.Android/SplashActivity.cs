@@ -30,7 +30,7 @@ namespace Legends.Droid
 
         private async Task SimulateStartup()
         {
-            await Task.Delay(TimeSpan.FromSeconds(8));
+            await Task.Delay(TimeSpan.FromSeconds(4));
             StartActivity(new Intent(Application.Context, typeof(MainActivity)));
         }
     }
