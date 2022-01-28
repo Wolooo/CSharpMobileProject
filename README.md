@@ -59,6 +59,11 @@ Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. 
 
 ## Screenshots App
 <img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/HomePage.png" width="200">
   
 ## Link video
 
