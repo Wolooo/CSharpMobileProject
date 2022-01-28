@@ -59,11 +59,15 @@ Basis functionaliteit van een login en registratie met de hulp van bron 7 en 8. 
 
 ## Screenshots App
 <img src="Screenshots/HomePage.png" width="200">
-<img src="Screenshots/HomePage.png" width="200">
-<img src="Screenshots/HomePage.png" width="200">
-<img src="Screenshots/HomePage.png" width="200">
-<img src="Screenshots/HomePage.png" width="200">
-<img src="Screenshots/HomePage.png" width="200">
+<img src="Screenshots/FlyoutPage.png" width="200">
+<img src="Screenshots/Patchnotes.png" width="200">
+<img src="Screenshots/LegendsPage.png" width="200">
+<img src="Screenshots/DetailsPage.png" width="200">
+<img src="Screenshots/DetailsPage2.png" width="200">
+<img src="Screenshots/AbilitiesPage.png" width="200">
+<img src="Screenshots/LorePage.png" width="200">
+<img src="Screenshots/Login.png" width="200">
+<img src="Screenshots/Register.png" width="200">
   
 ## Link video
 
