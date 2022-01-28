@@ -44,7 +44,7 @@ De afbeeldingen van alle abilities van elke champions had ik gevonden in bron 4 
 In nog geen 5 minuten had ik al mijn images. Het enige wat mijn nog te doen stond was alle gegevens opnemen in mijn eigen json-bestand dit was ook een hele uitdaging omdat dit veel was want elke ability had zijn eigen naam, beschrijving en imageurl. Hier ben ik ook ingeslaagd door python te gebruiken.
 <img src="Screenshots/pythonScriptAbilities.png" width="100"><br>
 De output heb ik gekopieert en geplakt in mijn json-bestand.<br>
-<img src="Screenshots/PythonOutputAbilites.png" width="100"><br>
+<img src="Screenshots/PythonOutputAbilites.png" width="300"><br>
 Voor de output van json-data heb ik een beetje valsgespeeld door trial en error met mijn prints.
   
 Voor zowel het ophalen van de foto's als het genereren van de data, heb ik volledig zelf gedaan met de kennis van python dat ik al had.
